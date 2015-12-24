@@ -1,0 +1,257 @@
+year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_result,home_team,home_city,home_name,home_line,home_score,home_ats_result
+2012,1,2012-09-05 20:30:00,DAL,Dallas,Cowboys,,24,win,NYG,New York,Giants,,17,lose
+2012,1,2012-09-09 13:00:00,PHI,Philadelphia,Eagles,,17,win,CLE,Cleveland,Browns,,16,lose
+2012,1,2012-09-09 13:00:00,NE,New England,Patriots,,34,win,TEN,Tennessee,Titans,,13,lose
+2012,1,2012-09-09 13:00:00,PIT,Pittsburgh,Steelers,,19,lose,DEN,Denver,Broncos,,31,win
+2012,1,2012-09-09 13:00:00,SF,San Francisco,49ers,,30,win,GB,Green Bay,Packers,,22,lose
+2012,1,2012-09-09 13:00:00,SEA,Seattle,Seahawks,,16,lose,ARI,Arizona,Cardinals,,20,win
+2012,1,2012-09-09 13:00:00,WAS,Washington,Redskins,,40,win,NO,New Orleans,Saints,,32,lose
+2012,1,2012-09-09 13:00:00,IND,Indianapolis,Colts,,21,lose,CHI,Chicago,Bears,,41,win
+2012,1,2012-09-09 13:00:00,ATL,Atlanta,Falcons,,40,win,KC,Kansas City,Chiefs,,24,lose
+2012,1,2012-09-09 13:00:00,MIA,Miami,Dolphins,,10,lose,HOU,Houston,Texans,,30,win
+2012,1,2012-09-09 13:00:00,STL,St. Louis,Rams,,23,lose,DET,Detroit,Lions,,27,win
+2012,1,2012-09-09 13:00:00,CAR,Carolina,Panthers,,10,lose,TB,Tampa Bay,Buccaneers,,16,win
+2012,1,2012-09-09 13:00:00,JAC,Jacksonville,Jaguars,,23,lose,MIN,Minnesota,Vikings,,26,win
+2012,1,2012-09-09 13:00:00,BUF,Buffalo,Bills,,28,lose,NYJ,New York,Jets,,48,win
+2012,1,2012-09-10 20:30:00,CIN,Cincinnati,Bengals,,13,lose,BAL,Baltimore,Ravens,,44,win
+2012,1,2012-09-10 20:30:00,SD,San Diego,Chargers,,22,win,OAK,Oakland,Raiders,,14,lose
+2012,2,2012-09-13 20:30:00,CHI,Chicago,Bears,,10,lose,GB,Green Bay,Packers,,23,win
+2012,2,2012-09-16 13:00:00,TB,Tampa Bay,Buccaneers,,34,lose,NYG,New York,Giants,,41,win
+2012,2,2012-09-16 13:00:00,OAK,Oakland,Raiders,,13,lose,MIA,Miami,Dolphins,,35,win
+2012,2,2012-09-16 13:00:00,NO,New Orleans,Saints,,27,lose,CAR,Carolina,Panthers,,35,win
+2012,2,2012-09-16 13:00:00,DAL,Dallas,Cowboys,,7,lose,SEA,Seattle,Seahawks,,27,win
+2012,2,2012-09-16 13:00:00,KC,Kansas City,Chiefs,,17,lose,BUF,Buffalo,Bills,,35,win
+2012,2,2012-09-16 13:00:00,CLE,Cleveland,Browns,,27,lose,CIN,Cincinnati,Bengals,,34,win
+2012,2,2012-09-16 13:00:00,ARI,Arizona,Cardinals,,20,win,NE,New England,Patriots,,18,lose
+2012,2,2012-09-16 13:00:00,HOU,Houston,Texans,,27,win,JAC,Jacksonville,Jaguars,,7,lose
+2012,2,2012-09-16 13:00:00,BAL,Baltimore,Ravens,,23,lose,PHI,Philadelphia,Eagles,,24,win
+2012,2,2012-09-16 13:00:00,MIN,Minnesota,Vikings,,20,lose,IND,Indianapolis,Colts,,23,win
+2012,2,2012-09-16 13:00:00,NYJ,New York,Jets,,10,lose,PIT,Pittsburgh,Steelers,,27,win
+2012,2,2012-09-16 13:00:00,WAS,Washington,Redskins,,28,lose,STL,St. Louis,Rams,,31,win
+2012,2,2012-09-16 13:00:00,TEN,Tennessee,Titans,,10,lose,SD,San Diego,Chargers,,38,win
+2012,2,2012-09-16 13:00:00,DET,Detroit,Lions,,19,lose,SF,San Francisco,49ers,,27,win
+2012,2,2012-09-17 20:30:00,DEN,Denver,Broncos,,21,lose,ATL,Atlanta,Falcons,,27,win
+2012,3,2012-09-20 20:30:00,NYG,New York,Giants,,36,win,CAR,Carolina,Panthers,,7,lose
+2012,3,2012-09-23 13:00:00,PIT,Pittsburgh,Steelers,,31,lose,OAK,Oakland,Raiders,,34,win
+2012,3,2012-09-23 13:00:00,STL,St. Louis,Rams,,6,lose,CHI,Chicago,Bears,,23,win
+2012,3,2012-09-23 13:00:00,JAC,Jacksonville,Jaguars,,22,win,IND,Indianapolis,Colts,,17,lose
+2012,3,2012-09-23 13:00:00,DET,Detroit,Lions,,41,lose,TEN,Tennessee,Titans,,44,win
+2012,3,2012-09-23 13:00:00,SF,San Francisco,49ers,,13,lose,MIN,Minnesota,Vikings,,24,win
+2012,3,2012-09-23 13:00:00,ATL,Atlanta,Falcons,,27,win,SD,San Diego,Chargers,,3,lose
+2012,3,2012-09-23 13:00:00,NE,New England,Patriots,,30,lose,BAL,Baltimore,Ravens,,31,win
+2012,3,2012-09-23 13:00:00,NYJ,New York,Jets,,23,win,MIA,Miami,Dolphins,,20,lose
+2012,3,2012-09-23 13:00:00,PHI,Philadelphia,Eagles,,6,lose,ARI,Arizona,Cardinals,,27,win
+2012,3,2012-09-23 13:00:00,CIN,Cincinnati,Bengals,,38,win,WAS,Washington,Redskins,,31,lose
+2012,3,2012-09-23 13:00:00,HOU,Houston,Texans,,31,win,DEN,Denver,Broncos,,25,lose
+2012,3,2012-09-23 13:00:00,TB,Tampa Bay,Buccaneers,,10,lose,DAL,Dallas,Cowboys,,16,win
+2012,3,2012-09-23 13:00:00,KC,Kansas City,Chiefs,,27,win,NO,New Orleans,Saints,,24,lose
+2012,3,2012-09-23 13:00:00,BUF,Buffalo,Bills,,24,win,CLE,Cleveland,Browns,,14,lose
+2012,3,2012-09-24 20:30:00,GB,Green Bay,Packers,,12,lose,SEA,Seattle,Seahawks,,14,win
+2012,4,2012-09-27 20:30:00,CLE,Cleveland,Browns,,16,lose,BAL,Baltimore,Ravens,,23,win
+2012,4,2012-09-30 13:00:00,SEA,Seattle,Seahawks,,13,lose,STL,St. Louis,Rams,,19,win
+2012,4,2012-09-30 13:00:00,CIN,Cincinnati,Bengals,,27,win,JAC,Jacksonville,Jaguars,,10,lose
+2012,4,2012-09-30 13:00:00,MIN,Minnesota,Vikings,,20,win,DET,Detroit,Lions,,13,lose
+2012,4,2012-09-30 13:00:00,TEN,Tennessee,Titans,,14,lose,HOU,Houston,Texans,,38,win
+2012,4,2012-09-30 13:00:00,WAS,Washington,Redskins,,24,win,TB,Tampa Bay,Buccaneers,,22,lose
+2012,4,2012-09-30 13:00:00,SD,San Diego,Chargers,,37,win,KC,Kansas City,Chiefs,,20,lose
+2012,4,2012-09-30 13:00:00,SF,San Francisco,49ers,,34,win,NYJ,New York,Jets,,0,lose
+2012,4,2012-09-30 13:00:00,MIA,Miami,Dolphins,,21,lose,ARI,Arizona,Cardinals,,24,win
+2012,4,2012-09-30 13:00:00,NYG,New York,Giants,,17,lose,PHI,Philadelphia,Eagles,,19,win
+2012,4,2012-09-30 13:00:00,CAR,Carolina,Panthers,,28,lose,ATL,Atlanta,Falcons,,30,win
+2012,4,2012-09-30 13:00:00,NO,New Orleans,Saints,,27,lose,GB,Green Bay,Packers,,28,win
+2012,4,2012-09-30 13:00:00,OAK,Oakland,Raiders,,6,lose,DEN,Denver,Broncos,,37,win
+2012,4,2012-09-30 13:00:00,NE,New England,Patriots,,52,win,BUF,Buffalo,Bills,,28,lose
+2012,4,2012-10-01 20:30:00,CHI,Chicago,Bears,,34,win,DAL,Dallas,Cowboys,,18,lose
+2012,5,2012-10-04 20:30:00,ARI,Arizona,Cardinals,,3,lose,STL,St. Louis,Rams,,17,win
+2012,5,2012-10-07 13:00:00,GB,Green Bay,Packers,,27,lose,IND,Indianapolis,Colts,,30,win
+2012,5,2012-10-07 13:00:00,PHI,Philadelphia,Eagles,,14,lose,PIT,Pittsburgh,Steelers,,16,win
+2012,5,2012-10-07 13:00:00,SD,San Diego,Chargers,,24,lose,NO,New Orleans,Saints,,31,win
+2012,5,2012-10-07 13:00:00,DEN,Denver,Broncos,,21,lose,NE,New England,Patriots,,31,win
+2012,5,2012-10-07 13:00:00,BUF,Buffalo,Bills,,3,lose,SF,San Francisco,49ers,,45,win
+2012,5,2012-10-07 13:00:00,TEN,Tennessee,Titans,,7,lose,MIN,Minnesota,Vikings,,30,win
+2012,5,2012-10-07 13:00:00,CHI,Chicago,Bears,,41,win,JAC,Jacksonville,Jaguars,,3,lose
+2012,5,2012-10-07 13:00:00,ATL,Atlanta,Falcons,,24,win,WAS,Washington,Redskins,,17,lose
+2012,5,2012-10-07 13:00:00,MIA,Miami,Dolphins,,17,win,CIN,Cincinnati,Bengals,,13,lose
+2012,5,2012-10-07 13:00:00,BAL,Baltimore,Ravens,,9,win,KC,Kansas City,Chiefs,,6,lose
+2012,5,2012-10-07 13:00:00,CLE,Cleveland,Browns,,27,lose,NYG,New York,Giants,,41,win
+2012,5,2012-10-07 13:00:00,SEA,Seattle,Seahawks,,16,win,CAR,Carolina,Panthers,,12,lose
+2012,5,2012-10-08 20:30:00,HOU,Houston,Texans,,23,win,NYJ,New York,Jets,,17,lose
+2012,6,2012-10-11 20:30:00,PIT,Pittsburgh,Steelers,,23,lose,TEN,Tennessee,Titans,,26,win
+2012,6,2012-10-14 13:00:00,DAL,Dallas,Cowboys,,29,lose,BAL,Baltimore,Ravens,,31,win
+2012,6,2012-10-14 13:00:00,IND,Indianapolis,Colts,,9,lose,NYJ,New York,Jets,,35,win
+2012,6,2012-10-14 13:00:00,DET,Detroit,Lions,,26,win,PHI,Philadelphia,Eagles,,23,lose
+2012,6,2012-10-14 13:00:00,GB,Green Bay,Packers,,42,win,HOU,Houston,Texans,,24,lose
+2012,6,2012-10-14 13:00:00,NYG,New York,Giants,,26,win,SF,San Francisco,49ers,,3,lose
+2012,6,2012-10-14 13:00:00,KC,Kansas City,Chiefs,,10,lose,TB,Tampa Bay,Buccaneers,,38,win
+2012,6,2012-10-14 13:00:00,NE,New England,Patriots,,23,lose,SEA,Seattle,Seahawks,,24,win
+2012,6,2012-10-14 13:00:00,BUF,Buffalo,Bills,,19,win,ARI,Arizona,Cardinals,,16,lose
+2012,6,2012-10-14 13:00:00,OAK,Oakland,Raiders,,20,lose,ATL,Atlanta,Falcons,,23,win
+2012,6,2012-10-14 13:00:00,STL,St. Louis,Rams,,14,lose,MIA,Miami,Dolphins,,17,win
+2012,6,2012-10-14 13:00:00,CIN,Cincinnati,Bengals,,24,lose,CLE,Cleveland,Browns,,34,win
+2012,6,2012-10-14 13:00:00,MIN,Minnesota,Vikings,,26,lose,WAS,Washington,Redskins,,38,win
+2012,6,2012-10-15 20:30:00,DEN,Denver,Broncos,,35,win,SD,San Diego,Chargers,,24,lose
+2012,7,2012-10-18 20:30:00,SEA,Seattle,Seahawks,,6,lose,SF,San Francisco,49ers,,13,win
+2012,7,2012-10-21 13:00:00,DAL,Dallas,Cowboys,,19,win,CAR,Carolina,Panthers,,14,lose
+2012,7,2012-10-21 13:00:00,JAC,Jacksonville,Jaguars,,23,lose,OAK,Oakland,Raiders,,26,win
+2012,7,2012-10-21 13:00:00,NO,New Orleans,Saints,,35,win,TB,Tampa Bay,Buccaneers,,28,lose
+2012,7,2012-10-21 13:00:00,BAL,Baltimore,Ravens,,13,lose,HOU,Houston,Texans,,43,win
+2012,7,2012-10-21 13:00:00,NYJ,New York,Jets,,26,lose,NE,New England,Patriots,,29,win
+2012,7,2012-10-21 13:00:00,PIT,Pittsburgh,Steelers,,24,win,CIN,Cincinnati,Bengals,,17,lose
+2012,7,2012-10-21 13:00:00,GB,Green Bay,Packers,,30,win,STL,St. Louis,Rams,,20,lose
+2012,7,2012-10-21 13:00:00,CLE,Cleveland,Browns,,13,lose,IND,Indianapolis,Colts,,17,win
+2012,7,2012-10-21 13:00:00,TEN,Tennessee,Titans,,35,win,BUF,Buffalo,Bills,,34,lose
+2012,7,2012-10-21 13:00:00,WAS,Washington,Redskins,,23,lose,NYG,New York,Giants,,27,win
+2012,7,2012-10-21 13:00:00,ARI,Arizona,Cardinals,,14,lose,MIN,Minnesota,Vikings,,21,win
+2012,7,2012-10-22 20:30:00,DET,Detroit,Lions,,7,lose,CHI,Chicago,Bears,,13,win
+2012,8,2012-10-25 20:30:00,TB,Tampa Bay,Buccaneers,,36,win,MIN,Minnesota,Vikings,,17,lose
+2012,8,2012-10-28 13:00:00,MIA,Miami,Dolphins,,30,win,NYJ,New York,Jets,,9,lose
+2012,8,2012-10-28 13:00:00,SEA,Seattle,Seahawks,,24,lose,DET,Detroit,Lions,,28,win
+2012,8,2012-10-28 13:00:00,NYG,New York,Giants,,29,win,DAL,Dallas,Cowboys,,24,lose
+2012,8,2012-10-28 13:00:00,NO,New Orleans,Saints,,14,lose,DEN,Denver,Broncos,,34,win
+2012,8,2012-10-28 13:00:00,IND,Indianapolis,Colts,,19,win,TEN,Tennessee,Titans,,13,lose
+2012,8,2012-10-28 13:00:00,CAR,Carolina,Panthers,,22,lose,CHI,Chicago,Bears,,23,win
+2012,8,2012-10-28 13:00:00,WAS,Washington,Redskins,,12,lose,PIT,Pittsburgh,Steelers,,27,win
+2012,8,2012-10-28 13:00:00,OAK,Oakland,Raiders,,26,win,KC,Kansas City,Chiefs,,16,lose
+2012,8,2012-10-28 13:00:00,ATL,Atlanta,Falcons,,30,win,PHI,Philadelphia,Eagles,,17,lose
+2012,8,2012-10-28 13:00:00,JAC,Jacksonville,Jaguars,,15,lose,GB,Green Bay,Packers,,24,win
+2012,8,2012-10-28 13:00:00,NE,New England,Patriots,,45,win,STL,St. Louis,Rams,,7,lose
+2012,8,2012-10-28 13:00:00,SD,San Diego,Chargers,,6,lose,CLE,Cleveland,Browns,,7,win
+2012,8,2012-10-29 20:30:00,SF,San Francisco,49ers,,24,win,ARI,Arizona,Cardinals,,3,lose
+2012,9,2012-11-01 20:30:00,KC,Kansas City,Chiefs,,13,lose,SD,San Diego,Chargers,,31,win
+2012,9,2012-11-04 13:00:00,DEN,Denver,Broncos,,31,win,CIN,Cincinnati,Bengals,,23,lose
+2012,9,2012-11-04 13:00:00,CAR,Carolina,Panthers,,21,win,WAS,Washington,Redskins,,13,lose
+2012,9,2012-11-04 13:00:00,MIA,Miami,Dolphins,,20,lose,IND,Indianapolis,Colts,,23,win
+2012,9,2012-11-04 13:00:00,BUF,Buffalo,Bills,,9,lose,HOU,Houston,Texans,,21,win
+2012,9,2012-11-04 13:00:00,CHI,Chicago,Bears,,51,win,TEN,Tennessee,Titans,,20,lose
+2012,9,2012-11-04 13:00:00,DET,Detroit,Lions,,31,win,JAC,Jacksonville,Jaguars,,14,lose
+2012,9,2012-11-04 13:00:00,DAL,Dallas,Cowboys,,13,lose,ATL,Atlanta,Falcons,,19,win
+2012,9,2012-11-04 13:00:00,TB,Tampa Bay,Buccaneers,,42,win,OAK,Oakland,Raiders,,32,lose
+2012,9,2012-11-04 13:00:00,BAL,Baltimore,Ravens,,25,win,CLE,Cleveland,Browns,,15,lose
+2012,9,2012-11-04 13:00:00,MIN,Minnesota,Vikings,,20,lose,SEA,Seattle,Seahawks,,30,win
+2012,9,2012-11-04 13:00:00,ARI,Arizona,Cardinals,,17,lose,GB,Green Bay,Packers,,31,win
+2012,9,2012-11-04 13:00:00,PIT,Pittsburgh,Steelers,,24,win,NYG,New York,Giants,,20,lose
+2012,9,2012-11-05 20:30:00,PHI,Philadelphia,Eagles,,13,lose,NO,New Orleans,Saints,,28,win
+2012,10,2012-11-08 20:30:00,IND,Indianapolis,Colts,,27,win,JAC,Jacksonville,Jaguars,,10,lose
+2012,10,2012-11-11 13:00:00,HOU,Houston,Texans,,13,win,CHI,Chicago,Bears,,6,lose
+2012,10,2012-11-11 13:00:00,OAK,Oakland,Raiders,,20,lose,BAL,Baltimore,Ravens,,55,win
+2012,10,2012-11-11 13:00:00,BUF,Buffalo,Bills,,31,lose,NE,New England,Patriots,,37,win
+2012,10,2012-11-11 13:00:00,NYG,New York,Giants,,13,lose,CIN,Cincinnati,Bengals,,31,win
+2012,10,2012-11-11 13:00:00,DAL,Dallas,Cowboys,,38,win,PHI,Philadelphia,Eagles,,23,lose
+2012,10,2012-11-11 13:00:00,STL,St. Louis,Rams,,24,push,SF,San Francisco,49ers,,24,push
+2012,10,2012-11-11 13:00:00,ATL,Atlanta,Falcons,,27,lose,NO,New Orleans,Saints,,31,win
+2012,10,2012-11-11 13:00:00,NYJ,New York,Jets,,7,lose,SEA,Seattle,Seahawks,,28,win
+2012,10,2012-11-11 13:00:00,SD,San Diego,Chargers,,24,lose,TB,Tampa Bay,Buccaneers,,34,win
+2012,10,2012-11-11 13:00:00,DEN,Denver,Broncos,,36,win,CAR,Carolina,Panthers,,14,lose
+2012,10,2012-11-11 13:00:00,DET,Detroit,Lions,,24,lose,MIN,Minnesota,Vikings,,34,win
+2012,10,2012-11-11 13:00:00,TEN,Tennessee,Titans,,37,win,MIA,Miami,Dolphins,,3,lose
+2012,10,2012-11-12 20:30:00,KC,Kansas City,Chiefs,,13,lose,PIT,Pittsburgh,Steelers,,16,win
+2012,11,2012-11-15 20:30:00,MIA,Miami,Dolphins,,14,lose,BUF,Buffalo,Bills,,19,win
+2012,11,2012-11-18 13:00:00,NYJ,New York,Jets,,27,win,STL,St. Louis,Rams,,13,lose
+2012,11,2012-11-18 13:00:00,TB,Tampa Bay,Buccaneers,,27,win,CAR,Carolina,Panthers,,21,lose
+2012,11,2012-11-18 13:00:00,CLE,Cleveland,Browns,,20,lose,DAL,Dallas,Cowboys,,23,win
+2012,11,2012-11-18 13:00:00,NO,New Orleans,Saints,,38,win,OAK,Oakland,Raiders,,17,lose
+2012,11,2012-11-18 13:00:00,IND,Indianapolis,Colts,,24,lose,NE,New England,Patriots,,59,win
+2012,11,2012-11-18 13:00:00,CIN,Cincinnati,Bengals,,28,win,KC,Kansas City,Chiefs,,6,lose
+2012,11,2012-11-18 13:00:00,BAL,Baltimore,Ravens,,13,win,PIT,Pittsburgh,Steelers,,10,lose
+2012,11,2012-11-18 13:00:00,GB,Green Bay,Packers,,24,win,DET,Detroit,Lions,,20,lose
+2012,11,2012-11-18 13:00:00,SD,San Diego,Chargers,,23,lose,DEN,Denver,Broncos,,30,win
+2012,11,2012-11-18 13:00:00,JAC,Jacksonville,Jaguars,,37,lose,HOU,Houston,Texans,,43,win
+2012,11,2012-11-18 13:00:00,ARI,Arizona,Cardinals,,19,lose,ATL,Atlanta,Falcons,,23,win
+2012,11,2012-11-18 13:00:00,PHI,Philadelphia,Eagles,,6,lose,WAS,Washington,Redskins,,31,win
+2012,11,2012-11-19 20:30:00,CHI,Chicago,Bears,,7,lose,SF,San Francisco,49ers,,32,win
+2012,12,2012-11-22 20:30:00,WAS,Washington,Redskins,,38,win,DAL,Dallas,Cowboys,,31,lose
+2012,12,2012-11-22 20:30:00,HOU,Houston,Texans,,34,win,DET,Detroit,Lions,,31,lose
+2012,12,2012-11-22 20:30:00,NE,New England,Patriots,,49,win,NYJ,New York,Jets,,19,lose
+2012,12,2012-11-25 13:00:00,BUF,Buffalo,Bills,,13,lose,IND,Indianapolis,Colts,,20,win
+2012,12,2012-11-25 13:00:00,DEN,Denver,Broncos,,17,win,KC,Kansas City,Chiefs,,9,lose
+2012,12,2012-11-25 13:00:00,PIT,Pittsburgh,Steelers,,14,lose,CLE,Cleveland,Browns,,20,win
+2012,12,2012-11-25 13:00:00,STL,St. Louis,Rams,,31,win,ARI,Arizona,Cardinals,,17,lose
+2012,12,2012-11-25 13:00:00,BAL,Baltimore,Ravens,,16,win,SD,San Diego,Chargers,,13,lose
+2012,12,2012-11-25 13:00:00,ATL,Atlanta,Falcons,,24,win,TB,Tampa Bay,Buccaneers,,23,lose
+2012,12,2012-11-25 13:00:00,SEA,Seattle,Seahawks,,21,lose,MIA,Miami,Dolphins,,24,win
+2012,12,2012-11-25 13:00:00,MIN,Minnesota,Vikings,,10,lose,CHI,Chicago,Bears,,28,win
+2012,12,2012-11-25 13:00:00,SF,San Francisco,49ers,,31,win,NO,New Orleans,Saints,,21,lose
+2012,12,2012-11-25 13:00:00,OAK,Oakland,Raiders,,10,lose,CIN,Cincinnati,Bengals,,34,win
+2012,12,2012-11-25 13:00:00,GB,Green Bay,Packers,,10,lose,NYG,New York,Giants,,38,win
+2012,12,2012-11-25 13:00:00,TEN,Tennessee,Titans,,19,lose,JAC,Jacksonville,Jaguars,,24,win
+2012,12,2012-11-26 20:30:00,CAR,Carolina,Panthers,,30,win,PHI,Philadelphia,Eagles,,22,lose
+2012,13,2012-11-29 20:30:00,NO,New Orleans,Saints,,13,lose,ATL,Atlanta,Falcons,,23,win
+2012,13,2012-12-02 13:00:00,PIT,Pittsburgh,Steelers,,23,win,BAL,Baltimore,Ravens,,20,lose
+2012,13,2012-12-02 13:00:00,NE,New England,Patriots,,23,win,MIA,Miami,Dolphins,,16,lose
+2012,13,2012-12-02 13:00:00,PHI,Philadelphia,Eagles,,33,lose,DAL,Dallas,Cowboys,,38,win
+2012,13,2012-12-02 13:00:00,TB,Tampa Bay,Buccaneers,,23,lose,DEN,Denver,Broncos,,31,win
+2012,13,2012-12-02 13:00:00,CLE,Cleveland,Browns,,20,win,OAK,Oakland,Raiders,,17,lose
+2012,13,2012-12-02 13:00:00,SF,San Francisco,49ers,,13,lose,STL,St. Louis,Rams,,16,win
+2012,13,2012-12-02 13:00:00,CIN,Cincinnati,Bengals,,20,win,SD,San Diego,Chargers,,13,lose
+2012,13,2012-12-02 13:00:00,SEA,Seattle,Seahawks,,23,win,CHI,Chicago,Bears,,17,lose
+2012,13,2012-12-02 13:00:00,HOU,Houston,Texans,,24,win,TEN,Tennessee,Titans,,10,lose
+2012,13,2012-12-02 13:00:00,MIN,Minnesota,Vikings,,14,lose,GB,Green Bay,Packers,,23,win
+2012,13,2012-12-02 13:00:00,ARI,Arizona,Cardinals,,6,lose,NYJ,New York,Jets,,7,win
+2012,13,2012-12-02 13:00:00,IND,Indianapolis,Colts,,35,win,DET,Detroit,Lions,,33,lose
+2012,13,2012-12-02 13:00:00,JAC,Jacksonville,Jaguars,,18,lose,BUF,Buffalo,Bills,,34,win
+2012,13,2012-12-02 13:00:00,CAR,Carolina,Panthers,,21,lose,KC,Kansas City,Chiefs,,27,win
+2012,13,2012-12-03 20:30:00,NYG,New York,Giants,,16,lose,WAS,Washington,Redskins,,17,win
+2012,14,2012-12-06 20:30:00,DEN,Denver,Broncos,,26,win,OAK,Oakland,Raiders,,13,lose
+2012,14,2012-12-09 13:00:00,KC,Kansas City,Chiefs,,7,lose,CLE,Cleveland,Browns,,30,win
+2012,14,2012-12-09 13:00:00,MIA,Miami,Dolphins,,13,lose,SF,San Francisco,49ers,,27,win
+2012,14,2012-12-09 13:00:00,SD,San Diego,Chargers,,34,win,PIT,Pittsburgh,Steelers,,24,lose
+2012,14,2012-12-09 13:00:00,DET,Detroit,Lions,,20,lose,GB,Green Bay,Packers,,27,win
+2012,14,2012-12-09 13:00:00,PHI,Philadelphia,Eagles,,23,win,TB,Tampa Bay,Buccaneers,,21,lose
+2012,14,2012-12-09 13:00:00,STL,St. Louis,Rams,,15,win,BUF,Buffalo,Bills,,12,lose
+2012,14,2012-12-09 13:00:00,ATL,Atlanta,Falcons,,20,lose,CAR,Carolina,Panthers,,30,win
+2012,14,2012-12-09 13:00:00,TEN,Tennessee,Titans,,23,lose,IND,Indianapolis,Colts,,27,win
+2012,14,2012-12-09 13:00:00,NYJ,New York,Jets,,17,win,JAC,Jacksonville,Jaguars,,10,lose
+2012,14,2012-12-09 13:00:00,NO,New Orleans,Saints,,27,lose,NYG,New York,Giants,,52,win
+2012,14,2012-12-09 13:00:00,ARI,Arizona,Cardinals,,0,lose,SEA,Seattle,Seahawks,,58,win
+2012,14,2012-12-09 13:00:00,BAL,Baltimore,Ravens,,28,lose,WAS,Washington,Redskins,,31,win
+2012,14,2012-12-09 13:00:00,DAL,Dallas,Cowboys,,20,win,CIN,Cincinnati,Bengals,,19,lose
+2012,14,2012-12-09 13:00:00,CHI,Chicago,Bears,,14,lose,MIN,Minnesota,Vikings,,21,win
+2012,14,2012-12-10 20:30:00,HOU,Houston,Texans,,14,lose,NE,New England,Patriots,,42,win
+2012,15,2012-12-13 20:30:00,CIN,Cincinnati,Bengals,,34,win,PHI,Philadelphia,Eagles,,13,lose
+2012,15,2012-12-16 13:00:00,SEA,Seattle,Seahawks,,50,win,BUF,Buffalo,Bills,,17,lose
+2012,15,2012-12-16 13:00:00,NYG,New York,Giants,,0,lose,ATL,Atlanta,Falcons,,34,win
+2012,15,2012-12-16 13:00:00,JAC,Jacksonville,Jaguars,,3,lose,MIA,Miami,Dolphins,,24,win
+2012,15,2012-12-16 13:00:00,DET,Detroit,Lions,,10,lose,ARI,Arizona,Cardinals,,38,win
+2012,15,2012-12-16 13:00:00,TB,Tampa Bay,Buccaneers,,0,lose,NO,New Orleans,Saints,,41,win
+2012,15,2012-12-16 13:00:00,PIT,Pittsburgh,Steelers,,24,lose,DAL,Dallas,Cowboys,,27,win
+2012,15,2012-12-16 13:00:00,MIN,Minnesota,Vikings,,36,win,STL,St. Louis,Rams,,22,lose
+2012,15,2012-12-16 13:00:00,DEN,Denver,Broncos,,34,win,BAL,Baltimore,Ravens,,17,lose
+2012,15,2012-12-16 13:00:00,WAS,Washington,Redskins,,38,win,CLE,Cleveland,Browns,,21,lose
+2012,15,2012-12-16 13:00:00,IND,Indianapolis,Colts,,17,lose,HOU,Houston,Texans,,29,win
+2012,15,2012-12-16 13:00:00,SF,San Francisco,49ers,,41,win,NE,New England,Patriots,,34,lose
+2012,15,2012-12-16 13:00:00,GB,Green Bay,Packers,,21,win,CHI,Chicago,Bears,,13,lose
+2012,15,2012-12-16 13:00:00,KC,Kansas City,Chiefs,,0,lose,OAK,Oakland,Raiders,,15,win
+2012,15,2012-12-16 13:00:00,CAR,Carolina,Panthers,,31,win,SD,San Diego,Chargers,,7,lose
+2012,15,2012-12-17 20:30:00,NYJ,New York,Jets,,10,lose,TEN,Tennessee,Titans,,14,win
+2012,16,2012-12-22 13:00:00,ATL,Atlanta,Falcons,,31,win,DET,Detroit,Lions,,18,lose
+2012,16,2012-12-23 13:00:00,CHI,Chicago,Bears,,28,win,ARI,Arizona,Cardinals,,13,lose
+2012,16,2012-12-23 13:00:00,NYG,New York,Giants,,14,lose,BAL,Baltimore,Ravens,,33,win
+2012,16,2012-12-23 13:00:00,TEN,Tennessee,Titans,,7,lose,GB,Green Bay,Packers,,55,win
+2012,16,2012-12-23 13:00:00,CLE,Cleveland,Browns,,12,lose,DEN,Denver,Broncos,,34,win
+2012,16,2012-12-23 13:00:00,WAS,Washington,Redskins,,27,win,PHI,Philadelphia,Eagles,,20,lose
+2012,16,2012-12-23 13:00:00,NE,New England,Patriots,,23,win,JAC,Jacksonville,Jaguars,,16,lose
+2012,16,2012-12-23 13:00:00,OAK,Oakland,Raiders,,6,lose,CAR,Carolina,Panthers,,17,win
+2012,16,2012-12-23 13:00:00,SD,San Diego,Chargers,,27,win,NYJ,New York,Jets,,17,lose
+2012,16,2012-12-23 13:00:00,SF,San Francisco,49ers,,13,lose,SEA,Seattle,Seahawks,,42,win
+2012,16,2012-12-23 13:00:00,NO,New Orleans,Saints,,34,win,DAL,Dallas,Cowboys,,31,lose
+2012,16,2012-12-23 13:00:00,BUF,Buffalo,Bills,,10,lose,MIA,Miami,Dolphins,,24,win
+2012,16,2012-12-23 13:00:00,MIN,Minnesota,Vikings,,23,win,HOU,Houston,Texans,,6,lose
+2012,16,2012-12-23 13:00:00,CIN,Cincinnati,Bengals,,13,win,PIT,Pittsburgh,Steelers,,10,lose
+2012,16,2012-12-23 13:00:00,STL,St. Louis,Rams,,28,win,TB,Tampa Bay,Buccaneers,,13,lose
+2012,16,2012-12-23 13:00:00,IND,Indianapolis,Colts,,20,win,KC,Kansas City,Chiefs,,13,lose
+2012,17,2012-12-30 13:00:00,OAK,Oakland,Raiders,,21,lose,SD,San Diego,Chargers,,24,win
+2012,17,2012-12-30 13:00:00,STL,St. Louis,Rams,,13,lose,SEA,Seattle,Seahawks,,20,win
+2012,17,2012-12-30 13:00:00,KC,Kansas City,Chiefs,,3,lose,DEN,Denver,Broncos,,38,win
+2012,17,2012-12-30 13:00:00,MIA,Miami,Dolphins,,0,lose,NE,New England,Patriots,,28,win
+2012,17,2012-12-30 13:00:00,PHI,Philadelphia,Eagles,,7,lose,NYG,New York,Giants,,42,win
+2012,17,2012-12-30 13:00:00,HOU,Houston,Texans,,16,lose,IND,Indianapolis,Colts,,28,win
+2012,17,2012-12-30 13:00:00,JAC,Jacksonville,Jaguars,,20,lose,TEN,Tennessee,Titans,,38,win
+2012,17,2012-12-30 13:00:00,ARI,Arizona,Cardinals,,13,lose,SF,San Francisco,49ers,,27,win
+2012,17,2012-12-30 13:00:00,CAR,Carolina,Panthers,,44,win,NO,New Orleans,Saints,,38,lose
+2012,17,2012-12-30 13:00:00,GB,Green Bay,Packers,,34,lose,MIN,Minnesota,Vikings,,37,win
+2012,17,2012-12-30 13:00:00,DAL,Dallas,Cowboys,,18,lose,WAS,Washington,Redskins,,28,win
+2012,17,2012-12-30 13:00:00,CHI,Chicago,Bears,,26,win,DET,Detroit,Lions,,24,lose
+2012,17,2012-12-30 13:00:00,CLE,Cleveland,Browns,,10,lose,PIT,Pittsburgh,Steelers,,24,win
+2012,17,2012-12-30 13:00:00,NYJ,New York,Jets,,9,lose,BUF,Buffalo,Bills,,28,win
+2012,17,2012-12-30 13:00:00,BAL,Baltimore,Ravens,,17,lose,CIN,Cincinnati,Bengals,,23,win
+2012,17,2012-12-30 13:00:00,TB,Tampa Bay,Buccaneers,,22,win,ATL,Atlanta,Falcons,,17,lose

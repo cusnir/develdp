@@ -1,0 +1,225 @@
+year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_result,home_team,home_city,home_name,home_line,home_score,home_ats_result,over_under,over_under_result
+2015,1,2015-09-10 20:30:00,PIT,Pittsburgh,Steelers,7,21,push,NE,New England,Patriots,-7,28,push,52.0,under
+2015,1,2015-09-13 13:00:00,GB,Green Bay,Packers,-7,31,win,CHI,Chicago,Bears,7,23,lose,49.0,under
+2015,1,2015-09-13 13:00:00,KC,Kansas City,Chiefs,1,27,win,HOU,Houston,Texans,-1,20,lose,41.0,under
+2015,1,2015-09-13 13:00:00,CLE,Cleveland,Browns,3.5,10,lose,NYJ,New York,Jets,-3.5,31,win,39.5,under
+2015,1,2015-09-13 13:00:00,IND,Indianapolis,Colts,-2.5,14,lose,BUF,Buffalo,Bills,2.5,27,win,46.0,under
+2015,1,2015-09-13 13:00:00,MIA,Miami,Dolphins,-3.5,17,win,WAS,Washington,Redskins,3.5,10,lose,43.5,under
+2015,1,2015-09-13 13:00:00,CAR,Carolina,Panthers,-3,20,win,JAC,Jacksonville,Jaguars,3,9,lose,41.0,under
+2015,1,2015-09-13 13:00:00,SEA,Seattle,Seahawks,-4,31,lose,STL,St. Louis,Rams,4,34,win,41.0,under
+2015,1,2015-09-13 16:05:00,NO,New Orleans,Saints,2.5,19,lose,ARI,Arizona,Cardinals,-2.5,31,win,48.0,under
+2015,1,2015-09-13 16:05:00,DET,Detroit,Lions,3,28,lose,SD,San Diego,Chargers,-3,33,win,45.5,under
+2015,1,2015-09-13 16:25:00,TEN,Tennessee,Titans,3,42,win,TB,Tampa Bay,Buccaneers,-3,14,lose,41.0,under
+2015,1,2015-09-13 16:25:00,CIN,Cincinnati,Bengals,-3,33,win,OAK,Oakland,Raiders,3,13,lose,43.0,under
+2015,1,2015-09-13 16:25:00,BAL,Baltimore,Ravens,4.5,13,lose,DEN,Denver,Broncos,-4.5,19,win,48.5,under
+2015,1,2015-09-13 20:30:00,NYG,New York,Giants,6.5,26,win,DAL,Dallas,Cowboys,-6.5,27,lose,51.5,under
+2015,1,2015-09-14 19:10:00,PHI,Philadelphia,Eagles,-3,24,lose,ATL,Atlanta,Falcons,3,26,win,56.0,under
+2015,1,2015-09-14 22:20:00,MIN,Minnesota,Vikings,-2.5,3,lose,SF,San Francisco,49ers,2.5,20,win,41.5,under
+2015,2,2015-09-17 20:25:00,DEN,Denver,Broncos,3,31,win,KC,Kansas City,Chiefs,-3,24,lose,41.5,under
+2015,2,2015-09-20 13:00:00,HOU,Houston,Texans,3,17,lose,CAR,Carolina,Panthers,-3,24,win,40.5,under
+2015,2,2015-09-20 13:00:00,SF,San Francisco,49ers,5.5,18,lose,PIT,Pittsburgh,Steelers,-5.5,42,win,45.5,under
+2015,2,2015-09-20 13:00:00,TB,Tampa Bay,Buccaneers,10,26,win,NO,New Orleans,Saints,-10,19,lose,47.0,under
+2015,2,2015-09-20 13:00:00,DET,Detroit,Lions,3,16,lose,MIN,Minnesota,Vikings,-3,26,win,44.0,under
+2015,2,2015-09-20 13:00:00,ARI,Arizona,Cardinals,-1.5,48,win,CHI,Chicago,Bears,1.5,23,lose,45.0,under
+2015,2,2015-09-20 13:00:00,NE,New England,Patriots,-1,40,win,BUF,Buffalo,Bills,1,32,lose,45.0,under
+2015,2,2015-09-20 13:00:00,SD,San Diego,Chargers,3,19,lose,CIN,Cincinnati,Bengals,-3,24,win,47.0,under
+2015,2,2015-09-20 13:00:00,TEN,Tennessee,Titans,-1,14,lose,CLE,Cleveland,Browns,1,28,win,41.5,under
+2015,2,2015-09-20 13:00:00,ATL,Atlanta,Falcons,2.5,24,win,NYG,New York,Giants,-2.5,20,lose,51.0,under
+2015,2,2015-09-20 13:00:00,STL,St. Louis,Rams,-3.5,10,lose,WAS,Washington,Redskins,3.5,24,win,41.0,under
+2015,2,2015-09-20 16:05:00,MIA,Miami,Dolphins,-6,20,lose,JAC,Jacksonville,Jaguars,6,23,win,41.5,under
+2015,2,2015-09-20 16:05:00,BAL,Baltimore,Ravens,-5.5,33,lose,OAK,Oakland,Raiders,5.5,37,win,43.0,under
+2015,2,2015-09-20 16:25:00,DAL,Dallas,Cowboys,5.5,20,win,PHI,Philadelphia,Eagles,-5.5,10,lose,55.0,under
+2015,2,2015-09-20 20:30:00,SEA,Seattle,Seahawks,3.5,17,lose,GB,Green Bay,Packers,-3.5,27,win,49.0,under
+2015,2,2015-09-21 20:30:00,NYJ,New York,Jets,7,20,win,IND,Indianapolis,Colts,-7,7,lose,47.0,under
+2015,3,2015-09-24 20:25:00,WAS,Washington,Redskins,3.5,21,lose,NYG,New York,Giants,-3.5,32,win,44.0,under
+2015,3,2015-09-27 13:00:00,ATL,Atlanta,Falcons,-2,39,win,DAL,Dallas,Cowboys,2,28,lose,45.0,under
+2015,3,2015-09-27 13:00:00,IND,Indianapolis,Colts,-3,35,lose,TEN,Tennessee,Titans,3,33,win,47.5,under
+2015,3,2015-09-27 13:00:00,OAK,Oakland,Raiders,3.5,27,win,CLE,Cleveland,Browns,-3.5,20,lose,42.5,under
+2015,3,2015-09-27 13:00:00,CIN,Cincinnati,Bengals,2.5,28,win,BAL,Baltimore,Ravens,-2.5,24,lose,44.5,under
+2015,3,2015-09-27 13:00:00,JAC,Jacksonville,Jaguars,13.5,17,lose,NE,New England,Patriots,-13.5,51,win,47.5,under
+2015,3,2015-09-27 13:00:00,NO,New Orleans,Saints,4.5,22,lose,CAR,Carolina,Panthers,-4.5,27,win,45.0,under
+2015,3,2015-09-27 13:00:00,PHI,Philadelphia,Eagles,2.5,24,win,NYJ,New York,Jets,-2.5,17,lose,47.5,under
+2015,3,2015-09-27 13:00:00,TB,Tampa Bay,Buccaneers,6.5,9,lose,HOU,Houston,Texans,-6.5,19,win,40.5,under
+2015,3,2015-09-27 13:00:00,SD,San Diego,Chargers,2.5,14,lose,MIN,Minnesota,Vikings,-2.5,31,win,45.0,under
+2015,3,2015-09-27 13:00:00,PIT,Pittsburgh,Steelers,-1.5,12,win,STL,St. Louis,Rams,1.5,6,lose,47.5,under
+2015,3,2015-09-27 16:05:00,SF,San Francisco,49ers,6.5,7,lose,ARI,Arizona,Cardinals,-6.5,47,win,43.5,under
+2015,3,2015-09-27 16:25:00,BUF,Buffalo,Bills,3,41,win,MIA,Miami,Dolphins,-3,14,lose,44.0,under
+2015,3,2015-09-27 16:25:00,CHI,Chicago,Bears,14.5,0,lose,SEA,Seattle,Seahawks,-14.5,26,win,43.5,under
+2015,3,2015-09-27 20:30:00,DEN,Denver,Broncos,-3,24,win,DET,Detroit,Lions,3,12,lose,44.5,under
+2015,3,2015-09-28 20:30:00,KC,Kansas City,Chiefs,6.5,28,lose,GB,Green Bay,Packers,-6.5,38,win,49.0,under
+2015,4,2015-10-01 20:25:00,BAL,Baltimore,Ravens,-3,23,push,PIT,Pittsburgh,Steelers,3,20,push,44.0,under
+2015,4,2015-10-04 09:30:00,NYJ,New York,Jets,-1.5,27,win,MIA,Miami,Dolphins,1.5,14,lose,42.5,under
+2015,4,2015-10-04 13:00:00,JAC,Jacksonville,Jaguars,9,13,win,IND,Indianapolis,Colts,-9,16,lose,48.0,under
+2015,4,2015-10-04 13:00:00,NYG,New York,Giants,5,24,win,BUF,Buffalo,Bills,-5,10,lose,45.5,under
+2015,4,2015-10-04 13:00:00,CAR,Carolina,Panthers,-3,37,win,TB,Tampa Bay,Buccaneers,3,23,lose,39.5,under
+2015,4,2015-10-04 13:00:00,PHI,Philadelphia,Eagles,-3,20,lose,WAS,Washington,Redskins,3,23,win,44.0,under
+2015,4,2015-10-04 13:00:00,OAK,Oakland,Raiders,-3,20,lose,CHI,Chicago,Bears,3,22,win,44.0,under
+2015,4,2015-10-04 13:00:00,HOU,Houston,Texans,6,21,lose,ATL,Atlanta,Falcons,-6,48,win,47.0,under
+2015,4,2015-10-04 13:00:00,KC,Kansas City,Chiefs,4,21,lose,CIN,Cincinnati,Bengals,-4,36,win,45.0,under
+2015,4,2015-10-04 16:05:00,CLE,Cleveland,Browns,7.5,27,win,SD,San Diego,Chargers,-7.5,30,lose,44.5,under
+2015,4,2015-10-04 16:25:00,GB,Green Bay,Packers,-8,17,win,SF,San Francisco,49ers,8,3,lose,48.0,under
+2015,4,2015-10-04 16:25:00,STL,St. Louis,Rams,7,24,win,ARI,Arizona,Cardinals,-7,22,lose,43.5,under
+2015,4,2015-10-04 16:25:00,MIN,Minnesota,Vikings,6.5,20,win,DEN,Denver,Broncos,-6.5,23,lose,42.5,under
+2015,4,2015-10-04 20:30:00,DAL,Dallas,Cowboys,3,20,lose,NO,New Orleans,Saints,-3,26,win,48.0,under
+2015,4,2015-10-05 20:30:00,DET,Detroit,Lions,10,10,win,SEA,Seattle,Seahawks,-10,13,lose,43.0,under
+2015,5,2015-10-08 20:25:00,IND,Indianapolis,Colts,1,27,win,HOU,Houston,Texans,-1,20,lose,44.5,under
+2015,5,2015-10-11 13:00:00,CHI,Chicago,Bears,9,18,win,KC,Kansas City,Chiefs,-9,17,lose,44.5,under
+2015,5,2015-10-11 13:00:00,SEA,Seattle,Seahawks,3,24,push,CIN,Cincinnati,Bengals,-3,27,push,43.0,under
+2015,5,2015-10-11 13:00:00,WAS,Washington,Redskins,7,19,win,ATL,Atlanta,Falcons,-7,25,lose,48.0,under
+2015,5,2015-10-11 13:00:00,JAC,Jacksonville,Jaguars,3,31,lose,TB,Tampa Bay,Buccaneers,-3,38,win,42.0,under
+2015,5,2015-10-11 13:00:00,NO,New Orleans,Saints,4.5,17,lose,PHI,Philadelphia,Eagles,-4.5,39,win,49.5,under
+2015,5,2015-10-11 13:00:00,CLE,Cleveland,Browns,6.5,33,win,BAL,Baltimore,Ravens,-6.5,30,lose,43.0,under
+2015,5,2015-10-11 13:00:00,STL,St. Louis,Rams,9,10,lose,GB,Green Bay,Packers,-9,24,win,45.5,under
+2015,5,2015-10-11 13:00:00,BUF,Buffalo,Bills,-2.5,14,lose,TEN,Tennessee,Titans,2.5,13,win,41.5,under
+2015,5,2015-10-11 16:05:00,ARI,Arizona,Cardinals,-2.5,42,win,DET,Detroit,Lions,2.5,17,lose,44.0,under
+2015,5,2015-10-11 16:25:00,NE,New England,Patriots,-8.5,30,win,DAL,Dallas,Cowboys,8.5,6,lose,49.5,under
+2015,5,2015-10-11 16:25:00,DEN,Denver,Broncos,-4.5,16,win,OAK,Oakland,Raiders,4.5,10,lose,43.5,under
+2015,5,2015-10-11 20:30:00,SF,San Francisco,49ers,7,27,win,NYG,New York,Giants,-7,30,lose,43.0,under
+2015,5,2015-10-12 20:30:00,PIT,Pittsburgh,Steelers,3,24,win,SD,San Diego,Chargers,-3,20,lose,45.5,under
+2015,6,2015-10-15 20:25:00,ATL,Atlanta,Falcons,-3.5,21,lose,NO,New Orleans,Saints,3.5,31,win,52.5,under
+2015,6,2015-10-18 13:00:00,WAS,Washington,Redskins,6,20,lose,NYJ,New York,Jets,-6,34,win,39.5,under
+2015,6,2015-10-18 13:00:00,ARI,Arizona,Cardinals,-3,13,lose,PIT,Pittsburgh,Steelers,3,25,win,45.0,under
+2015,6,2015-10-18 13:00:00,KC,Kansas City,Chiefs,4,10,lose,MIN,Minnesota,Vikings,-4,16,win,43.0,under
+2015,6,2015-10-18 13:00:00,CIN,Cincinnati,Bengals,-3.5,34,win,BUF,Buffalo,Bills,3.5,21,lose,42.5,under
+2015,6,2015-10-18 13:00:00,CHI,Chicago,Bears,3,34,push,DET,Detroit,Lions,-3,37,push,45.0,under
+2015,6,2015-10-18 13:00:00,DEN,Denver,Broncos,-4.5,26,lose,CLE,Cleveland,Browns,4.5,23,win,41.5,under
+2015,6,2015-10-18 13:00:00,HOU,Houston,Texans,0,31,win,JAC,Jacksonville,Jaguars,0,20,lose,43.5,under
+2015,6,2015-10-18 13:00:00,MIA,Miami,Dolphins,2,38,win,TEN,Tennessee,Titans,-2,10,lose,44.0,under
+2015,6,2015-10-18 16:05:00,CAR,Carolina,Panthers,7,27,win,SEA,Seattle,Seahawks,-7,23,lose,41.0,under
+2015,6,2015-10-18 16:25:00,SD,San Diego,Chargers,10.5,20,win,GB,Green Bay,Packers,-10.5,27,lose,50.5,under
+2015,6,2015-10-18 16:25:00,BAL,Baltimore,Ravens,-2.5,20,lose,SF,San Francisco,49ers,2.5,25,win,43.0,under
+2015,6,2015-10-18 20:30:00,NE,New England,Patriots,-7.5,34,lose,IND,Indianapolis,Colts,7.5,27,win,54.5,under
+2015,6,2015-10-19 20:30:00,NYG,New York,Giants,4.5,7,lose,PHI,Philadelphia,Eagles,-4.5,27,win,49.5,under
+2015,7,2015-10-22 20:25:00,SEA,Seattle,Seahawks,-6.5,20,win,SF,San Francisco,49ers,6.5,3,lose,42.0,under
+2015,7,2015-10-25 09:30:00,BUF,Buffalo,Bills,-5.5,31,lose,JAC,Jacksonville,Jaguars,5.5,34,win,41.0,under
+2015,7,2015-10-25 13:00:00,TB,Tampa Bay,Buccaneers,3,30,win,WAS,Washington,Redskins,-3,31,lose,42.0,under
+2015,7,2015-10-25 13:00:00,ATL,Atlanta,Falcons,-4.5,10,lose,TEN,Tennessee,Titans,4.5,7,win,46.5,under
+2015,7,2015-10-25 13:00:00,NO,New Orleans,Saints,4.5,27,win,IND,Indianapolis,Colts,-4.5,21,lose,52.5,under
+2015,7,2015-10-25 13:00:00,MIN,Minnesota,Vikings,-2.5,28,win,DET,Detroit,Lions,2.5,19,lose,44.5,under
+2015,7,2015-10-25 13:00:00,PIT,Pittsburgh,Steelers,1.5,13,lose,KC,Kansas City,Chiefs,-1.5,23,win,41.5,under
+2015,7,2015-10-25 13:00:00,CLE,Cleveland,Browns,5.5,6,lose,STL,St. Louis,Rams,-5.5,24,win,43.5,under
+2015,7,2015-10-25 13:00:00,HOU,Houston,Texans,4,26,lose,MIA,Miami,Dolphins,-4,44,win,46.5,under
+2015,7,2015-10-25 13:00:00,NYJ,New York,Jets,9,23,win,NE,New England,Patriots,-9,30,lose,47.0,under
+2015,7,2015-10-25 16:05:00,OAK,Oakland,Raiders,4,37,win,SD,San Diego,Chargers,-4,29,lose,46.5,under
+2015,7,2015-10-25 16:25:00,DAL,Dallas,Cowboys,3.5,20,lose,NYG,New York,Giants,-3.5,27,win,45.0,under
+2015,7,2015-10-25 20:30:00,PHI,Philadelphia,Eagles,3,16,lose,CAR,Carolina,Panthers,-3,27,win,45.5,under
+2015,7,2015-10-26 20:30:00,BAL,Baltimore,Ravens,7.5,18,lose,ARI,Arizona,Cardinals,-7.5,26,win,9.5,over
+2015,8,2015-10-29 20:25:00,MIA,Miami,Dolphins,8,7,lose,NE,New England,Patriots,-8,36,win,51.5,under
+2015,8,2015-11-01 09:30:00,DET,Detroit,Lions,5,10,lose,KC,Kansas City,Chiefs,-5,45,win,45.0,under
+2015,8,2015-11-01 13:00:00,TB,Tampa Bay,Buccaneers,7,23,win,ATL,Atlanta,Falcons,-7,20,lose,48.5,under
+2015,8,2015-11-01 13:00:00,ARI,Arizona,Cardinals,-5,34,win,CLE,Cleveland,Browns,5,20,lose,46.0,under
+2015,8,2015-11-01 13:00:00,SF,San Francisco,49ers,8.5,6,lose,STL,St. Louis,Rams,-8.5,27,win,39.5,under
+2015,8,2015-11-01 13:00:00,NYG,New York,Giants,3,49,push,NO,New Orleans,Saints,-3,52,push,49.0,push
+2015,8,2015-11-01 13:00:00,MIN,Minnesota,Vikings,-1.5,23,win,CHI,Chicago,Bears,1.5,20,lose,42.5,under
+2015,8,2015-11-01 13:00:00,SD,San Diego,Chargers,3.5,26,win,BAL,Baltimore,Ravens,-3.5,29,lose,50.5,under
+2015,8,2015-11-01 13:00:00,CIN,Cincinnati,Bengals,0,16,win,PIT,Pittsburgh,Steelers,0,10,lose,48.5,under
+2015,8,2015-11-01 13:00:00,TEN,Tennessee,Titans,3,6,lose,HOU,Houston,Texans,-3,20,win,42.5,under
+2015,8,2015-11-01 16:05:00,NYJ,New York,Jets,-2.5,20,lose,OAK,Oakland,Raiders,2.5,34,win,43.5,under
+2015,8,2015-11-01 16:25:00,SEA,Seattle,Seahawks,-6,13,lose,DAL,Dallas,Cowboys,6,12,win,41.5,under
+2015,8,2015-11-01 20:30:00,GB,Green Bay,Packers,-3,10,lose,DEN,Denver,Broncos,3,29,win,45.5,under
+2015,8,2015-11-02 20:30:00,IND,Indianapolis,Colts,6.5,26,win,CAR,Carolina,Panthers,-6.5,29,lose,47.0,under
+2015,9,2015-11-05 20:25:00,CLE,Cleveland,Browns,11.5,10,lose,CIN,Cincinnati,Bengals,-11.5,31,win,45.5,under
+2015,9,2015-11-08 13:00:00,GB,Green Bay,Packers,-2.5,29,lose,CAR,Carolina,Panthers,2.5,37,win,46.5,under
+2015,9,2015-11-08 13:00:00,WAS,Washington,Redskins,13.5,10,lose,NE,New England,Patriots,-13.5,27,win,52.0,under
+2015,9,2015-11-08 13:00:00,TEN,Tennessee,Titans,7.5,34,win,NO,New Orleans,Saints,-7.5,28,lose,48.0,under
+2015,9,2015-11-08 13:00:00,MIA,Miami,Dolphins,3,17,lose,BUF,Buffalo,Bills,-3,33,win,44.0,under
+2015,9,2015-11-08 13:00:00,STL,St. Louis,Rams,1.5,18,lose,MIN,Minnesota,Vikings,-1.5,21,win,40.5,under
+2015,9,2015-11-08 13:00:00,JAC,Jacksonville,Jaguars,6.5,23,win,NYJ,New York,Jets,-6.5,28,lose,42.0,under
+2015,9,2015-11-08 13:00:00,OAK,Oakland,Raiders,4,35,win,PIT,Pittsburgh,Steelers,-4,38,lose,48.5,under
+2015,9,2015-11-08 16:05:00,NYG,New York,Giants,-2.5,32,win,TB,Tampa Bay,Buccaneers,2.5,18,lose,49.5,under
+2015,9,2015-11-08 16:05:00,ATL,Atlanta,Falcons,-7,16,lose,SF,San Francisco,49ers,7,17,win,44.0,under
+2015,9,2015-11-08 16:25:00,DEN,Denver,Broncos,-5,24,lose,IND,Indianapolis,Colts,5,27,win,45.5,under
+2015,9,2015-11-08 20:30:00,PHI,Philadelphia,Eagles,-2.5,33,win,DAL,Dallas,Cowboys,2.5,27,lose,43.5,under
+2015,9,2015-11-09 20:30:00,CHI,Chicago,Bears,4,22,win,SD,San Diego,Chargers,-4,19,lose,49.0,under
+2015,10,2015-11-12 20:25:00,BUF,Buffalo,Bills,2.5,22,win,NYJ,New York,Jets,-2.5,17,lose,42.5,under
+2015,10,2015-11-15 13:00:00,DET,Detroit,Lions,11.5,18,win,GB,Green Bay,Packers,-11.5,16,lose,50.0,under
+2015,10,2015-11-15 13:00:00,DAL,Dallas,Cowboys,1.5,6,lose,TB,Tampa Bay,Buccaneers,-1.5,10,win,43.5,under
+2015,10,2015-11-15 13:00:00,CAR,Carolina,Panthers,-5.5,27,win,TEN,Tennessee,Titans,5.5,10,lose,42.5,under
+2015,10,2015-11-15 13:00:00,CHI,Chicago,Bears,7,37,win,STL,St. Louis,Rams,-7,13,lose,42.0,under
+2015,10,2015-11-15 13:00:00,NO,New Orleans,Saints,0,14,lose,WAS,Washington,Redskins,0,47,win,52.0,under
+2015,10,2015-11-15 13:00:00,MIA,Miami,Dolphins,6.5,20,win,PHI,Philadelphia,Eagles,-6.5,19,lose,49.0,under
+2015,10,2015-11-15 13:00:00,CLE,Cleveland,Browns,4.5,9,lose,PIT,Pittsburgh,Steelers,-4.5,30,win,43.5,under
+2015,10,2015-11-15 13:00:00,JAC,Jacksonville,Jaguars,5.5,22,win,BAL,Baltimore,Ravens,-5.5,20,lose,47.0,under
+2015,10,2015-11-15 16:05:00,MIN,Minnesota,Vikings,3,30,win,OAK,Oakland,Raiders,-3,14,lose,44.0,under
+2015,10,2015-11-15 16:25:00,NE,New England,Patriots,-7,27,lose,NYG,New York,Giants,7,26,win,54.0,under
+2015,10,2015-11-15 16:25:00,KC,Kansas City,Chiefs,6,29,win,DEN,Denver,Broncos,-6,13,lose,41.5,under
+2015,10,2015-11-15 20:30:00,ARI,Arizona,Cardinals,3,39,win,SEA,Seattle,Seahawks,-3,32,lose,44.5,under
+2015,10,2015-11-16 20:30:00,HOU,Houston,Texans,10.5,10,win,CIN,Cincinnati,Bengals,-10.5,6,lose,47.0,under
+2015,11,2015-11-19 20:25:00,TEN,Tennessee,Titans,3,13,lose,JAC,Jacksonville,Jaguars,-3,19,win,42.5,under
+2015,11,2015-11-22 13:00:00,OAK,Oakland,Raiders,-2,13,lose,DET,Detroit,Lions,2,18,win,50.0,under
+2015,11,2015-11-22 13:00:00,IND,Indianapolis,Colts,5.5,24,win,ATL,Atlanta,Falcons,-5.5,21,lose,47.5,under
+2015,11,2015-11-22 13:00:00,NYJ,New York,Jets,-2,17,lose,HOU,Houston,Texans,2,24,win,40.0,under
+2015,11,2015-11-22 13:00:00,TB,Tampa Bay,Buccaneers,5.5,45,win,PHI,Philadelphia,Eagles,-5.5,17,lose,46.0,under
+2015,11,2015-11-22 13:00:00,DEN,Denver,Broncos,1,17,win,CHI,Chicago,Bears,-1,15,lose,41.5,under
+2015,11,2015-11-22 13:00:00,GB,Green Bay,Packers,1,30,win,MIN,Minnesota,Vikings,-1,13,lose,44.0,under
+2015,11,2015-11-22 13:00:00,STL,St. Louis,Rams,2,13,lose,BAL,Baltimore,Ravens,-2,16,win,41.0,under
+2015,11,2015-11-22 13:00:00,DAL,Dallas,Cowboys,0,24,win,MIA,Miami,Dolphins,0,14,lose,45.0,under
+2015,11,2015-11-22 13:00:00,WAS,Washington,Redskins,7,16,lose,CAR,Carolina,Panthers,-7,44,win,44.0,under
+2015,11,2015-11-22 20:30:00,CIN,Cincinnati,Bengals,5,31,win,ARI,Arizona,Cardinals,-5,34,lose,48.5,under
+2015,11,2015-11-22 16:25:00,SF,San Francisco,49ers,12.5,13,lose,SEA,Seattle,Seahawks,-12.5,29,win,40.0,under
+2015,11,2015-11-22 16:05:00,KC,Kansas City,Chiefs,-3,33,win,SD,San Diego,Chargers,3,3,lose,44.5,under
+2015,11,2015-11-23 20:30:00,BUF,Buffalo,Bills,7,13,push,NE,New England,Patriots,-7,20,push,48.0,under
+2015,12,2015-11-26 12:30:00,PHI,Philadelphia,Eagles,2.5,14,lose,DET,Detroit,Lions,-2.5,45,win,45.5,under
+2015,12,2015-11-26 16:30:00,CAR,Carolina,Panthers,1.5,33,win,DAL,Dallas,Cowboys,-1.5,14,lose,45.5,under
+2015,12,2015-11-26 20:30:00,CHI,Chicago,Bears,8.5,17,win,GB,Green Bay,Packers,-8.5,13,lose,45.0,under
+2015,12,2015-11-29 13:00:00,OAK,Oakland,Raiders,-1.5,24,win,TEN,Tennessee,Titans,1.5,21,lose,45.0,under
+2015,12,2015-11-29 13:00:00,BUF,Buffalo,Bills,6.5,22,lose,KC,Kansas City,Chiefs,-6.5,30,win,41.0,under
+2015,12,2015-11-29 13:00:00,TB,Tampa Bay,Buccaneers,3.5,12,lose,IND,Indianapolis,Colts,-3.5,25,win,46.5,under
+2015,12,2015-11-29 13:00:00,NYG,New York,Giants,-3,14,lose,WAS,Washington,Redskins,3,20,win,47.5,under
+2015,12,2015-11-29 13:00:00,NO,New Orleans,Saints,3,6,lose,HOU,Houston,Texans,-3,24,win,50.5,under
+2015,12,2015-11-29 13:00:00,MIN,Minnesota,Vikings,0,20,win,ATL,Atlanta,Falcons,0,10,lose,45.0,under
+2015,12,2015-11-29 13:00:00,STL,St. Louis,Rams,8.5,7,lose,CIN,Cincinnati,Bengals,-8.5,31,win,42.0,under
+2015,12,2015-11-29 13:00:00,SD,San Diego,Chargers,4,31,win,JAC,Jacksonville,Jaguars,-4,25,lose,47.0,under
+2015,12,2015-11-29 13:00:00,MIA,Miami,Dolphins,3.5,20,lose,NYJ,New York,Jets,-3.5,38,win,44.0,under
+2015,12,2015-11-29 16:05:00,ARI,Arizona,Cardinals,-10.5,19,lose,SF,San Francisco,49ers,10.5,13,win,45.0,under
+2015,12,2015-11-29 16:25:00,PIT,Pittsburgh,Steelers,3.5,30,lose,SEA,Seattle,Seahawks,-3.5,39,win,45.5,under
+2015,12,2015-11-29 20:30:00,NE,New England,Patriots,-3,24,lose,DEN,Denver,Broncos,3,30,win,43.0,under
+2015,12,2015-11-30 20:30:00,BAL,Baltimore,Ravens,2.5,33,win,CLE,Cleveland,Browns,-2.5,27,lose,41.0,under
+2015,13,2015-12-03 20:30:00,GB,Green Bay,Packers,-3,27,win,DET,Detroit,Lions,3,23,lose,,
+2015,13,2015-12-06 13:00:00,NYJ,New York,Jets,-2.5,23,win,NYG,New York,Giants,2.5,20,lose,46.5,under
+2015,13,2015-12-06 13:00:00,ARI,Arizona,Cardinals,-5.5,27,win,STL,St. Louis,Rams,5.5,3,lose,43.0,under
+2015,13,2015-12-06 13:00:00,ATL,Atlanta,Falcons,1.5,19,lose,TB,Tampa Bay,Buccaneers,-1.5,23,win,46.0,under
+2015,13,2015-12-06 13:00:00,CAR,Carolina,Panthers,-7,41,lose,NO,New Orleans,Saints,7,38,win,50.0,under
+2015,13,2015-12-06 13:00:00,SEA,Seattle,Seahawks,0,38,win,MIN,Minnesota,Vikings,0,7,lose,42.0,under
+2015,13,2015-12-06 13:00:00,HOU,Houston,Texans,3.5,21,lose,BUF,Buffalo,Bills,-3.5,30,win,41.5,under
+2015,13,2015-12-06 13:00:00,BAL,Baltimore,Ravens,4,13,win,MIA,Miami,Dolphins,-4,15,lose,42.0,under
+2015,13,2015-12-06 13:00:00,CIN,Cincinnati,Bengals,-9.5,37,win,CLE,Cleveland,Browns,9.5,3,lose,43.5,under
+2015,13,2015-12-06 13:00:00,JAC,Jacksonville,Jaguars,2.5,39,lose,TEN,Tennessee,Titans,-2.5,42,win,43.5,under
+2015,13,2015-12-06 13:00:00,SF,San Francisco,49ers,7,26,win,CHI,Chicago,Bears,-7,20,lose,43.0,under
+2015,13,2015-12-06 16:05:00,DEN,Denver,Broncos,-4,17,win,SD,San Diego,Chargers,4,3,lose,43.0,under
+2015,13,2015-12-06 16:05:00,KC,Kansas City,Chiefs,-2.5,34,win,OAK,Oakland,Raiders,2.5,20,lose,44.5,under
+2015,13,2015-12-06 16:25:00,PHI,Philadelphia,Eagles,9.5,35,win,NE,New England,Patriots,-9.5,28,lose,49.0,under
+2015,13,2015-12-06 20:30:00,IND,Indianapolis,Colts,7,10,lose,PIT,Pittsburgh,Steelers,-7,45,win,49.0,under
+2015,13,2015-12-07 20:30:00,DAL,Dallas,Cowboys,4.5,19,win,WAS,Washington,Redskins,-4.5,16,lose,42.0,under
+2015,14,2015-12-10 20:25:00,MIN,Minnesota,Vikings,8.5,20,win,ARI,Arizona,Cardinals,-8.5,23,lose,46.5,under
+2015,14,2015-12-13 13:00:00,BUF,Buffalo,Bills,-1,20,lose,PHI,Philadelphia,Eagles,1,23,win,48.0,under
+2015,14,2015-12-13 13:00:00,SF,San Francisco,49ers,1.5,10,lose,CLE,Cleveland,Browns,-1.5,24,win,43.0,under
+2015,14,2015-12-13 13:00:00,DET,Detroit,Lions,0,14,lose,STL,St. Louis,Rams,0,21,win,41.5,under
+2015,14,2015-12-13 13:00:00,NO,New Orleans,Saints,4,24,win,TB,Tampa Bay,Buccaneers,-4,17,lose,50.5,under
+2015,14,2015-12-13 13:00:00,TEN,Tennessee,Titans,7,8,lose,NYJ,New York,Jets,-7,30,win,43.0,under
+2015,14,2015-12-13 13:00:00,PIT,Pittsburgh,Steelers,2.5,33,win,CIN,Cincinnati,Bengals,-2.5,20,lose,49.0,under
+2015,14,2015-12-13 20:30:00,NE,New England,Patriots,-3,27,win,HOU,Houston,Texans,3,6,lose,44.5,under
+2015,14,2015-12-13 13:00:00,IND,Indianapolis,Colts,0,16,lose,JAC,Jacksonville,Jaguars,0,51,win,45.5,over
+2015,14,2015-12-13 13:00:00,SD,San Diego,Chargers,10,3,win,KC,Kansas City,Chiefs,-10,10,lose,42.0,under
+2015,14,2015-12-13 13:00:00,WAS,Washington,Redskins,3,24,win,CHI,Chicago,Bears,-3,21,lose,42.5,under
+2015,14,2015-12-13 13:00:00,ATL,Atlanta,Falcons,7.5,0,lose,CAR,Carolina,Panthers,-7.5,38,win,45.5,under
+2015,14,2015-12-13 16:05:00,OAK,Oakland,Raiders,7,15,win,DEN,Denver,Broncos,-7,12,lose,43.5,under
+2015,14,2015-12-13 16:25:00,DAL,Dallas,Cowboys,7,7,lose,GB,Green Bay,Packers,-7,28,win,42.5,under
+2015,14,2015-12-13 13:00:00,SEA,Seattle,Seahawks,-6.5,35,win,BAL,Baltimore,Ravens,6.5,6,lose,42.0,under
+2015,14,2015-12-14 20:30:00,NYG,New York,Giants,-1,31,win,MIA,Miami,Dolphins,1,24,lose,46.5,under
+2015,15,2015-12-17 20:25:00,TB,Tampa Bay,Buccaneers,2.5,23,lose,STL,St. Louis,Rams,-2.5,31,win,41.0,under
+2015,15,2015-12-19 20:25:00,NYJ,New York,Jets,-3.5,19,lose,DAL,Dallas,Cowboys,3.5,16,win,41.5,under
+2015,15,2015-12-20 13:00:00,CHI,Chicago,Bears,5.5,17,lose,MIN,Minnesota,Vikings,-5.5,38,win,43.0,under
+2015,15,2015-12-20 13:00:00,ATL,Atlanta,Falcons,3,23,win,JAC,Jacksonville,Jaguars,-3,17,lose,49.0,under
+2015,15,2015-12-20 13:00:00,HOU,Houston,Texans,2,16,win,IND,Indianapolis,Colts,-2,10,lose,42.0,under
+2015,15,2015-12-20 13:00:00,ARI,Arizona,Cardinals,-3.5,40,win,PHI,Philadelphia,Eagles,3.5,17,lose,51.0,under
+2015,15,2015-12-20 13:00:00,CAR,Carolina,Panthers,-4.5,38,lose,NYG,New York,Giants,4.5,35,win,48.0,under
+2015,15,2015-12-20 13:00:00,TEN,Tennessee,Titans,14,16,lose,NE,New England,Patriots,-14,33,win,46.5,under
+2015,15,2015-12-20 13:00:00,BUF,Buffalo,Bills,-1,25,lose,WAS,Washington,Redskins,1,35,win,44.0,under
+2015,15,2015-12-20 13:00:00,KC,Kansas City,Chiefs,-7.5,34,win,BAL,Baltimore,Ravens,7.5,14,lose,41.0,under
+2015,15,2015-12-20 16:05:00,CLE,Cleveland,Browns,14.5,13,lose,SEA,Seattle,Seahawks,-14.5,30,win,42.5,under
+2015,15,2015-12-20 16:05:00,GB,Green Bay,Packers,-3,30,win,OAK,Oakland,Raiders,3,20,lose,48.0,under
+2015,15,2015-12-20 16:25:00,DEN,Denver,Broncos,6.5,27,lose,PIT,Pittsburgh,Steelers,-6.5,34,win,45.5,under
+2015,15,2015-12-20 16:25:00,MIA,Miami,Dolphins,2,14,lose,SD,San Diego,Chargers,-2,30,win,46.0,under
+2015,15,2015-12-20 20:30:00,CIN,Cincinnati,Bengals,-4.5,24,win,SF,San Francisco,49ers,4.5,14,lose,40.5,under
+2015,15,2015-12-21 20:30:00,DET,Detroit,Lions,3,35,win,NO,New Orleans,Saints,-3,27,lose,51.0,under

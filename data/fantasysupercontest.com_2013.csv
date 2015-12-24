@@ -1,0 +1,257 @@
+year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_result,home_team,home_city,home_name,home_line,home_score,home_ats_result
+2013,1,2013-09-05 20:30:00,BAL,Baltimore,Ravens,7.5,27,lose,DEN,Denver,Broncos,-7.5,49,win
+2013,1,2013-09-08 13:00:00,SEA,Seattle,Seahawks,-3.5,12,win,CAR,Carolina,Panthers,3.5,7,lose
+2013,1,2013-09-08 13:00:00,ARI,Arizona,Cardinals,4.5,24,win,STL,St. Louis,Rams,-4.5,27,lose
+2013,1,2013-09-08 13:00:00,GB,Green Bay,Packers,4.5,28,lose,SF,San Francisco,49ers,-4.5,34,win
+2013,1,2013-09-08 13:00:00,MIN,Minnesota,Vikings,5.5,24,lose,DET,Detroit,Lions,-5.5,34,win
+2013,1,2013-09-08 13:00:00,ATL,Atlanta,Falcons,3,17,lose,NO,New Orleans,Saints,-3,23,win
+2013,1,2013-09-08 13:00:00,TEN,Tennessee,Titans,7,16,win,PIT,Pittsburgh,Steelers,-7,9,lose
+2013,1,2013-09-08 13:00:00,CIN,Cincinnati,Bengals,3,21,push,CHI,Chicago,Bears,-3,24,push
+2013,1,2013-09-08 13:00:00,OAK,Oakland,Raiders,9.5,17,win,IND,Indianapolis,Colts,-9.5,21,lose
+2013,1,2013-09-08 13:00:00,NYG,New York,Giants,3.5,31,lose,DAL,Dallas,Cowboys,-3.5,36,win
+2013,1,2013-09-08 13:00:00,KC,Kansas City,Chiefs,-4,28,win,JAC,Jacksonville,Jaguars,4,2,lose
+2013,1,2013-09-08 13:00:00,MIA,Miami,Dolphins,1,23,win,CLE,Cleveland,Browns,-1,10,lose
+2013,1,2013-09-08 13:00:00,TB,Tampa Bay,Buccaneers,-3.5,17,lose,NYJ,New York,Jets,3.5,18,win
+2013,1,2013-09-08 13:00:00,NE,New England,Patriots,-9.5,23,lose,BUF,Buffalo,Bills,9.5,21,win
+2013,1,2013-09-09 20:30:00,PHI,Philadelphia,Eagles,3.5,33,win,WAS,Washington,Redskins,-3.5,27,lose
+2013,1,2013-09-09 20:30:00,HOU,Houston,Texans,-4,31,lose,SD,San Diego,Chargers,4,28,win
+2013,2,2013-09-12 20:30:00,NYJ,New York,Jets,11.5,10,win,NE,New England,Patriots,-11.5,13,lose
+2013,2,2013-09-15 13:00:00,NO,New Orleans,Saints,-3,16,lose,TB,Tampa Bay,Buccaneers,3,14,win
+2013,2,2013-09-15 13:00:00,MIN,Minnesota,Vikings,6,30,win,CHI,Chicago,Bears,-6,31,lose
+2013,2,2013-09-15 13:00:00,DAL,Dallas,Cowboys,3,16,win,KC,Kansas City,Chiefs,-3,17,lose
+2013,2,2013-09-15 13:00:00,DET,Detroit,Lions,-1.5,21,lose,ARI,Arizona,Cardinals,1.5,25,win
+2013,2,2013-09-15 13:00:00,CLE,Cleveland,Browns,6.5,6,lose,BAL,Baltimore,Ravens,-6.5,14,win
+2013,2,2013-09-15 13:00:00,STL,St. Louis,Rams,6.5,24,lose,ATL,Atlanta,Falcons,-6.5,31,win
+2013,2,2013-09-15 13:00:00,TEN,Tennessee,Titans,9,24,win,HOU,Houston,Texans,-9,30,lose
+2013,2,2013-09-15 13:00:00,WAS,Washington,Redskins,7.5,20,lose,GB,Green Bay,Packers,-7.5,38,win
+2013,2,2013-09-15 13:00:00,MIA,Miami,Dolphins,2.5,24,win,IND,Indianapolis,Colts,-2.5,20,lose
+2013,2,2013-09-15 13:00:00,CAR,Carolina,Panthers,-3,23,lose,BUF,Buffalo,Bills,3,24,win
+2013,2,2013-09-15 13:00:00,SD,San Diego,Chargers,7.5,33,win,PHI,Philadelphia,Eagles,-7.5,30,lose
+2013,2,2013-09-15 13:00:00,SF,San Francisco,49ers,3,3,lose,SEA,Seattle,Seahawks,-3,29,win
+2013,2,2013-09-15 13:00:00,JAC,Jacksonville,Jaguars,5.5,9,lose,OAK,Oakland,Raiders,-5.5,19,win
+2013,2,2013-09-15 13:00:00,DEN,Denver,Broncos,-4.5,41,win,NYG,New York,Giants,4.5,23,lose
+2013,2,2013-09-16 20:30:00,PIT,Pittsburgh,Steelers,7,10,lose,CIN,Cincinnati,Bengals,-7,20,win
+2013,3,2013-09-19 20:30:00,KC,Kansas City,Chiefs,3.5,26,win,PHI,Philadelphia,Eagles,-3.5,16,lose
+2013,3,2013-09-22 13:00:00,TB,Tampa Bay,Buccaneers,7,3,lose,NE,New England,Patriots,-7,23,win
+2013,3,2013-09-22 13:00:00,ARI,Arizona,Cardinals,7,7,lose,NO,New Orleans,Saints,-7,31,win
+2013,3,2013-09-22 13:00:00,DET,Detroit,Lions,2,27,win,WAS,Washington,Redskins,-2,20,lose
+2013,3,2013-09-22 13:00:00,NYG,New York,Giants,1,0,lose,CAR,Carolina,Panthers,-1,38,win
+2013,3,2013-09-22 13:00:00,ATL,Atlanta,Falcons,2.5,23,lose,MIA,Miami,Dolphins,-2.5,27,win
+2013,3,2013-09-22 13:00:00,SD,San Diego,Chargers,3,17,push,TEN,Tennessee,Titans,-3,20,push
+2013,3,2013-09-22 13:00:00,BUF,Buffalo,Bills,2.5,20,lose,NYJ,New York,Jets,-2.5,27,win
+2013,3,2013-09-22 13:00:00,GB,Green Bay,Packers,-2.5,30,lose,CIN,Cincinnati,Bengals,2.5,34,win
+2013,3,2013-09-22 13:00:00,STL,St. Louis,Rams,4,7,lose,DAL,Dallas,Cowboys,-4,31,win
+2013,3,2013-09-22 13:00:00,HOU,Houston,Texans,-2.5,9,lose,BAL,Baltimore,Ravens,2.5,30,win
+2013,3,2013-09-22 13:00:00,CLE,Cleveland,Browns,5.5,31,win,MIN,Minnesota,Vikings,-5.5,27,lose
+2013,3,2013-09-22 13:00:00,JAC,Jacksonville,Jaguars,19,17,lose,SEA,Seattle,Seahawks,-19,45,win
+2013,3,2013-09-22 13:00:00,CHI,Chicago,Bears,-2.5,40,win,PIT,Pittsburgh,Steelers,2.5,23,lose
+2013,3,2013-09-22 13:00:00,IND,Indianapolis,Colts,10,27,win,SF,San Francisco,49ers,-10,7,lose
+2013,3,2013-09-23 20:30:00,OAK,Oakland,Raiders,15,21,lose,DEN,Denver,Broncos,-15,37,win
+2013,4,2013-09-26 20:30:00,SF,San Francisco,49ers,-3,35,win,STL,St. Louis,Rams,3,11,lose
+2013,4,2013-09-29 13:00:00,BAL,Baltimore,Ravens,-3,20,lose,BUF,Buffalo,Bills,3,23,win
+2013,4,2013-09-29 13:00:00,CIN,Cincinnati,Bengals,-4.5,6,lose,CLE,Cleveland,Browns,4.5,17,win
+2013,4,2013-09-29 13:00:00,NYJ,New York,Jets,3.5,13,lose,TEN,Tennessee,Titans,-3.5,38,win
+2013,4,2013-09-29 13:00:00,DAL,Dallas,Cowboys,-2.5,21,lose,SD,San Diego,Chargers,2.5,30,win
+2013,4,2013-09-29 13:00:00,NYG,New York,Giants,4,7,lose,KC,Kansas City,Chiefs,-4,31,win
+2013,4,2013-09-29 13:00:00,SEA,Seattle,Seahawks,-2.5,23,win,HOU,Houston,Texans,2.5,20,lose
+2013,4,2013-09-29 13:00:00,ARI,Arizona,Cardinals,2.5,13,win,TB,Tampa Bay,Buccaneers,-2.5,10,lose
+2013,4,2013-09-29 13:00:00,PIT,Pittsburgh,Steelers,-2.5,27,lose,MIN,Minnesota,Vikings,2.5,34,win
+2013,4,2013-09-29 13:00:00,WAS,Washington,Redskins,-3,24,win,OAK,Oakland,Raiders,3,14,lose
+2013,4,2013-09-29 13:00:00,NE,New England,Patriots,2.5,30,win,ATL,Atlanta,Falcons,-2.5,23,lose
+2013,4,2013-09-29 13:00:00,PHI,Philadelphia,Eagles,10.5,20,lose,DEN,Denver,Broncos,-10.5,52,win
+2013,4,2013-09-29 13:00:00,IND,Indianapolis,Colts,-7.5,37,win,JAC,Jacksonville,Jaguars,7.5,3,lose
+2013,4,2013-09-29 13:00:00,CHI,Chicago,Bears,3,32,lose,DET,Detroit,Lions,-3,40,win
+2013,4,2013-09-30 20:30:00,MIA,Miami,Dolphins,6.5,17,lose,NO,New Orleans,Saints,-6.5,38,win
+2013,5,2013-10-03 20:30:00,BUF,Buffalo,Bills,4,24,lose,CLE,Cleveland,Browns,-4,37,win
+2013,5,2013-10-06 13:00:00,CAR,Carolina,Panthers,-2,6,lose,ARI,Arizona,Cardinals,2,22,win
+2013,5,2013-10-06 13:00:00,DET,Detroit,Lions,7,9,lose,GB,Green Bay,Packers,-7,22,win
+2013,5,2013-10-06 13:00:00,PHI,Philadelphia,Eagles,2.5,36,win,NYG,New York,Giants,-2.5,21,lose
+2013,5,2013-10-06 13:00:00,DEN,Denver,Broncos,-7.5,51,lose,DAL,Dallas,Cowboys,7.5,48,win
+2013,5,2013-10-06 13:00:00,NE,New England,Patriots,2,6,lose,CIN,Cincinnati,Bengals,-2,13,win
+2013,5,2013-10-06 13:00:00,NO,New Orleans,Saints,0,26,win,CHI,Chicago,Bears,0,18,lose
+2013,5,2013-10-06 13:00:00,SD,San Diego,Chargers,-4.5,17,lose,OAK,Oakland,Raiders,4.5,27,win
+2013,5,2013-10-06 13:00:00,JAC,Jacksonville,Jaguars,11.5,20,lose,STL,St. Louis,Rams,-11.5,34,win
+2013,5,2013-10-06 13:00:00,SEA,Seattle,Seahawks,-3,28,lose,IND,Indianapolis,Colts,3,34,win
+2013,5,2013-10-06 13:00:00,BAL,Baltimore,Ravens,3,26,win,MIA,Miami,Dolphins,-3,23,lose
+2013,5,2013-10-06 13:00:00,KC,Kansas City,Chiefs,-2.5,26,win,TEN,Tennessee,Titans,2.5,17,lose
+2013,5,2013-10-06 13:00:00,HOU,Houston,Texans,6.5,3,lose,SF,San Francisco,49ers,-6.5,34,win
+2013,5,2013-10-07 20:30:00,NYJ,New York,Jets,9.5,30,win,ATL,Atlanta,Falcons,-9.5,28,lose
+2013,6,2013-10-10 20:30:00,NYG,New York,Giants,7.5,21,win,CHI,Chicago,Bears,-7.5,27,lose
+2013,6,2013-10-13 13:00:00,CAR,Carolina,Panthers,2.5,35,win,MIN,Minnesota,Vikings,-2.5,10,lose
+2013,6,2013-10-13 13:00:00,GB,Green Bay,Packers,-2.5,19,lose,BAL,Baltimore,Ravens,2.5,17,win
+2013,6,2013-10-13 13:00:00,STL,St. Louis,Rams,7.5,38,win,HOU,Houston,Texans,-7.5,13,lose
+2013,6,2013-10-13 13:00:00,DET,Detroit,Lions,-2.5,31,win,CLE,Cleveland,Browns,2.5,17,lose
+2013,6,2013-10-13 13:00:00,JAC,Jacksonville,Jaguars,26.5,19,win,DEN,Denver,Broncos,-26.5,35,lose
+2013,6,2013-10-13 13:00:00,OAK,Oakland,Raiders,8.5,7,lose,KC,Kansas City,Chiefs,-8.5,24,win
+2013,6,2013-10-13 13:00:00,TEN,Tennessee,Titans,13.5,13,win,SEA,Seattle,Seahawks,-13.5,20,lose
+2013,6,2013-10-13 13:00:00,CIN,Cincinnati,Bengals,-7,27,lose,BUF,Buffalo,Bills,7,24,win
+2013,6,2013-10-13 13:00:00,WAS,Washington,Redskins,5.5,16,lose,DAL,Dallas,Cowboys,-5.5,31,win
+2013,6,2013-10-13 13:00:00,PHI,Philadelphia,Eagles,-1.5,31,win,TB,Tampa Bay,Buccaneers,1.5,20,lose
+2013,6,2013-10-13 13:00:00,PIT,Pittsburgh,Steelers,2.5,19,win,NYJ,New York,Jets,-2.5,6,lose
+2013,6,2013-10-13 13:00:00,NO,New Orleans,Saints,2.5,27,lose,NE,New England,Patriots,-2.5,30,win
+2013,6,2013-10-13 13:00:00,ARI,Arizona,Cardinals,11,20,lose,SF,San Francisco,49ers,-11,32,win
+2013,6,2013-10-14 20:30:00,IND,Indianapolis,Colts,-1.5,9,lose,SD,San Diego,Chargers,1.5,19,win
+2013,7,2013-10-17 20:30:00,SEA,Seattle,Seahawks,-6.5,34,win,ARI,Arizona,Cardinals,6.5,22,lose
+2013,7,2013-10-20 13:00:00,BAL,Baltimore,Ravens,2,16,lose,PIT,Pittsburgh,Steelers,-2,19,win
+2013,7,2013-10-20 13:00:00,TB,Tampa Bay,Buccaneers,7,23,lose,ATL,Atlanta,Falcons,-7,31,win
+2013,7,2013-10-20 13:00:00,STL,St. Louis,Rams,6,15,lose,CAR,Carolina,Panthers,-6,30,win
+2013,7,2013-10-20 13:00:00,CLE,Cleveland,Browns,10,13,lose,GB,Green Bay,Packers,-10,31,win
+2013,7,2013-10-20 13:00:00,DAL,Dallas,Cowboys,3,17,win,PHI,Philadelphia,Eagles,-3,3,lose
+2013,7,2013-10-20 13:00:00,CIN,Cincinnati,Bengals,2.5,27,win,DET,Detroit,Lions,-2.5,24,lose
+2013,7,2013-10-20 13:00:00,SD,San Diego,Chargers,-7.5,24,win,JAC,Jacksonville,Jaguars,7.5,6,lose
+2013,7,2013-10-20 13:00:00,DEN,Denver,Broncos,-6.5,33,lose,IND,Indianapolis,Colts,6.5,39,win
+2013,7,2013-10-20 13:00:00,CHI,Chicago,Bears,1,41,lose,WAS,Washington,Redskins,-1,45,win
+2013,7,2013-10-20 13:00:00,HOU,Houston,Texans,6.5,16,win,KC,Kansas City,Chiefs,-6.5,17,lose
+2013,7,2013-10-20 13:00:00,NE,New England,Patriots,-4,27,lose,NYJ,New York,Jets,4,30,win
+2013,7,2013-10-20 13:00:00,BUF,Buffalo,Bills,8,23,win,MIA,Miami,Dolphins,-8,21,lose
+2013,7,2013-10-20 13:00:00,SF,San Francisco,49ers,-4,31,win,TEN,Tennessee,Titans,4,17,lose
+2013,7,2013-10-21 20:30:00,MIN,Minnesota,Vikings,3.5,7,lose,NYG,New York,Giants,-3.5,23,win
+2013,8,2013-10-24 20:30:00,CAR,Carolina,Panthers,-6,31,win,TB,Tampa Bay,Buccaneers,6,13,lose
+2013,8,2013-10-27 13:00:00,GB,Green Bay,Packers,-9.5,44,win,MIN,Minnesota,Vikings,9.5,31,lose
+2013,8,2013-10-27 13:00:00,ATL,Atlanta,Falcons,2.5,13,lose,ARI,Arizona,Cardinals,-2.5,27,win
+2013,8,2013-10-27 13:00:00,MIA,Miami,Dolphins,6.5,17,lose,NE,New England,Patriots,-6.5,27,win
+2013,8,2013-10-27 13:00:00,PIT,Pittsburgh,Steelers,-2.5,18,lose,OAK,Oakland,Raiders,2.5,21,win
+2013,8,2013-10-27 13:00:00,SF,San Francisco,49ers,-16.5,42,win,JAC,Jacksonville,Jaguars,16.5,10,lose
+2013,8,2013-10-27 13:00:00,WAS,Washington,Redskins,12.5,21,lose,DEN,Denver,Broncos,-12.5,45,win
+2013,8,2013-10-27 13:00:00,BUF,Buffalo,Bills,11.5,17,lose,NO,New Orleans,Saints,-11.5,35,win
+2013,8,2013-10-27 13:00:00,NYG,New York,Giants,5.5,15,win,PHI,Philadelphia,Eagles,-5.5,7,lose
+2013,8,2013-10-27 13:00:00,DAL,Dallas,Cowboys,3.5,30,win,DET,Detroit,Lions,-3.5,31,lose
+2013,8,2013-10-27 13:00:00,NYJ,New York,Jets,6.5,9,lose,CIN,Cincinnati,Bengals,-6.5,49,win
+2013,8,2013-10-27 13:00:00,CLE,Cleveland,Browns,7.5,17,win,KC,Kansas City,Chiefs,-7.5,23,lose
+2013,8,2013-10-28 20:30:00,SEA,Seattle,Seahawks,-10.5,14,lose,STL,St. Louis,Rams,10.5,9,win
+2013,9,2013-10-31 20:30:00,CIN,Cincinnati,Bengals,-2.5,20,lose,MIA,Miami,Dolphins,2.5,22,win
+2013,9,2013-11-03 13:00:00,IND,Indianapolis,Colts,-2.5,27,win,HOU,Houston,Texans,2.5,24,lose
+2013,9,2013-11-03 13:00:00,ATL,Atlanta,Falcons,7.5,10,lose,CAR,Carolina,Panthers,-7.5,34,win
+2013,9,2013-11-03 13:00:00,TEN,Tennessee,Titans,-3,28,win,STL,St. Louis,Rams,3,21,lose
+2013,9,2013-11-03 13:00:00,NO,New Orleans,Saints,-6,20,lose,NYJ,New York,Jets,6,26,win
+2013,9,2013-11-03 13:00:00,SD,San Diego,Chargers,-1,24,lose,WAS,Washington,Redskins,1,30,win
+2013,9,2013-11-03 13:00:00,MIN,Minnesota,Vikings,10,23,win,DAL,Dallas,Cowboys,-10,27,lose
+2013,9,2013-11-03 13:00:00,BAL,Baltimore,Ravens,-2.5,18,lose,CLE,Cleveland,Browns,2.5,24,win
+2013,9,2013-11-03 13:00:00,PHI,Philadelphia,Eagles,2.5,49,win,OAK,Oakland,Raiders,-2.5,20,lose
+2013,9,2013-11-03 13:00:00,KC,Kansas City,Chiefs,-3,23,win,BUF,Buffalo,Bills,3,13,lose
+2013,9,2013-11-03 13:00:00,PIT,Pittsburgh,Steelers,6.5,31,lose,NE,New England,Patriots,-6.5,55,win
+2013,9,2013-11-03 13:00:00,TB,Tampa Bay,Buccaneers,16,24,win,SEA,Seattle,Seahawks,-16,27,lose
+2013,9,2013-11-04 20:30:00,CHI,Chicago,Bears,10.5,27,win,GB,Green Bay,Packers,-10.5,20,lose
+2013,10,2013-11-07 20:30:00,WAS,Washington,Redskins,-2.5,27,lose,MIN,Minnesota,Vikings,2.5,34,win
+2013,10,2013-11-10 13:00:00,CAR,Carolina,Panthers,6,10,win,SF,San Francisco,49ers,-6,9,lose
+2013,10,2013-11-10 13:00:00,JAC,Jacksonville,Jaguars,11.5,29,win,TEN,Tennessee,Titans,-11.5,27,lose
+2013,10,2013-11-10 13:00:00,HOU,Houston,Texans,2.5,24,lose,ARI,Arizona,Cardinals,-2.5,27,win
+2013,10,2013-11-10 13:00:00,DEN,Denver,Broncos,-7,28,win,SD,San Diego,Chargers,7,20,lose
+2013,10,2013-11-10 13:00:00,PHI,Philadelphia,Eagles,1.5,27,win,GB,Green Bay,Packers,-1.5,13,lose
+2013,10,2013-11-10 13:00:00,DET,Detroit,Lions,-2.5,21,lose,CHI,Chicago,Bears,2.5,19,win
+2013,10,2013-11-10 13:00:00,OAK,Oakland,Raiders,7,20,win,NYG,New York,Giants,-7,24,lose
+2013,10,2013-11-10 13:00:00,STL,St. Louis,Rams,9.5,38,win,IND,Indianapolis,Colts,-9.5,8,lose
+2013,10,2013-11-10 13:00:00,SEA,Seattle,Seahawks,-6,33,win,ATL,Atlanta,Falcons,6,10,lose
+2013,10,2013-11-10 13:00:00,DAL,Dallas,Cowboys,6.5,17,lose,NO,New Orleans,Saints,-6.5,49,win
+2013,10,2013-11-10 13:00:00,BUF,Buffalo,Bills,3,10,lose,PIT,Pittsburgh,Steelers,-3,23,win
+2013,10,2013-11-10 13:00:00,CIN,Cincinnati,Bengals,-1.5,17,lose,BAL,Baltimore,Ravens,1.5,20,win
+2013,10,2013-11-11 20:30:00,MIA,Miami,Dolphins,-2.5,19,lose,TB,Tampa Bay,Buccaneers,2.5,22,win
+2013,11,2013-11-14 20:30:00,IND,Indianapolis,Colts,-2.5,30,win,TEN,Tennessee,Titans,2.5,27,lose
+2013,11,2013-11-17 13:00:00,GB,Green Bay,Packers,5,13,lose,NYG,New York,Giants,-5,27,win
+2013,11,2013-11-17 13:00:00,ATL,Atlanta,Falcons,-1.5,28,lose,TB,Tampa Bay,Buccaneers,1.5,41,win
+2013,11,2013-11-17 13:00:00,SF,San Francisco,49ers,3,20,push,NO,New Orleans,Saints,-3,23,push
+2013,11,2013-11-17 13:00:00,DET,Detroit,Lions,-2.5,27,lose,PIT,Pittsburgh,Steelers,2.5,37,win
+2013,11,2013-11-17 13:00:00,BAL,Baltimore,Ravens,3,20,push,CHI,Chicago,Bears,-3,23,push
+2013,11,2013-11-17 13:00:00,OAK,Oakland,Raiders,7,28,win,HOU,Houston,Texans,-7,23,lose
+2013,11,2013-11-17 13:00:00,SD,San Diego,Chargers,-1.5,16,lose,MIA,Miami,Dolphins,1.5,20,win
+2013,11,2013-11-17 13:00:00,KC,Kansas City,Chiefs,8,17,lose,DEN,Denver,Broncos,-8,27,win
+2013,11,2013-11-17 13:00:00,ARI,Arizona,Cardinals,-7,27,win,JAC,Jacksonville,Jaguars,7,14,lose
+2013,11,2013-11-17 13:00:00,MIN,Minnesota,Vikings,12.5,20,lose,SEA,Seattle,Seahawks,-12.5,41,win
+2013,11,2013-11-17 13:00:00,CLE,Cleveland,Browns,5.5,20,lose,CIN,Cincinnati,Bengals,-5.5,41,win
+2013,11,2013-11-17 13:00:00,NYJ,New York,Jets,1,14,lose,BUF,Buffalo,Bills,-1,37,win
+2013,11,2013-11-17 13:00:00,WAS,Washington,Redskins,3.5,16,lose,PHI,Philadelphia,Eagles,-3.5,24,win
+2013,11,2013-11-18 20:30:00,NE,New England,Patriots,2.5,20,lose,CAR,Carolina,Panthers,-2.5,24,win
+2013,12,2013-11-21 20:30:00,NO,New Orleans,Saints,-9,17,lose,ATL,Atlanta,Falcons,9,13,win
+2013,12,2013-11-24 13:00:00,CAR,Carolina,Panthers,-4,20,push,MIA,Miami,Dolphins,4,16,push
+2013,12,2013-11-24 13:00:00,CHI,Chicago,Bears,1,21,lose,STL,St. Louis,Rams,-1,42,win
+2013,12,2013-11-24 13:00:00,IND,Indianapolis,Colts,2.5,11,lose,ARI,Arizona,Cardinals,-2.5,40,win
+2013,12,2013-11-24 13:00:00,MIN,Minnesota,Vikings,5,26,win,GB,Green Bay,Packers,-5,26,lose
+2013,12,2013-11-24 13:00:00,JAC,Jacksonville,Jaguars,10,13,win,HOU,Houston,Texans,-10,6,lose
+2013,12,2013-11-24 13:00:00,SD,San Diego,Chargers,4.5,41,win,KC,Kansas City,Chiefs,-4.5,38,lose
+2013,12,2013-11-24 13:00:00,NYJ,New York,Jets,3.5,3,lose,BAL,Baltimore,Ravens,-3.5,19,win
+2013,12,2013-11-24 13:00:00,PIT,Pittsburgh,Steelers,2,27,win,CLE,Cleveland,Browns,-2,11,lose
+2013,12,2013-11-24 13:00:00,TB,Tampa Bay,Buccaneers,9,24,win,DET,Detroit,Lions,-9,21,lose
+2013,12,2013-11-24 13:00:00,TEN,Tennessee,Titans,1,23,win,OAK,Oakland,Raiders,-1,19,lose
+2013,12,2013-11-24 13:00:00,DAL,Dallas,Cowboys,2.5,24,win,NYG,New York,Giants,-2.5,21,lose
+2013,12,2013-11-24 13:00:00,DEN,Denver,Broncos,-2.5,31,lose,NE,New England,Patriots,2.5,34,win
+2013,12,2013-11-25 20:30:00,SF,San Francisco,49ers,-5.5,27,win,WAS,Washington,Redskins,5.5,6,lose
+2013,13,2013-11-28 20:30:00,PIT,Pittsburgh,Steelers,3,20,win,BAL,Baltimore,Ravens,-3,22,lose
+2013,13,2013-11-28 20:30:00,OAK,Oakland,Raiders,9.5,24,win,DAL,Dallas,Cowboys,-9.5,31,lose
+2013,13,2013-11-28 20:30:00,GB,Green Bay,Packers,6.5,10,lose,DET,Detroit,Lions,-6.5,40,win
+2013,13,2013-12-01 13:00:00,TEN,Tennessee,Titans,4.5,14,lose,IND,Indianapolis,Colts,-4.5,22,win
+2013,13,2013-12-01 13:00:00,DEN,Denver,Broncos,-4.5,35,win,KC,Kansas City,Chiefs,4.5,28,lose
+2013,13,2013-12-01 13:00:00,MIA,Miami,Dolphins,2,23,win,NYJ,New York,Jets,-2,3,lose
+2013,13,2013-12-01 13:00:00,NYG,New York,Giants,-1,24,win,WAS,Washington,Redskins,1,17,lose
+2013,13,2013-12-01 13:00:00,JAC,Jacksonville,Jaguars,7,32,win,CLE,Cleveland,Browns,-7,28,lose
+2013,13,2013-12-01 13:00:00,STL,St. Louis,Rams,8,13,lose,SF,San Francisco,49ers,-8,23,win
+2013,13,2013-12-01 13:00:00,NE,New England,Patriots,-7.5,34,lose,HOU,Houston,Texans,7.5,31,win
+2013,13,2013-12-01 13:00:00,TB,Tampa Bay,Buccaneers,8,6,lose,CAR,Carolina,Panthers,-8,27,win
+2013,13,2013-12-01 13:00:00,ARI,Arizona,Cardinals,3,21,push,PHI,Philadelphia,Eagles,-3,24,push
+2013,13,2013-12-01 13:00:00,CHI,Chicago,Bears,0,20,lose,MIN,Minnesota,Vikings,0,23,win
+2013,13,2013-12-01 13:00:00,CIN,Cincinnati,Bengals,0,17,win,SD,San Diego,Chargers,0,10,lose
+2013,13,2013-12-01 13:00:00,ATL,Atlanta,Falcons,3,34,win,BUF,Buffalo,Bills,-3,31,lose
+2013,13,2013-12-02 20:30:00,NO,New Orleans,Saints,4.5,7,lose,SEA,Seattle,Seahawks,-4.5,34,win
+2013,14,2013-12-05 20:30:00,HOU,Houston,Texans,-3,20,lose,JAC,Jacksonville,Jaguars,3,27,win
+2013,14,2013-12-08 13:00:00,ATL,Atlanta,Falcons,3.5,21,win,GB,Green Bay,Packers,-3.5,22,lose
+2013,14,2013-12-08 13:00:00,IND,Indianapolis,Colts,6,28,lose,CIN,Cincinnati,Bengals,-6,42,win
+2013,14,2013-12-08 13:00:00,MIN,Minnesota,Vikings,7,26,win,BAL,Baltimore,Ravens,-7,29,lose
+2013,14,2013-12-08 13:00:00,BUF,Buffalo,Bills,2.5,6,lose,TB,Tampa Bay,Buccaneers,-2.5,27,win
+2013,14,2013-12-08 13:00:00,CAR,Carolina,Panthers,3.5,13,lose,NO,New Orleans,Saints,-3.5,31,win
+2013,14,2013-12-08 13:00:00,STL,St. Louis,Rams,6.5,10,lose,ARI,Arizona,Cardinals,-6.5,30,win
+2013,14,2013-12-08 13:00:00,TEN,Tennessee,Titans,12,28,lose,DEN,Denver,Broncos,-12,51,win
+2013,14,2013-12-08 13:00:00,OAK,Oakland,Raiders,2.5,27,lose,NYJ,New York,Jets,-2.5,37,win
+2013,14,2013-12-08 13:00:00,DET,Detroit,Lions,2.5,20,lose,PHI,Philadelphia,Eagles,-2.5,34,win
+2013,14,2013-12-08 13:00:00,KC,Kansas City,Chiefs,-3.5,45,win,WAS,Washington,Redskins,3.5,10,lose
+2013,14,2013-12-08 13:00:00,CLE,Cleveland,Browns,11.5,26,win,NE,New England,Patriots,-11.5,27,lose
+2013,14,2013-12-08 13:00:00,SEA,Seattle,Seahawks,3,17,win,SF,San Francisco,49ers,-3,19,lose
+2013,14,2013-12-08 13:00:00,NYG,New York,Giants,3,14,lose,SD,San Diego,Chargers,-3,37,win
+2013,14,2013-12-08 13:00:00,MIA,Miami,Dolphins,3,34,win,PIT,Pittsburgh,Steelers,-3,28,lose
+2013,14,2013-12-09 20:30:00,DAL,Dallas,Cowboys,1,28,lose,CHI,Chicago,Bears,-1,45,win
+2013,15,2013-12-12 20:30:00,SD,San Diego,Chargers,10.5,27,win,DEN,Denver,Broncos,-10.5,20,lose
+2013,15,2013-12-15 13:00:00,CIN,Cincinnati,Bengals,-3,20,lose,PIT,Pittsburgh,Steelers,3,30,win
+2013,15,2013-12-15 13:00:00,NO,New Orleans,Saints,-6,16,lose,STL,St. Louis,Rams,6,27,win
+2013,15,2013-12-15 13:00:00,NYJ,New York,Jets,11,20,win,CAR,Carolina,Panthers,-11,30,lose
+2013,15,2013-12-15 13:00:00,CHI,Chicago,Bears,1,38,win,CLE,Cleveland,Browns,-1,31,lose
+2013,15,2013-12-15 13:00:00,SEA,Seattle,Seahawks,-7,23,win,NYG,New York,Giants,7,0,lose
+2013,15,2013-12-15 13:00:00,GB,Green Bay,Packers,7.5,37,win,DAL,Dallas,Cowboys,-7.5,36,lose
+2013,15,2013-12-15 13:00:00,BUF,Buffalo,Bills,-2.5,27,win,JAC,Jacksonville,Jaguars,2.5,20,lose
+2013,15,2013-12-15 13:00:00,PHI,Philadelphia,Eagles,-5,30,lose,MIN,Minnesota,Vikings,5,48,win
+2013,15,2013-12-15 13:00:00,ARI,Arizona,Cardinals,-2.5,37,win,TEN,Tennessee,Titans,2.5,34,lose
+2013,15,2013-12-15 13:00:00,KC,Kansas City,Chiefs,-4.5,56,win,OAK,Oakland,Raiders,4.5,31,lose
+2013,15,2013-12-15 13:00:00,NE,New England,Patriots,-2.5,20,lose,MIA,Miami,Dolphins,2.5,24,win
+2013,15,2013-12-15 13:00:00,WAS,Washington,Redskins,6.5,26,win,ATL,Atlanta,Falcons,-6.5,27,lose
+2013,15,2013-12-15 13:00:00,SF,San Francisco,49ers,-5.5,33,win,TB,Tampa Bay,Buccaneers,5.5,14,lose
+2013,15,2013-12-15 13:00:00,HOU,Houston,Texans,5.5,3,lose,IND,Indianapolis,Colts,-5.5,25,win
+2013,15,2013-12-16 20:30:00,BAL,Baltimore,Ravens,6,18,win,DET,Detroit,Lions,-6,16,lose
+2013,16,2013-12-22 13:00:00,IND,Indianapolis,Colts,7,23,win,KC,Kansas City,Chiefs,-7,7,lose
+2013,16,2013-12-22 13:00:00,CHI,Chicago,Bears,3,11,lose,PHI,Philadelphia,Eagles,-3,54,win
+2013,16,2013-12-22 13:00:00,MIN,Minnesota,Vikings,7,14,lose,CIN,Cincinnati,Bengals,-7,42,win
+2013,16,2013-12-22 13:00:00,PIT,Pittsburgh,Steelers,7,38,win,GB,Green Bay,Packers,-7,31,lose
+2013,16,2013-12-22 13:00:00,CLE,Cleveland,Browns,2.5,13,lose,NYJ,New York,Jets,-2.5,24,win
+2013,16,2013-12-22 13:00:00,TEN,Tennessee,Titans,-5.5,20,lose,JAC,Jacksonville,Jaguars,5.5,16,win
+2013,16,2013-12-22 13:00:00,MIA,Miami,Dolphins,-2.5,0,lose,BUF,Buffalo,Bills,2.5,19,win
+2013,16,2013-12-22 13:00:00,NE,New England,Patriots,2.5,41,win,BAL,Baltimore,Ravens,-2.5,7,lose
+2013,16,2013-12-22 13:00:00,TB,Tampa Bay,Buccaneers,5,13,lose,STL,St. Louis,Rams,-5,23,win
+2013,16,2013-12-22 13:00:00,DAL,Dallas,Cowboys,-3,24,lose,WAS,Washington,Redskins,3,23,win
+2013,16,2013-12-22 13:00:00,DEN,Denver,Broncos,-10.5,37,win,HOU,Houston,Texans,10.5,13,lose
+2013,16,2013-12-22 13:00:00,OAK,Oakland,Raiders,10,13,lose,SD,San Diego,Chargers,-10,26,win
+2013,16,2013-12-22 13:00:00,ARI,Arizona,Cardinals,10.5,17,win,SEA,Seattle,Seahawks,-10.5,10,lose
+2013,16,2013-12-22 13:00:00,NO,New Orleans,Saints,3,13,lose,CAR,Carolina,Panthers,-3,17,win
+2013,16,2013-12-22 13:00:00,NYG,New York,Giants,9.5,23,win,DET,Detroit,Lions,-9.5,20,lose
+2013,16,2013-12-23 20:30:00,ATL,Atlanta,Falcons,12.5,24,win,SF,San Francisco,49ers,-12.5,34,lose
+2013,17,2013-12-29 13:00:00,STL,St. Louis,Rams,10.5,9,lose,SEA,Seattle,Seahawks,-10.5,27,win
+2013,17,2013-12-29 13:00:00,HOU,Houston,Texans,7,10,win,TEN,Tennessee,Titans,-7,16,lose
+2013,17,2013-12-29 13:00:00,JAC,Jacksonville,Jaguars,11.5,10,lose,IND,Indianapolis,Colts,-11.5,30,win
+2013,17,2013-12-29 13:00:00,NYJ,New York,Jets,6.5,20,win,MIA,Miami,Dolphins,-6.5,7,lose
+2013,17,2013-12-29 13:00:00,DET,Detroit,Lions,3,13,win,MIN,Minnesota,Vikings,-3,14,lose
+2013,17,2013-12-29 13:00:00,WAS,Washington,Redskins,3.5,6,lose,NYG,New York,Giants,-3.5,20,win
+2013,17,2013-12-29 13:00:00,GB,Green Bay,Packers,4.5,33,win,CHI,Chicago,Bears,-4.5,28,lose
+2013,17,2013-12-29 13:00:00,TB,Tampa Bay,Buccaneers,12.5,17,lose,NO,New Orleans,Saints,-12.5,42,win
+2013,17,2013-12-29 13:00:00,CAR,Carolina,Panthers,-7,21,lose,ATL,Atlanta,Falcons,7,20,win
+2013,17,2013-12-29 13:00:00,BUF,Buffalo,Bills,9,20,lose,NE,New England,Patriots,-9,34,win
+2013,17,2013-12-29 13:00:00,DEN,Denver,Broncos,-12.5,34,win,OAK,Oakland,Raiders,12.5,14,lose
+2013,17,2013-12-29 13:00:00,BAL,Baltimore,Ravens,6,17,lose,CIN,Cincinnati,Bengals,-6,34,win
+2013,17,2013-12-29 13:00:00,PHI,Philadelphia,Eagles,-6.5,24,lose,DAL,Dallas,Cowboys,6.5,22,win
+2013,17,2013-12-29 13:00:00,KC,Kansas City,Chiefs,9.5,24,win,SD,San Diego,Chargers,-9.5,27,lose
+2013,17,2013-12-29 13:00:00,CLE,Cleveland,Browns,7,7,lose,PIT,Pittsburgh,Steelers,-7,20,win
+2013,17,2013-12-29 13:00:00,SF,San Francisco,49ers,-1,23,win,ARI,Arizona,Cardinals,1,20,lose
