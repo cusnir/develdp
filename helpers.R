@@ -135,3 +135,21 @@ filter_stats_by_year <- function (data_source, start_year, end_year) {
         summarise(team_score=sum(team_score), win_counts=sum(nr_wins), lose_counts=sum(nr_losses), push_nr=sum(nr_pushes)) %>%
         arrange(desc(win_counts, team_score))
 }
+
+create_top_stats <- function (data_source, start_year, end_year, top_nr) {
+    team_scores_cum <- filter(data_source, year>=start_year & year<=end_year) %>%
+        group_by(team_name) %>%
+        mutate(score_cumulative=cumsum(team_score), wins_cumulative=cumsum(nr_wins)) %>%
+        group_by(year) %>%
+        arrange(desc(wins_cumulative), desc(score_cumulative))
+    
+    stats_by_year <- filter(team_scores_cum, year>=start_year & year<=end_year) %>% arrange(desc(nr_wins), desc(team_score))
+    
+    top_n_teams <- filter(stats_by_year, year==end_year) %>%
+        select(team_name, wins_cumulative, score_cumulative) %>%
+        arrange(desc(wins_cumulative), desc(score_cumulative)) %>%
+        top_n(top_nr)
+    
+    filter(team_scores_cum, team_name %in% top_n_teams$team_name) %>%
+        arrange(desc(wins_cumulative), desc(score_cumulative))
+}
