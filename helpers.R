@@ -117,7 +117,7 @@ create_team_stats <- function(data_source){
         
         i <- i + 1
     }
-    data.frame(year=rep(data_source$year[1], nrow(unique_teams)), teams_names, teams_scores, nr_wins, nr_losses, nr_pushes, nr_wins_ats, nr_losses_ats, nr_pushes_ats, stringsAsFactors=FALSE)
+    data.frame(year=rep(data_source$year[1], nrow(unique_teams)), team_name=teams_names, team_score=teams_scores, nr_wins, nr_losses, nr_pushes, nr_wins_ats, nr_losses_ats, nr_pushes_ats, stringsAsFactors=FALSE)
 }
 
 process_csv <- function(year){
@@ -130,8 +130,8 @@ process_csv <- function(year){
 }
 
 filter_stats_by_year <- function (data_source, start_year, end_year) {
-    group_by(data_source, teams_names) %>%
+    group_by(data_source, team_name) %>%
         filter(year>=start_year & year<=end_year) %>%
-        summarise(teams_scores=sum(teams_scores), win_counts=sum(nr_wins), lose_counts=sum(nr_losses), push_nr=sum(nr_pushes)) %>%
-        arrange(desc(win_counts, team_scores))
+        summarise(team_score=sum(team_score), win_counts=sum(nr_wins), lose_counts=sum(nr_losses), push_nr=sum(nr_pushes)) %>%
+        arrange(desc(win_counts, team_score))
 }
