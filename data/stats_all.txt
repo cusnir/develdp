@@ -1,0 +1,257 @@
+"year" "teams_names" "teams_scores" "nr_wins" "nr_losses" "nr_pushes" "nr_wins_ats" "nr_losses_ats" "nr_pushes_ats"
+2008 "Arizona Cardinals" 427 9 7 0 9 7 0
+2008 "Atlanta Falcons" 391 11 5 0 11 5 0
+2008 "Baltimore Ravens" 385 11 5 0 11 5 0
+2008 "Buffalo Bills" 336 7 9 0 7 9 0
+2008 "Carolina Panthers" 414 12 4 0 12 4 0
+2008 "Chicago Bears" 375 9 7 0 9 7 0
+2008 "Cincinnati Bengals" 204 4 11 1 4 11 1
+2008 "Cleveland Browns" 232 4 12 0 4 12 0
+2008 "Dallas Cowboys" 362 9 7 0 9 7 0
+2008 "Denver Broncos" 370 8 8 0 8 8 0
+2008 "Detroit Lions" 268 0 16 0 0 16 0
+2008 "Green Bay Packers" 419 6 10 0 6 10 0
+2008 "Houston Texans" 366 8 8 0 8 8 0
+2008 "Indianapolis Colts" 377 12 4 0 12 4 0
+2008 "Jacksonville Jaguars" 302 5 11 0 5 11 0
+2008 "Kansas City Chiefs" 291 2 14 0 2 14 0
+2008 "Miami Dolphins" 345 11 5 0 11 5 0
+2008 "Minnesota Vikings" 379 10 6 0 10 6 0
+2008 "New England Patriots" 410 11 5 0 11 5 0
+2008 "New Orleans Saints" 463 8 8 0 8 8 0
+2008 "New York Giants" 427 12 4 0 12 4 0
+2008 "New York Jets" 405 9 7 0 9 7 0
+2008 "Oakland Raiders" 263 5 11 0 5 11 0
+2008 "Philadelphia Eagles" 416 9 6 1 9 6 1
+2008 "Pittsburgh Steelers" 347 12 4 0 12 4 0
+2008 "San Diego Chargers" 439 8 8 0 8 8 0
+2008 "San Francisco 49ers" 339 7 9 0 7 9 0
+2008 "Seattle Seahawks" 294 4 12 0 4 12 0
+2008 "St. Louis Rams" 232 2 14 0 2 14 0
+2008 "Tampa Bay Buccaneers" 361 9 7 0 9 7 0
+2008 "Tennessee Titans" 375 13 3 0 13 3 0
+2008 "Washington Redskins" 265 8 8 0 8 8 0
+2009 "Arizona Cardinals" 375 10 6 0 10 6 0
+2009 "Atlanta Falcons" 363 9 7 0 9 7 0
+2009 "Baltimore Ravens" 391 9 7 0 9 7 0
+2009 "Buffalo Bills" 258 6 10 0 6 10 0
+2009 "Carolina Panthers" 315 8 8 0 8 8 0
+2009 "Chicago Bears" 327 7 9 0 7 9 0
+2009 "Cincinnati Bengals" 305 10 6 0 10 6 0
+2009 "Cleveland Browns" 245 5 11 0 5 11 0
+2009 "Dallas Cowboys" 361 11 5 0 11 5 0
+2009 "Denver Broncos" 326 8 8 0 8 8 0
+2009 "Detroit Lions" 262 2 14 0 2 14 0
+2009 "Green Bay Packers" 461 11 5 0 11 5 0
+2009 "Houston Texans" 388 9 7 0 9 7 0
+2009 "Indianapolis Colts" 416 14 2 0 14 2 0
+2009 "Jacksonville Jaguars" 259 7 9 0 7 9 0
+2009 "Kansas City Chiefs" 294 4 12 0 4 12 0
+2009 "Miami Dolphins" 360 7 9 0 7 9 0
+2009 "Minnesota Vikings" 470 12 4 0 12 4 0
+2009 "New England Patriots" 427 10 6 0 10 6 0
+2009 "New Orleans Saints" 510 13 3 0 13 3 0
+2009 "New York Giants" 402 8 8 0 8 8 0
+2009 "New York Jets" 348 9 7 0 9 7 0
+2009 "Oakland Raiders" 197 5 11 0 5 11 0
+2009 "Philadelphia Eagles" 429 11 5 0 11 5 0
+2009 "Pittsburgh Steelers" 368 9 7 0 9 7 0
+2009 "San Diego Chargers" 454 13 3 0 13 3 0
+2009 "San Francisco 49ers" 330 8 8 0 8 8 0
+2009 "Seattle Seahawks" 280 5 11 0 5 11 0
+2009 "St. Louis Rams" 175 1 15 0 1 15 0
+2009 "Tampa Bay Buccaneers" 244 3 13 0 3 13 0
+2009 "Tennessee Titans" 354 8 8 0 8 8 0
+2009 "Washington Redskins" 266 4 12 0 4 12 0
+2010 "Arizona Cardinals" 289 5 11 0 5 11 0
+2010 "Atlanta Falcons" 414 13 3 0 13 3 0
+2010 "Baltimore Ravens" 357 12 4 0 12 4 0
+2010 "Buffalo Bills" 283 4 12 0 4 12 0
+2010 "Carolina Panthers" 196 2 14 0 2 14 0
+2010 "Chicago Bears" 334 11 5 0 11 5 0
+2010 "Cincinnati Bengals" 322 4 12 0 4 12 0
+2010 "Cleveland Browns" 271 5 11 0 5 11 0
+2010 "Dallas Cowboys" 394 6 10 0 6 10 0
+2010 "Denver Broncos" 344 4 12 0 4 12 0
+2010 "Detroit Lions" 362 6 10 0 6 10 0
+2010 "Green Bay Packers" 388 10 6 0 10 6 0
+2010 "Houston Texans" 390 6 10 0 6 10 0
+2010 "Indianapolis Colts" 435 10 6 0 10 6 0
+2010 "Jacksonville Jaguars" 353 8 8 0 8 8 0
+2010 "Kansas City Chiefs" 366 10 6 0 10 6 0
+2010 "Miami Dolphins" 273 7 9 0 7 9 0
+2010 "Minnesota Vikings" 281 6 10 0 6 10 0
+2010 "New England Patriots" 518 14 2 0 14 2 0
+2010 "New Orleans Saints" 384 11 5 0 11 5 0
+2010 "New York Giants" 394 10 6 0 10 6 0
+2010 "New York Jets" 367 11 5 0 11 5 0
+2010 "Oakland Raiders" 410 8 8 0 8 8 0
+2010 "Philadelphia Eagles" 439 10 6 0 10 6 0
+2010 "Pittsburgh Steelers" 375 12 4 0 12 4 0
+2010 "San Diego Chargers" 441 9 7 0 9 7 0
+2010 "San Francisco 49ers" 305 6 10 0 6 10 0
+2010 "Seattle Seahawks" 310 7 9 0 7 9 0
+2010 "St. Louis Rams" 289 7 9 0 7 9 0
+2010 "Tampa Bay Buccaneers" 341 10 6 0 10 6 0
+2010 "Tennessee Titans" 356 6 10 0 6 10 0
+2010 "Washington Redskins" 302 6 10 0 6 10 0
+2011 "Arizona Cardinals" 312 8 8 0 8 8 0
+2011 "Atlanta Falcons" 402 10 6 0 10 6 0
+2011 "Baltimore Ravens" 378 12 4 0 12 4 0
+2011 "Buffalo Bills" 372 6 10 0 6 10 0
+2011 "Carolina Panthers" 406 6 10 0 6 10 0
+2011 "Chicago Bears" 353 8 8 0 8 8 0
+2011 "Cincinnati Bengals" 344 9 7 0 9 7 0
+2011 "Cleveland Browns" 218 4 12 0 4 12 0
+2011 "Dallas Cowboys" 369 8 8 0 8 8 0
+2011 "Denver Broncos" 309 8 8 0 8 8 0
+2011 "Detroit Lions" 474 10 6 0 10 6 0
+2011 "Green Bay Packers" 560 15 1 0 15 1 0
+2011 "Houston Texans" 381 10 6 0 10 6 0
+2011 "Indianapolis Colts" 243 2 14 0 2 14 0
+2011 "Jacksonville Jaguars" 243 5 11 0 5 11 0
+2011 "Kansas City Chiefs" 212 7 9 0 7 9 0
+2011 "Miami Dolphins" 329 6 10 0 6 10 0
+2011 "Minnesota Vikings" 340 3 13 0 3 13 0
+2011 "New England Patriots" 513 13 3 0 13 3 0
+2011 "New Orleans Saints" 547 13 3 0 13 3 0
+2011 "New York Giants" 394 9 7 0 9 7 0
+2011 "New York Jets" 377 8 8 0 8 8 0
+2011 "Oakland Raiders" 359 8 8 0 8 8 0
+2011 "Philadelphia Eagles" 396 8 8 0 8 8 0
+2011 "Pittsburgh Steelers" 325 12 4 0 12 4 0
+2011 "San Diego Chargers" 406 8 8 0 8 8 0
+2011 "San Francisco 49ers" 380 13 3 0 13 3 0
+2011 "Seattle Seahawks" 321 7 9 0 7 9 0
+2011 "St. Louis Rams" 193 2 14 0 2 14 0
+2011 "Tampa Bay Buccaneers" 287 4 12 0 4 12 0
+2011 "Tennessee Titans" 325 9 7 0 9 7 0
+2011 "Washington Redskins" 288 5 11 0 5 11 0
+2012 "Arizona Cardinals" 250 5 11 0 5 11 0
+2012 "Atlanta Falcons" 419 13 3 0 13 3 0
+2012 "Baltimore Ravens" 398 10 6 0 10 6 0
+2012 "Buffalo Bills" 344 6 10 0 6 10 0
+2012 "Carolina Panthers" 357 7 9 0 7 9 0
+2012 "Chicago Bears" 375 10 6 0 10 6 0
+2012 "Cincinnati Bengals" 391 10 6 0 10 6 0
+2012 "Cleveland Browns" 302 5 11 0 5 11 0
+2012 "Dallas Cowboys" 376 8 8 0 8 8 0
+2012 "Denver Broncos" 481 13 3 0 13 3 0
+2012 "Detroit Lions" 372 4 12 0 4 12 0
+2012 "Green Bay Packers" 433 11 5 0 11 5 0
+2012 "Houston Texans" 416 12 4 0 12 4 0
+2012 "Indianapolis Colts" 357 11 5 0 11 5 0
+2012 "Jacksonville Jaguars" 255 2 14 0 2 14 0
+2012 "Kansas City Chiefs" 211 2 14 0 2 14 0
+2012 "Miami Dolphins" 288 7 9 0 7 9 0
+2012 "Minnesota Vikings" 379 10 6 0 10 6 0
+2012 "New England Patriots" 557 12 4 0 12 4 0
+2012 "New Orleans Saints" 461 7 9 0 7 9 0
+2012 "New York Giants" 429 9 7 0 9 7 0
+2012 "New York Jets" 281 6 10 0 6 10 0
+2012 "Oakland Raiders" 290 4 12 0 4 12 0
+2012 "Philadelphia Eagles" 280 4 12 0 4 12 0
+2012 "Pittsburgh Steelers" 336 8 8 0 8 8 0
+2012 "San Diego Chargers" 350 7 9 0 7 9 0
+2012 "San Francisco 49ers" 397 11 4 1 11 4 1
+2012 "Seattle Seahawks" 412 11 5 0 11 5 0
+2012 "St. Louis Rams" 299 7 8 1 7 8 1
+2012 "Tampa Bay Buccaneers" 389 7 9 0 7 9 0
+2012 "Tennessee Titans" 330 6 10 0 6 10 0
+2012 "Washington Redskins" 436 10 6 0 10 6 0
+2013 "Arizona Cardinals" 379 10 6 0 11 4 1
+2013 "Atlanta Falcons" 353 4 12 0 7 9 0
+2013 "Baltimore Ravens" 320 8 8 0 7 8 1
+2013 "Buffalo Bills" 339 6 10 0 8 8 0
+2013 "Carolina Panthers" 366 12 4 0 9 6 1
+2013 "Chicago Bears" 445 8 8 0 5 9 2
+2013 "Cincinnati Bengals" 430 11 5 0 10 5 1
+2013 "Cleveland Browns" 308 4 12 0 6 10 0
+2013 "Dallas Cowboys" 439 8 8 0 9 7 0
+2013 "Denver Broncos" 606 13 3 0 11 5 0
+2013 "Detroit Lions" 395 7 9 0 6 10 0
+2013 "Green Bay Packers" 417 8 7 1 6 10 0
+2013 "Houston Texans" 276 2 14 0 3 13 0
+2013 "Indianapolis Colts" 391 11 5 0 10 6 0
+2013 "Jacksonville Jaguars" 247 4 12 0 6 10 0
+2013 "Kansas City Chiefs" 430 11 5 0 9 7 0
+2013 "Miami Dolphins" 317 8 8 0 8 7 1
+2013 "Minnesota Vikings" 391 5 10 1 8 8 0
+2013 "New England Patriots" 444 12 4 0 8 8 0
+2013 "New Orleans Saints" 414 11 5 0 8 7 1
+2013 "New York Giants" 294 7 9 0 7 9 0
+2013 "New York Jets" 290 8 8 0 10 6 0
+2013 "Oakland Raiders" 322 4 12 0 7 9 0
+2013 "Philadelphia Eagles" 442 10 6 0 8 7 1
+2013 "Pittsburgh Steelers" 379 8 8 0 9 7 0
+2013 "San Diego Chargers" 396 9 7 0 9 6 1
+2013 "San Francisco 49ers" 406 12 4 0 10 5 1
+2013 "Seattle Seahawks" 417 13 3 0 11 5 0
+2013 "St. Louis Rams" 348 7 9 0 7 9 0
+2013 "Tampa Bay Buccaneers" 288 4 12 0 6 10 0
+2013 "Tennessee Titans" 362 7 9 0 6 9 1
+2013 "Washington Redskins" 334 3 13 0 5 11 0
+2014 "Arizona Cardinals" 310 11 5 0 11 5 0
+2014 "Atlanta Falcons" 381 6 10 0 8 8 0
+2014 "Baltimore Ravens" 409 10 6 0 8 8 0
+2014 "Buffalo Bills" 343 9 7 0 9 7 0
+2014 "Carolina Panthers" 339 7 8 1 8 8 0
+2014 "Chicago Bears" 319 5 11 0 7 9 0
+2014 "Cincinnati Bengals" 365 10 5 1 8 8 0
+2014 "Cleveland Browns" 299 7 9 0 9 7 0
+2014 "Dallas Cowboys" 470 13 3 0 10 6 0
+2014 "Denver Broncos" 482 12 4 0 8 8 0
+2014 "Detroit Lions" 321 11 5 0 7 9 0
+2014 "Green Bay Packers" 486 12 4 0 8 8 0
+2014 "Houston Texans" 372 9 7 0 9 7 0
+2014 "Indianapolis Colts" 458 11 5 0 11 5 0
+2014 "Jacksonville Jaguars" 249 3 13 0 7 9 0
+2014 "Kansas City Chiefs" 353 9 7 0 11 5 0
+2014 "Miami Dolphins" 388 8 8 0 8 8 0
+2014 "Minnesota Vikings" 325 7 9 0 9 6 1
+2014 "New England Patriots" 468 12 4 0 9 7 0
+2014 "New Orleans Saints" 401 7 9 0 6 10 0
+2014 "New York Giants" 380 6 10 0 7 9 0
+2014 "New York Jets" 283 4 12 0 7 8 1
+2014 "Oakland Raiders" 253 3 13 0 8 8 0
+2014 "Philadelphia Eagles" 474 10 6 0 9 7 0
+2014 "Pittsburgh Steelers" 436 11 5 0 9 7 0
+2014 "San Diego Chargers" 348 9 7 0 7 9 0
+2014 "San Francisco 49ers" 306 8 8 0 4 11 1
+2014 "Seattle Seahawks" 394 12 4 0 9 6 1
+2014 "St. Louis Rams" 324 6 10 0 8 8 0
+2014 "Tampa Bay Buccaneers" 277 2 14 0 7 9 0
+2014 "Tennessee Titans" 254 2 14 0 3 13 0
+2014 "Washington Redskins" 298 3 13 0 5 11 0
+2015 "Arizona Cardinals" 445 12 2 0 9 5 0
+2015 "Atlanta Falcons" 302 7 7 0 5 9 0
+2015 "Baltimore Ravens" 292 4 10 0 3 10 1
+2015 "Buffalo Bills" 341 6 8 0 5 8 1
+2015 "Carolina Panthers" 449 14 0 0 11 3 0
+2015 "Chicago Bears" 289 5 9 0 5 8 1
+2015 "Cincinnati Bengals" 378 11 3 0 11 2 1
+2015 "Cleveland Browns" 253 3 11 0 5 9 0
+2015 "Dallas Cowboys" 246 4 10 0 5 9 0
+2015 "Denver Broncos" 308 10 4 0 8 6 0
+2015 "Detroit Lions" 302 5 9 0 5 8 1
+2015 "Green Bay Packers" 347 10 4 0 9 5 0
+2015 "Houston Texans" 275 7 7 0 7 7 0
+2015 "Indianapolis Colts" 285 6 8 0 6 8 0
+2015 "Jacksonville Jaguars" 343 5 9 0 7 7 0
+2015 "Kansas City Chiefs" 365 9 5 0 8 6 0
+2015 "Miami Dolphins" 278 5 9 0 4 10 0
+2015 "Minnesota Vikings" 296 9 5 0 11 3 0
+2015 "New England Patriots" 435 12 2 0 7 5 2
+2015 "New Orleans Saints" 350 5 9 0 5 8 1
+2015 "New York Giants" 373 6 8 0 8 5 1
+2015 "New York Jets" 344 9 5 0 8 6 0
+2015 "Oakland Raiders" 319 6 8 0 7 7 0
+2015 "Philadelphia Eagles" 318 6 8 0 6 8 0
+2015 "Pittsburgh Steelers" 378 9 5 0 8 4 2
+2015 "San Diego Chargers" 280 4 10 0 6 8 0
+2015 "San Francisco 49ers" 202 4 10 0 6 8 0
+2015 "Seattle Seahawks" 370 9 5 0 7 6 1
+2015 "St. Louis Rams" 241 6 8 0 6 8 0
+2015 "Tampa Bay Buccaneers" 311 6 8 0 7 7 0
+2015 "Tennessee Titans" 269 3 11 0 6 8 0
+2015 "Washington Redskins" 316 7 7 0 7 7 0

@@ -9,7 +9,12 @@ shinyUI(fluidPage(
                         label = "Select contests year to display",
                         choices = c("2011", "2012", "2013", "2014", "2015"),
                         selected = "2011"),
+            sliderInput("range", "Years Range:",
+                        min=2008, max=2015, value=c(2008,2015)),
         width=2),
-        mainPanel(dataTableOutput(outputId="contest_table"))
+        mainPanel(
+            dataTableOutput(outputId="contest_table"),
+            dataTableOutput("team_stats")
+            )
     )
 ))
