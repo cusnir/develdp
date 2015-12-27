@@ -128,3 +128,10 @@ process_csv <- function(year){
     compact_data <- create_compact_data(d)
     create_team_stats(compact_data)
 }
+
+filter_stats_by_year <- function (data_source, start_year, end_year) {
+    group_by(data_source, teams_names) %>%
+        filter(year>=start_year & year<=end_year) %>%
+        summarise(teams_scores=sum(teams_scores), win_counts=sum(nr_wins), lose_counts=sum(nr_losses), push_nr=sum(nr_pushes)) %>%
+        arrange(desc(win_counts, team_scores))
+}
