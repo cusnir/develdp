@@ -17,7 +17,7 @@ year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_
 2015,1,2015-09-14 22:20:00,MIN,Minnesota,Vikings,-2.5,3,lose,SF,San Francisco,49ers,2.5,20,win,41.5,under
 2015,2,2015-09-17 20:25:00,DEN,Denver,Broncos,3,31,win,KC,Kansas City,Chiefs,-3,24,lose,41.5,under
 2015,2,2015-09-20 13:00:00,HOU,Houston,Texans,3,17,lose,CAR,Carolina,Panthers,-3,24,win,40.5,under
-2015,2,2015-09-20 13:00:00,SF,San Francisco,49ers,5.5,18,lose,PIT,Pittsburgh,Steelers,-5.5,42,win,45.5,under
+2015,2,2015-09-20 13:00:00,SF,San Francisco,49ers,5.5,18,lose,PIT,Pittsburgh,Steelers,-5.5,43,win,45.5,under
 2015,2,2015-09-20 13:00:00,TB,Tampa Bay,Buccaneers,10,26,win,NO,New Orleans,Saints,-10,19,lose,47.0,under
 2015,2,2015-09-20 13:00:00,DET,Detroit,Lions,3,16,lose,MIN,Minnesota,Vikings,-3,26,win,44.0,under
 2015,2,2015-09-20 13:00:00,ARI,Arizona,Cardinals,-1.5,48,win,CHI,Chicago,Bears,1.5,23,lose,45.0,under
@@ -175,7 +175,7 @@ year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_
 2015,12,2015-11-29 16:25:00,PIT,Pittsburgh,Steelers,3.5,30,lose,SEA,Seattle,Seahawks,-3.5,39,win,45.5,under
 2015,12,2015-11-29 20:30:00,NE,New England,Patriots,-3,24,lose,DEN,Denver,Broncos,3,30,win,43.0,under
 2015,12,2015-11-30 20:30:00,BAL,Baltimore,Ravens,2.5,33,win,CLE,Cleveland,Browns,-2.5,27,lose,41.0,under
-2015,13,2015-12-03 20:30:00,GB,Green Bay,Packers,-3,27,win,DET,Detroit,Lions,3,23,lose,,
+2015,13,2015-12-03 20:30:00,GB,Green Bay,Packers,-3,27,win,DET,Detroit,Lions,3,23,lose,under
 2015,13,2015-12-06 13:00:00,NYJ,New York,Jets,-2.5,23,win,NYG,New York,Giants,2.5,20,lose,46.5,under
 2015,13,2015-12-06 13:00:00,ARI,Arizona,Cardinals,-5.5,27,win,STL,St. Louis,Rams,5.5,3,lose,43.0,under
 2015,13,2015-12-06 13:00:00,ATL,Atlanta,Falcons,1.5,19,lose,TB,Tampa Bay,Buccaneers,-1.5,23,win,46.0,under
@@ -223,3 +223,35 @@ year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_
 2015,15,2015-12-20 16:25:00,MIA,Miami,Dolphins,2,14,lose,SD,San Diego,Chargers,-2,30,win,46.0,under
 2015,15,2015-12-20 20:30:00,CIN,Cincinnati,Bengals,-4.5,24,win,SF,San Francisco,49ers,4.5,14,lose,40.5,under
 2015,15,2015-12-21 20:30:00,DET,Detroit,Lions,3,35,win,NO,New Orleans,Saints,-3,27,lose,51.0,under
+2015,16,2015-12-24 20:25:00,SD,San Diego,Chargers,,,,OAK,Oakland,Raiders,,,,47.0,
+2015,16,2015-12-26 20:25:00,WAS,Washington,Redskins,,,,PHI,Philadelphia,Eagles,,,,48.0,
+2015,16,2015-12-27 13:00:00,NE,New England,Patriots,,,,NYJ,New York,Jets,,,,45.5,
+2015,16,2015-12-27 13:00:00,HOU,Houston,Texans,,,,TEN,Tennessee,Titans,,,,41.0,
+2015,16,2015-12-27 13:00:00,CLE,Cleveland,Browns,,,,KC,Kansas City,Chiefs,,,,42.5,
+2015,16,2015-12-27 13:00:00,IND,Indianapolis,Colts,,,,MIA,Miami,Dolphins,,,,44.0,
+2015,16,2015-12-27 13:00:00,JAC,Jacksonville,Jaguars,,,,NO,New Orleans,Saints,,,,,
+2015,16,2015-12-27 13:00:00,SF,San Francisco,49ers,,,,DET,Detroit,Lions,,,,43.0,
+2015,16,2015-12-27 13:00:00,DAL,Dallas,Cowboys,,,,BUF,Buffalo,Bills,,,,42.0,
+2015,16,2015-12-27 13:00:00,CHI,Chicago,Bears,,,,TB,Tampa Bay,Buccaneers,,,,45.5,
+2015,16,2015-12-27 13:00:00,CAR,Carolina,Panthers,,,,ATL,Atlanta,Falcons,,,,47.5,
+2015,16,2015-12-27 13:00:00,NYG,New York,Giants,,,,MIN,Minnesota,Vikings,,,,44.5,
+2015,16,2015-12-27 16:25:00,STL,St. Louis,Rams,,,,SEA,Seattle,Seahawks,,,,40.5,
+2015,16,2015-12-27 16:25:00,GB,Green Bay,Packers,,,,ARI,Arizona,Cardinals,,,,51.0,
+2015,16,2015-12-27 20:30:00,PIT,Pittsburgh,Steelers,,,,BAL,Baltimore,Ravens,,,,47.0,
+2015,16,2015-12-28 20:30:00,CIN,Cincinnati,Bengals,,,,DEN,Denver,Broncos,,,,39.0,
+2015,17,2016-01-03 13:00:00,NYJ,New York,Jets,,,,BUF,Buffalo,Bills,,,,,
+2015,17,2016-01-03 13:00:00,NE,New England,Patriots,,,,MIA,Miami,Dolphins,,,,,
+2015,17,2016-01-03 13:00:00,TB,Tampa Bay,Buccaneers,,,,CAR,Carolina,Panthers,,,,,
+2015,17,2016-01-03 13:00:00,NO,New Orleans,Saints,,,,ATL,Atlanta,Falcons,,,,,
+2015,17,2016-01-03 13:00:00,BAL,Baltimore,Ravens,,,,CIN,Cincinnati,Bengals,,,,,
+2015,17,2016-01-03 13:00:00,PIT,Pittsburgh,Steelers,,,,CLE,Cleveland,Browns,,,,,
+2015,17,2016-01-03 13:00:00,JAC,Jacksonville,Jaguars,,,,HOU,Houston,Texans,,,,,
+2015,17,2016-01-03 13:00:00,TEN,Tennessee,Titans,,,,IND,Indianapolis,Colts,,,,,
+2015,17,2016-01-03 13:00:00,OAK,Oakland,Raiders,,,,KC,Kansas City,Chiefs,,,,,
+2015,17,2016-01-03 13:00:00,WAS,Washington,Redskins,,,,DAL,Dallas,Cowboys,,,,,
+2015,17,2016-01-03 13:00:00,PHI,Philadelphia,Eagles,,,,NYG,New York,Giants,,,,,
+2015,17,2016-01-03 13:00:00,DET,Detroit,Lions,,,,CHI,Chicago,Bears,,,,,
+2015,17,2016-01-03 13:00:00,MIN,Minnesota,Vikings,,,,GB,Green Bay,Packers,,,,,
+2015,17,2016-01-03 16:25:00,SD,San Diego,Chargers,,,,DEN,Denver,Broncos,,,,,
+2015,17,2016-01-03 16:25:00,SEA,Seattle,Seahawks,,,,ARI,Arizona,Cardinals,,,,,
+2015,17,2016-01-03 16:25:00,STL,St. Louis,Rams,,,,SF,San Francisco,49ers,,,,,

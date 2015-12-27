@@ -1,0 +1,257 @@
+year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_result,home_team,home_city,home_name,home_line,home_score,home_ats_result
+2008,1,2008-09-04 20:30:00,WAS,Washington,Redskins,,7,lose,NYG,New York,Giants,,16,win
+2008,1,2008-09-07 13:00:00,STL,St. Louis,Rams,,3,lose,PHI,Philadelphia,Eagles,,38,win
+2008,1,2008-09-07 13:00:00,HOU,Houston,Texans,,17,lose,PIT,Pittsburgh,Steelers,,38,win
+2008,1,2008-09-07 13:00:00,ARI,Arizona,Cardinals,,23,win,SF,San Francisco,49ers,,13,lose
+2008,1,2008-09-07 13:00:00,CIN,Cincinnati,Bengals,,10,lose,BAL,Baltimore,Ravens,,17,win
+2008,1,2008-09-07 13:00:00,CAR,Carolina,Panthers,,26,win,SD,San Diego,Chargers,,24,lose
+2008,1,2008-09-07 13:00:00,CHI,Chicago,Bears,,29,win,IND,Indianapolis,Colts,,13,lose
+2008,1,2008-09-07 13:00:00,TB,Tampa Bay,Buccaneers,,20,lose,NO,New Orleans,Saints,,24,win
+2008,1,2008-09-07 13:00:00,SEA,Seattle,Seahawks,,10,lose,BUF,Buffalo,Bills,,34,win
+2008,1,2008-09-07 13:00:00,DAL,Dallas,Cowboys,,28,win,CLE,Cleveland,Browns,,10,lose
+2008,1,2008-09-07 13:00:00,DET,Detroit,Lions,,21,lose,ATL,Atlanta,Falcons,,34,win
+2008,1,2008-09-07 13:00:00,JAC,Jacksonville,Jaguars,,10,lose,TEN,Tennessee,Titans,,17,win
+2008,1,2008-09-07 13:00:00,KC,Kansas City,Chiefs,,10,lose,NE,New England,Patriots,,17,win
+2008,1,2008-09-07 13:00:00,NYJ,New York,Jets,,20,win,MIA,Miami,Dolphins,,14,lose
+2008,1,2008-09-08 20:30:00,DEN,Denver,Broncos,,41,win,OAK,Oakland,Raiders,,14,lose
+2008,1,2008-09-08 20:30:00,MIN,Minnesota,Vikings,,19,lose,GB,Green Bay,Packers,,24,win
+2008,2,2008-09-14 13:00:00,OAK,Oakland,Raiders,,23,win,KC,Kansas City,Chiefs,,8,lose
+2008,2,2008-09-14 13:00:00,SD,San Diego,Chargers,,38,lose,DEN,Denver,Broncos,,39,win
+2008,2,2008-09-14 13:00:00,ATL,Atlanta,Falcons,,9,lose,TB,Tampa Bay,Buccaneers,,24,win
+2008,2,2008-09-14 13:00:00,NO,New Orleans,Saints,,24,lose,WAS,Washington,Redskins,,29,win
+2008,2,2008-09-14 13:00:00,NYG,New York,Giants,,41,win,STL,St. Louis,Rams,,13,lose
+2008,2,2008-09-14 13:00:00,SF,San Francisco,49ers,,33,win,SEA,Seattle,Seahawks,,30,lose
+2008,2,2008-09-14 13:00:00,PIT,Pittsburgh,Steelers,,10,win,CLE,Cleveland,Browns,,6,lose
+2008,2,2008-09-14 13:00:00,TEN,Tennessee,Titans,,24,win,CIN,Cincinnati,Bengals,,7,lose
+2008,2,2008-09-14 13:00:00,BUF,Buffalo,Bills,,20,win,JAC,Jacksonville,Jaguars,,16,lose
+2008,2,2008-09-14 13:00:00,NE,New England,Patriots,,19,win,NYJ,New York,Jets,,10,lose
+2008,2,2008-09-14 13:00:00,MIA,Miami,Dolphins,,10,lose,ARI,Arizona,Cardinals,,31,win
+2008,2,2008-09-14 13:00:00,GB,Green Bay,Packers,,48,win,DET,Detroit,Lions,,25,lose
+2008,2,2008-09-14 13:00:00,IND,Indianapolis,Colts,,18,win,MIN,Minnesota,Vikings,,15,lose
+2008,2,2008-09-14 13:00:00,CHI,Chicago,Bears,,17,lose,CAR,Carolina,Panthers,,20,win
+2008,2,2008-09-15 20:30:00,PHI,Philadelphia,Eagles,,37,lose,DAL,Dallas,Cowboys,,41,win
+2008,3,2008-09-21 13:00:00,HOU,Houston,Texans,,12,lose,TEN,Tennessee,Titans,,31,win
+2008,3,2008-09-21 13:00:00,STL,St. Louis,Rams,,13,lose,SEA,Seattle,Seahawks,,37,win
+2008,3,2008-09-21 13:00:00,PIT,Pittsburgh,Steelers,,6,lose,PHI,Philadelphia,Eagles,,15,win
+2008,3,2008-09-21 13:00:00,DET,Detroit,Lions,,13,lose,SF,San Francisco,49ers,,31,win
+2008,3,2008-09-21 13:00:00,ARI,Arizona,Cardinals,,17,lose,WAS,Washington,Redskins,,24,win
+2008,3,2008-09-21 13:00:00,CLE,Cleveland,Browns,,10,lose,BAL,Baltimore,Ravens,,28,win
+2008,3,2008-09-21 13:00:00,TB,Tampa Bay,Buccaneers,,27,win,CHI,Chicago,Bears,,24,lose
+2008,3,2008-09-21 13:00:00,OAK,Oakland,Raiders,,23,lose,BUF,Buffalo,Bills,,24,win
+2008,3,2008-09-21 13:00:00,NO,New Orleans,Saints,,32,lose,DEN,Denver,Broncos,,34,win
+2008,3,2008-09-21 13:00:00,MIA,Miami,Dolphins,,38,win,NE,New England,Patriots,,13,lose
+2008,3,2008-09-21 13:00:00,CAR,Carolina,Panthers,,10,lose,MIN,Minnesota,Vikings,,20,win
+2008,3,2008-09-21 13:00:00,CIN,Cincinnati,Bengals,,23,lose,NYG,New York,Giants,,26,win
+2008,3,2008-09-21 13:00:00,DAL,Dallas,Cowboys,,27,win,GB,Green Bay,Packers,,16,lose
+2008,3,2008-09-21 13:00:00,JAC,Jacksonville,Jaguars,,23,win,IND,Indianapolis,Colts,,21,lose
+2008,3,2008-09-21 13:00:00,KC,Kansas City,Chiefs,,14,lose,ATL,Atlanta,Falcons,,38,win
+2008,3,2008-09-22 20:30:00,NYJ,New York,Jets,,29,lose,SD,San Diego,Chargers,,48,win
+2008,4,2008-09-28 13:00:00,HOU,Houston,Texans,,27,lose,JAC,Jacksonville,Jaguars,,30,win
+2008,4,2008-09-28 13:00:00,SF,San Francisco,49ers,,17,lose,NO,New Orleans,Saints,,31,win
+2008,4,2008-09-28 13:00:00,WAS,Washington,Redskins,,26,win,DAL,Dallas,Cowboys,,24,lose
+2008,4,2008-09-28 13:00:00,BUF,Buffalo,Bills,,31,win,STL,St. Louis,Rams,,14,lose
+2008,4,2008-09-28 13:00:00,GB,Green Bay,Packers,,21,lose,TB,Tampa Bay,Buccaneers,,30,win
+2008,4,2008-09-28 13:00:00,SD,San Diego,Chargers,,28,win,OAK,Oakland,Raiders,,18,lose
+2008,4,2008-09-28 13:00:00,PHI,Philadelphia,Eagles,,20,lose,CHI,Chicago,Bears,,24,win
+2008,4,2008-09-28 13:00:00,MIN,Minnesota,Vikings,,17,lose,TEN,Tennessee,Titans,,30,win
+2008,4,2008-09-28 13:00:00,ATL,Atlanta,Falcons,,9,lose,CAR,Carolina,Panthers,,24,win
+2008,4,2008-09-28 13:00:00,DEN,Denver,Broncos,,19,lose,KC,Kansas City,Chiefs,,33,win
+2008,4,2008-09-28 13:00:00,ARI,Arizona,Cardinals,,35,lose,NYJ,New York,Jets,,56,win
+2008,4,2008-09-28 13:00:00,CLE,Cleveland,Browns,,20,win,CIN,Cincinnati,Bengals,,12,lose
+2008,4,2008-09-29 20:30:00,BAL,Baltimore,Ravens,,20,lose,PIT,Pittsburgh,Steelers,,23,win
+2008,5,2008-10-05 13:00:00,NE,New England,Patriots,,30,win,SF,San Francisco,49ers,,21,lose
+2008,5,2008-10-05 13:00:00,IND,Indianapolis,Colts,,31,win,HOU,Houston,Texans,,27,lose
+2008,5,2008-10-05 13:00:00,SEA,Seattle,Seahawks,,6,lose,NYG,New York,Giants,,44,win
+2008,5,2008-10-05 13:00:00,SD,San Diego,Chargers,,10,lose,MIA,Miami,Dolphins,,17,win
+2008,5,2008-10-05 13:00:00,PIT,Pittsburgh,Steelers,,26,win,JAC,Jacksonville,Jaguars,,21,lose
+2008,5,2008-10-05 13:00:00,TEN,Tennessee,Titans,,13,win,BAL,Baltimore,Ravens,,10,lose
+2008,5,2008-10-05 13:00:00,KC,Kansas City,Chiefs,,0,lose,CAR,Carolina,Panthers,,34,win
+2008,5,2008-10-05 13:00:00,WAS,Washington,Redskins,,23,win,PHI,Philadelphia,Eagles,,17,lose
+2008,5,2008-10-05 13:00:00,CIN,Cincinnati,Bengals,,22,lose,DAL,Dallas,Cowboys,,31,win
+2008,5,2008-10-05 13:00:00,CHI,Chicago,Bears,,34,win,DET,Detroit,Lions,,7,lose
+2008,5,2008-10-05 13:00:00,BUF,Buffalo,Bills,,17,lose,ARI,Arizona,Cardinals,,41,win
+2008,5,2008-10-05 13:00:00,ATL,Atlanta,Falcons,,27,win,GB,Green Bay,Packers,,24,lose
+2008,5,2008-10-05 13:00:00,TB,Tampa Bay,Buccaneers,,13,lose,DEN,Denver,Broncos,,16,win
+2008,5,2008-10-06 20:30:00,MIN,Minnesota,Vikings,,30,win,NO,New Orleans,Saints,,27,lose
+2008,6,2008-10-12 13:00:00,STL,St. Louis,Rams,,19,win,WAS,Washington,Redskins,,17,lose
+2008,6,2008-10-12 13:00:00,NE,New England,Patriots,,10,lose,SD,San Diego,Chargers,,30,win
+2008,6,2008-10-12 13:00:00,BAL,Baltimore,Ravens,,3,lose,IND,Indianapolis,Colts,,31,win
+2008,6,2008-10-12 13:00:00,MIA,Miami,Dolphins,,28,lose,HOU,Houston,Texans,,29,win
+2008,6,2008-10-12 13:00:00,DET,Detroit,Lions,,10,lose,MIN,Minnesota,Vikings,,12,win
+2008,6,2008-10-12 13:00:00,GB,Green Bay,Packers,,27,win,SEA,Seattle,Seahawks,,17,lose
+2008,6,2008-10-12 13:00:00,OAK,Oakland,Raiders,,3,lose,NO,New Orleans,Saints,,34,win
+2008,6,2008-10-12 13:00:00,JAC,Jacksonville,Jaguars,,24,win,DEN,Denver,Broncos,,17,lose
+2008,6,2008-10-12 13:00:00,PHI,Philadelphia,Eagles,,40,win,SF,San Francisco,49ers,,26,lose
+2008,6,2008-10-12 13:00:00,DAL,Dallas,Cowboys,,24,lose,ARI,Arizona,Cardinals,,30,win
+2008,6,2008-10-12 13:00:00,CIN,Cincinnati,Bengals,,14,lose,NYJ,New York,Jets,,26,win
+2008,6,2008-10-12 13:00:00,CHI,Chicago,Bears,,20,lose,ATL,Atlanta,Falcons,,22,win
+2008,6,2008-10-12 13:00:00,CAR,Carolina,Panthers,,3,lose,TB,Tampa Bay,Buccaneers,,27,win
+2008,6,2008-10-13 20:30:00,NYG,New York,Giants,,14,lose,CLE,Cleveland,Browns,,35,win
+2008,7,2008-10-19 13:00:00,SEA,Seattle,Seahawks,,10,lose,TB,Tampa Bay,Buccaneers,,20,win
+2008,7,2008-10-19 13:00:00,NYJ,New York,Jets,,13,lose,OAK,Oakland,Raiders,,16,win
+2008,7,2008-10-19 13:00:00,CLE,Cleveland,Browns,,11,lose,WAS,Washington,Redskins,,14,win
+2008,7,2008-10-19 13:00:00,SF,San Francisco,49ers,,17,lose,NYG,New York,Giants,,29,win
+2008,7,2008-10-19 13:00:00,IND,Indianapolis,Colts,,14,lose,GB,Green Bay,Packers,,34,win
+2008,7,2008-10-19 13:00:00,DET,Detroit,Lions,,21,lose,HOU,Houston,Texans,,28,win
+2008,7,2008-10-19 13:00:00,TEN,Tennessee,Titans,,34,win,KC,Kansas City,Chiefs,,10,lose
+2008,7,2008-10-19 13:00:00,BAL,Baltimore,Ravens,,27,win,MIA,Miami,Dolphins,,13,lose
+2008,7,2008-10-19 13:00:00,SD,San Diego,Chargers,,14,lose,BUF,Buffalo,Bills,,23,win
+2008,7,2008-10-19 13:00:00,DAL,Dallas,Cowboys,,14,lose,STL,St. Louis,Rams,,34,win
+2008,7,2008-10-19 13:00:00,PIT,Pittsburgh,Steelers,,38,win,CIN,Cincinnati,Bengals,,10,lose
+2008,7,2008-10-19 13:00:00,NO,New Orleans,Saints,,7,lose,CAR,Carolina,Panthers,,30,win
+2008,7,2008-10-19 13:00:00,MIN,Minnesota,Vikings,,41,lose,CHI,Chicago,Bears,,48,win
+2008,7,2008-10-20 20:30:00,DEN,Denver,Broncos,,7,lose,NE,New England,Patriots,,41,win
+2008,8,2008-10-26 13:00:00,KC,Kansas City,Chiefs,,24,lose,NYJ,New York,Jets,,28,win
+2008,8,2008-10-26 13:00:00,SEA,Seattle,Seahawks,,34,win,SF,San Francisco,49ers,,13,lose
+2008,8,2008-10-26 13:00:00,OAK,Oakland,Raiders,,10,lose,BAL,Baltimore,Ravens,,29,win
+2008,8,2008-10-26 13:00:00,NYG,New York,Giants,,21,win,PIT,Pittsburgh,Steelers,,14,lose
+2008,8,2008-10-26 13:00:00,BUF,Buffalo,Bills,,16,lose,MIA,Miami,Dolphins,,25,win
+2008,8,2008-10-26 13:00:00,ATL,Atlanta,Falcons,,14,lose,PHI,Philadelphia,Eagles,,27,win
+2008,8,2008-10-26 13:00:00,STL,St. Louis,Rams,,16,lose,NE,New England,Patriots,,23,win
+2008,8,2008-10-26 13:00:00,CLE,Cleveland,Browns,,23,win,JAC,Jacksonville,Jaguars,,17,lose
+2008,8,2008-10-26 13:00:00,WAS,Washington,Redskins,,25,win,DET,Detroit,Lions,,17,lose
+2008,8,2008-10-26 13:00:00,TB,Tampa Bay,Buccaneers,,9,lose,DAL,Dallas,Cowboys,,13,win
+2008,8,2008-10-26 13:00:00,SD,San Diego,Chargers,,32,lose,NO,New Orleans,Saints,,37,win
+2008,8,2008-10-26 13:00:00,ARI,Arizona,Cardinals,,23,lose,CAR,Carolina,Panthers,,27,win
+2008,8,2008-10-26 13:00:00,CIN,Cincinnati,Bengals,,6,lose,HOU,Houston,Texans,,35,win
+2008,8,2008-10-27 20:30:00,IND,Indianapolis,Colts,,21,lose,TEN,Tennessee,Titans,,31,win
+2008,9,2008-11-02 13:00:00,PHI,Philadelphia,Eagles,,26,win,SEA,Seattle,Seahawks,,7,lose
+2008,9,2008-11-02 13:00:00,ARI,Arizona,Cardinals,,34,win,STL,St. Louis,Rams,,13,lose
+2008,9,2008-11-02 13:00:00,ATL,Atlanta,Falcons,,24,win,OAK,Oakland,Raiders,,0,lose
+2008,9,2008-11-02 13:00:00,TB,Tampa Bay,Buccaneers,,30,win,KC,Kansas City,Chiefs,,27,lose
+2008,9,2008-11-02 13:00:00,BAL,Baltimore,Ravens,,37,win,CLE,Cleveland,Browns,,27,lose
+2008,9,2008-11-02 13:00:00,NYJ,New York,Jets,,26,win,BUF,Buffalo,Bills,,17,lose
+2008,9,2008-11-02 13:00:00,NE,New England,Patriots,,15,lose,IND,Indianapolis,Colts,,18,win
+2008,9,2008-11-02 13:00:00,MIA,Miami,Dolphins,,26,win,DEN,Denver,Broncos,,17,lose
+2008,9,2008-11-02 13:00:00,HOU,Houston,Texans,,21,lose,MIN,Minnesota,Vikings,,28,win
+2008,9,2008-11-02 13:00:00,GB,Green Bay,Packers,,16,lose,TEN,Tennessee,Titans,,19,win
+2008,9,2008-11-02 13:00:00,DET,Detroit,Lions,,23,lose,CHI,Chicago,Bears,,27,win
+2008,9,2008-11-02 13:00:00,JAC,Jacksonville,Jaguars,,19,lose,CIN,Cincinnati,Bengals,,21,win
+2008,9,2008-11-02 13:00:00,DAL,Dallas,Cowboys,,14,lose,NYG,New York,Giants,,35,win
+2008,9,2008-11-03 20:30:00,PIT,Pittsburgh,Steelers,,23,win,WAS,Washington,Redskins,,6,lose
+2008,10,2008-11-06 20:30:00,DEN,Denver,Broncos,,34,win,CLE,Cleveland,Browns,,30,lose
+2008,10,2008-11-09 13:00:00,NYG,New York,Giants,,36,win,PHI,Philadelphia,Eagles,,31,lose
+2008,10,2008-11-09 13:00:00,KC,Kansas City,Chiefs,,19,lose,SD,San Diego,Chargers,,20,win
+2008,10,2008-11-09 13:00:00,IND,Indianapolis,Colts,,24,win,PIT,Pittsburgh,Steelers,,20,lose
+2008,10,2008-11-09 13:00:00,CAR,Carolina,Panthers,,17,win,OAK,Oakland,Raiders,,6,lose
+2008,10,2008-11-09 13:00:00,SEA,Seattle,Seahawks,,19,lose,MIA,Miami,Dolphins,,21,win
+2008,10,2008-11-09 13:00:00,BAL,Baltimore,Ravens,,41,win,HOU,Houston,Texans,,13,lose
+2008,10,2008-11-09 13:00:00,STL,St. Louis,Rams,,3,lose,NYJ,New York,Jets,,47,win
+2008,10,2008-11-09 13:00:00,BUF,Buffalo,Bills,,10,lose,NE,New England,Patriots,,20,win
+2008,10,2008-11-09 13:00:00,GB,Green Bay,Packers,,27,lose,MIN,Minnesota,Vikings,,28,win
+2008,10,2008-11-09 13:00:00,JAC,Jacksonville,Jaguars,,38,win,DET,Detroit,Lions,,14,lose
+2008,10,2008-11-09 13:00:00,NO,New Orleans,Saints,,20,lose,ATL,Atlanta,Falcons,,34,win
+2008,10,2008-11-09 13:00:00,TEN,Tennessee,Titans,,21,win,CHI,Chicago,Bears,,14,lose
+2008,10,2008-11-10 20:30:00,SF,San Francisco,49ers,,24,lose,ARI,Arizona,Cardinals,,29,win
+2008,11,2008-11-13 20:30:00,NYJ,New York,Jets,,34,win,NE,New England,Patriots,,31,lose
+2008,11,2008-11-16 13:00:00,BAL,Baltimore,Ravens,,10,lose,NYG,New York,Giants,,30,win
+2008,11,2008-11-16 13:00:00,ARI,Arizona,Cardinals,,26,win,SEA,Seattle,Seahawks,,20,lose
+2008,11,2008-11-16 13:00:00,DAL,Dallas,Cowboys,,14,win,WAS,Washington,Redskins,,10,lose
+2008,11,2008-11-16 13:00:00,MIN,Minnesota,Vikings,,13,lose,TB,Tampa Bay,Buccaneers,,19,win
+2008,11,2008-11-16 13:00:00,STL,St. Louis,Rams,,16,lose,SF,San Francisco,49ers,,35,win
+2008,11,2008-11-16 13:00:00,SD,San Diego,Chargers,,10,lose,PIT,Pittsburgh,Steelers,,11,win
+2008,11,2008-11-16 13:00:00,PHI,Philadelphia,Eagles,,13,push,CIN,Cincinnati,Bengals,,13,push
+2008,11,2008-11-16 13:00:00,TEN,Tennessee,Titans,,24,win,JAC,Jacksonville,Jaguars,,14,lose
+2008,11,2008-11-16 13:00:00,CHI,Chicago,Bears,,3,lose,GB,Green Bay,Packers,,37,win
+2008,11,2008-11-16 13:00:00,OAK,Oakland,Raiders,,15,lose,MIA,Miami,Dolphins,,17,win
+2008,11,2008-11-16 13:00:00,DEN,Denver,Broncos,,24,win,ATL,Atlanta,Falcons,,20,lose
+2008,11,2008-11-16 13:00:00,DET,Detroit,Lions,,22,lose,CAR,Carolina,Panthers,,31,win
+2008,11,2008-11-16 13:00:00,HOU,Houston,Texans,,27,lose,IND,Indianapolis,Colts,,33,win
+2008,11,2008-11-16 13:00:00,NO,New Orleans,Saints,,30,win,KC,Kansas City,Chiefs,,20,lose
+2008,11,2008-11-17 20:30:00,CLE,Cleveland,Browns,,29,win,BUF,Buffalo,Bills,,27,lose
+2008,12,2008-11-20 20:30:00,CIN,Cincinnati,Bengals,,10,lose,PIT,Pittsburgh,Steelers,,27,win
+2008,12,2008-11-23 13:00:00,TB,Tampa Bay,Buccaneers,,38,win,DET,Detroit,Lions,,20,lose
+2008,12,2008-11-23 13:00:00,CHI,Chicago,Bears,,27,win,STL,St. Louis,Rams,,3,lose
+2008,12,2008-11-23 13:00:00,MIN,Minnesota,Vikings,,30,win,JAC,Jacksonville,Jaguars,,12,lose
+2008,12,2008-11-23 13:00:00,IND,Indianapolis,Colts,,23,win,SD,San Diego,Chargers,,20,lose
+2008,12,2008-11-23 13:00:00,PHI,Philadelphia,Eagles,,7,lose,BAL,Baltimore,Ravens,,36,win
+2008,12,2008-11-23 13:00:00,WAS,Washington,Redskins,,20,win,SEA,Seattle,Seahawks,,17,lose
+2008,12,2008-11-23 13:00:00,SF,San Francisco,49ers,,22,lose,DAL,Dallas,Cowboys,,35,win
+2008,12,2008-11-23 13:00:00,OAK,Oakland,Raiders,,31,win,DEN,Denver,Broncos,,10,lose
+2008,12,2008-11-23 13:00:00,NYJ,New York,Jets,,34,win,TEN,Tennessee,Titans,,13,lose
+2008,12,2008-11-23 13:00:00,NYG,New York,Giants,,37,win,ARI,Arizona,Cardinals,,29,lose
+2008,12,2008-11-23 13:00:00,NE,New England,Patriots,,48,win,MIA,Miami,Dolphins,,28,lose
+2008,12,2008-11-23 13:00:00,HOU,Houston,Texans,,16,win,CLE,Cleveland,Browns,,6,lose
+2008,12,2008-11-23 13:00:00,CAR,Carolina,Panthers,,28,lose,ATL,Atlanta,Falcons,,45,win
+2008,12,2008-11-23 13:00:00,BUF,Buffalo,Bills,,54,win,KC,Kansas City,Chiefs,,31,lose
+2008,12,2008-11-24 20:30:00,GB,Green Bay,Packers,,29,lose,NO,New Orleans,Saints,,51,win
+2008,13,2008-11-27 20:30:00,TEN,Tennessee,Titans,,47,win,DET,Detroit,Lions,,10,lose
+2008,13,2008-11-27 20:30:00,ARI,Arizona,Cardinals,,20,lose,PHI,Philadelphia,Eagles,,48,win
+2008,13,2008-11-27 20:30:00,SEA,Seattle,Seahawks,,9,lose,DAL,Dallas,Cowboys,,34,win
+2008,13,2008-11-30 13:00:00,MIA,Miami,Dolphins,,16,win,STL,St. Louis,Rams,,12,lose
+2008,13,2008-11-30 13:00:00,KC,Kansas City,Chiefs,,20,win,OAK,Oakland,Raiders,,13,lose
+2008,13,2008-11-30 13:00:00,NYG,New York,Giants,,23,win,WAS,Washington,Redskins,,7,lose
+2008,13,2008-11-30 13:00:00,ATL,Atlanta,Falcons,,22,win,SD,San Diego,Chargers,,16,lose
+2008,13,2008-11-30 13:00:00,SF,San Francisco,49ers,,10,win,BUF,Buffalo,Bills,,3,lose
+2008,13,2008-11-30 13:00:00,NO,New Orleans,Saints,,20,lose,TB,Tampa Bay,Buccaneers,,23,win
+2008,13,2008-11-30 13:00:00,BAL,Baltimore,Ravens,,34,win,CIN,Cincinnati,Bengals,,3,lose
+2008,13,2008-11-30 13:00:00,PIT,Pittsburgh,Steelers,,33,win,NE,New England,Patriots,,10,lose
+2008,13,2008-11-30 13:00:00,DEN,Denver,Broncos,,34,win,NYJ,New York,Jets,,17,lose
+2008,13,2008-11-30 13:00:00,IND,Indianapolis,Colts,,10,win,CLE,Cleveland,Browns,,6,lose
+2008,13,2008-11-30 13:00:00,CHI,Chicago,Bears,,14,lose,MIN,Minnesota,Vikings,,34,win
+2008,13,2008-11-30 13:00:00,CAR,Carolina,Panthers,,35,win,GB,Green Bay,Packers,,31,lose
+2008,13,2008-12-01 20:30:00,JAC,Jacksonville,Jaguars,,17,lose,HOU,Houston,Texans,,30,win
+2008,14,2008-12-04 20:30:00,OAK,Oakland,Raiders,,7,lose,SD,San Diego,Chargers,,34,win
+2008,14,2008-12-07 13:00:00,NE,New England,Patriots,,24,win,SEA,Seattle,Seahawks,,21,lose
+2008,14,2008-12-07 13:00:00,DAL,Dallas,Cowboys,,13,lose,PIT,Pittsburgh,Steelers,,20,win
+2008,14,2008-12-07 13:00:00,WAS,Washington,Redskins,,10,lose,BAL,Baltimore,Ravens,,24,win
+2008,14,2008-12-07 13:00:00,STL,St. Louis,Rams,,10,lose,ARI,Arizona,Cardinals,,34,win
+2008,14,2008-12-07 13:00:00,PHI,Philadelphia,Eagles,,20,win,NYG,New York,Giants,,14,lose
+2008,14,2008-12-07 13:00:00,NYJ,New York,Jets,,14,lose,SF,San Francisco,49ers,,24,win
+2008,14,2008-12-07 13:00:00,MIN,Minnesota,Vikings,,20,win,DET,Detroit,Lions,,16,lose
+2008,14,2008-12-07 13:00:00,KC,Kansas City,Chiefs,,17,lose,DEN,Denver,Broncos,,24,win
+2008,14,2008-12-07 13:00:00,JAC,Jacksonville,Jaguars,,10,lose,CHI,Chicago,Bears,,23,win
+2008,14,2008-12-07 13:00:00,HOU,Houston,Texans,,24,win,GB,Green Bay,Packers,,21,lose
+2008,14,2008-12-07 13:00:00,CLE,Cleveland,Browns,,9,lose,TEN,Tennessee,Titans,,28,win
+2008,14,2008-12-07 13:00:00,CIN,Cincinnati,Bengals,,3,lose,IND,Indianapolis,Colts,,35,win
+2008,14,2008-12-07 13:00:00,ATL,Atlanta,Falcons,,25,lose,NO,New Orleans,Saints,,29,win
+2008,14,2008-12-07 13:00:00,MIA,Miami,Dolphins,,16,win,BUF,Buffalo,Bills,,3,lose
+2008,14,2008-12-08 20:30:00,TB,Tampa Bay,Buccaneers,,23,lose,CAR,Carolina,Panthers,,38,win
+2008,15,2008-12-11 20:30:00,NO,New Orleans,Saints,,24,lose,CHI,Chicago,Bears,,27,win
+2008,15,2008-12-14 13:00:00,SEA,Seattle,Seahawks,,23,win,STL,St. Louis,Rams,,20,lose
+2008,15,2008-12-14 13:00:00,PIT,Pittsburgh,Steelers,,13,win,BAL,Baltimore,Ravens,,9,lose
+2008,15,2008-12-14 13:00:00,NE,New England,Patriots,,49,win,OAK,Oakland,Raiders,,26,lose
+2008,15,2008-12-14 13:00:00,WAS,Washington,Redskins,,13,lose,CIN,Cincinnati,Bengals,,20,win
+2008,15,2008-12-14 13:00:00,TB,Tampa Bay,Buccaneers,,10,lose,ATL,Atlanta,Falcons,,13,win
+2008,15,2008-12-14 13:00:00,SF,San Francisco,49ers,,9,lose,MIA,Miami,Dolphins,,14,win
+2008,15,2008-12-14 13:00:00,SD,San Diego,Chargers,,22,win,KC,Kansas City,Chiefs,,21,lose
+2008,15,2008-12-14 13:00:00,TEN,Tennessee,Titans,,12,lose,HOU,Houston,Texans,,13,win
+2008,15,2008-12-14 13:00:00,BUF,Buffalo,Bills,,27,lose,NYJ,New York,Jets,,31,win
+2008,15,2008-12-14 13:00:00,DEN,Denver,Broncos,,10,lose,CAR,Carolina,Panthers,,30,win
+2008,15,2008-12-14 13:00:00,DET,Detroit,Lions,,21,lose,IND,Indianapolis,Colts,,31,win
+2008,15,2008-12-14 13:00:00,GB,Green Bay,Packers,,16,lose,JAC,Jacksonville,Jaguars,,20,win
+2008,15,2008-12-14 13:00:00,MIN,Minnesota,Vikings,,35,win,ARI,Arizona,Cardinals,,14,lose
+2008,15,2008-12-14 13:00:00,NYG,New York,Giants,,8,lose,DAL,Dallas,Cowboys,,20,win
+2008,15,2008-12-15 20:30:00,CLE,Cleveland,Browns,,10,lose,PHI,Philadelphia,Eagles,,30,win
+2008,16,2008-12-18 20:30:00,IND,Indianapolis,Colts,,31,win,JAC,Jacksonville,Jaguars,,24,lose
+2008,16,2008-12-20 13:00:00,BAL,Baltimore,Ravens,,33,win,DAL,Dallas,Cowboys,,24,lose
+2008,16,2008-12-21 13:00:00,PIT,Pittsburgh,Steelers,,14,lose,TEN,Tennessee,Titans,,31,win
+2008,16,2008-12-21 13:00:00,HOU,Houston,Texans,,16,lose,OAK,Oakland,Raiders,,27,win
+2008,16,2008-12-21 13:00:00,NYJ,New York,Jets,,3,lose,SEA,Seattle,Seahawks,,13,win
+2008,16,2008-12-21 13:00:00,SF,San Francisco,49ers,,17,win,STL,St. Louis,Rams,,16,lose
+2008,16,2008-12-21 13:00:00,NO,New Orleans,Saints,,42,win,DET,Detroit,Lions,,7,lose
+2008,16,2008-12-21 13:00:00,MIA,Miami,Dolphins,,38,win,KC,Kansas City,Chiefs,,31,lose
+2008,16,2008-12-21 13:00:00,PHI,Philadelphia,Eagles,,3,lose,WAS,Washington,Redskins,,10,win
+2008,16,2008-12-21 13:00:00,ARI,Arizona,Cardinals,,7,lose,NE,New England,Patriots,,47,win
+2008,16,2008-12-21 13:00:00,CIN,Cincinnati,Bengals,,14,win,CLE,Cleveland,Browns,,0,lose
+2008,16,2008-12-21 13:00:00,CAR,Carolina,Panthers,,28,lose,NYG,New York,Giants,,34,win
+2008,16,2008-12-21 13:00:00,BUF,Buffalo,Bills,,30,win,DEN,Denver,Broncos,,23,lose
+2008,16,2008-12-21 13:00:00,ATL,Atlanta,Falcons,,24,win,MIN,Minnesota,Vikings,,17,lose
+2008,16,2008-12-21 13:00:00,SD,San Diego,Chargers,,41,win,TB,Tampa Bay,Buccaneers,,24,lose
+2008,16,2008-12-22 20:30:00,GB,Green Bay,Packers,,17,lose,CHI,Chicago,Bears,,20,win
+2008,17,2008-12-28 13:00:00,WAS,Washington,Redskins,,24,lose,SF,San Francisco,49ers,,27,win
+2008,17,2008-12-28 13:00:00,OAK,Oakland,Raiders,,31,win,TB,Tampa Bay,Buccaneers,,24,lose
+2008,17,2008-12-28 13:00:00,JAC,Jacksonville,Jaguars,,7,lose,BAL,Baltimore,Ravens,,27,win
+2008,17,2008-12-28 13:00:00,DEN,Denver,Broncos,,21,lose,SD,San Diego,Chargers,,52,win
+2008,17,2008-12-28 13:00:00,DAL,Dallas,Cowboys,,6,lose,PHI,Philadelphia,Eagles,,44,win
+2008,17,2008-12-28 13:00:00,CLE,Cleveland,Browns,,0,lose,PIT,Pittsburgh,Steelers,,31,win
+2008,17,2008-12-28 13:00:00,SEA,Seattle,Seahawks,,21,lose,ARI,Arizona,Cardinals,,34,win
+2008,17,2008-12-28 13:00:00,STL,St. Louis,Rams,,27,lose,ATL,Atlanta,Falcons,,31,win
+2008,17,2008-12-28 13:00:00,TEN,Tennessee,Titans,,0,lose,IND,Indianapolis,Colts,,23,win
+2008,17,2008-12-28 13:00:00,CAR,Carolina,Panthers,,33,win,NO,New Orleans,Saints,,31,lose
+2008,17,2008-12-28 13:00:00,CHI,Chicago,Bears,,24,lose,HOU,Houston,Texans,,31,win
+2008,17,2008-12-28 13:00:00,DET,Detroit,Lions,,21,lose,GB,Green Bay,Packers,,31,win
+2008,17,2008-12-28 13:00:00,KC,Kansas City,Chiefs,,6,lose,CIN,Cincinnati,Bengals,,16,win
+2008,17,2008-12-28 13:00:00,MIA,Miami,Dolphins,,24,win,NYJ,New York,Jets,,17,lose
+2008,17,2008-12-28 13:00:00,NE,New England,Patriots,,13,win,BUF,Buffalo,Bills,,0,lose
+2008,17,2008-12-28 13:00:00,NYG,New York,Giants,,19,lose,MIN,Minnesota,Vikings,,20,win

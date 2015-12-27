@@ -1,0 +1,257 @@
+year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_result,home_team,home_city,home_name,home_line,home_score,home_ats_result
+2010,1,2010-09-09 20:30:00,MIN,Minnesota,Vikings,,9,lose,NO,New Orleans,Saints,,14,win
+2010,1,2010-09-12 13:00:00,ATL,Atlanta,Falcons,,9,lose,PIT,Pittsburgh,Steelers,,15,win
+2010,1,2010-09-12 13:00:00,SF,San Francisco,49ers,,6,lose,SEA,Seattle,Seahawks,,31,win
+2010,1,2010-09-12 13:00:00,OAK,Oakland,Raiders,,13,lose,TEN,Tennessee,Titans,,38,win
+2010,1,2010-09-12 13:00:00,MIA,Miami,Dolphins,,15,win,BUF,Buffalo,Bills,,10,lose
+2010,1,2010-09-12 13:00:00,GB,Green Bay,Packers,,27,win,PHI,Philadelphia,Eagles,,20,lose
+2010,1,2010-09-12 13:00:00,DET,Detroit,Lions,,14,lose,CHI,Chicago,Bears,,19,win
+2010,1,2010-09-12 13:00:00,DEN,Denver,Broncos,,17,lose,JAC,Jacksonville,Jaguars,,24,win
+2010,1,2010-09-12 13:00:00,DAL,Dallas,Cowboys,,7,lose,WAS,Washington,Redskins,,13,win
+2010,1,2010-09-12 13:00:00,ARI,Arizona,Cardinals,,17,win,STL,St. Louis,Rams,,13,lose
+2010,1,2010-09-12 13:00:00,IND,Indianapolis,Colts,,24,lose,HOU,Houston,Texans,,34,win
+2010,1,2010-09-12 13:00:00,CLE,Cleveland,Browns,,14,lose,TB,Tampa Bay,Buccaneers,,17,win
+2010,1,2010-09-12 13:00:00,CIN,Cincinnati,Bengals,,24,lose,NE,New England,Patriots,,38,win
+2010,1,2010-09-12 13:00:00,CAR,Carolina,Panthers,,18,lose,NYG,New York,Giants,,31,win
+2010,1,2010-09-13 20:30:00,SD,San Diego,Chargers,,14,lose,KC,Kansas City,Chiefs,,21,win
+2010,1,2010-09-13 20:30:00,BAL,Baltimore,Ravens,,10,win,NYJ,New York,Jets,,9,lose
+2010,2,2010-09-19 13:00:00,NYG,New York,Giants,,14,lose,IND,Indianapolis,Colts,,38,win
+2010,2,2010-09-19 13:00:00,PHI,Philadelphia,Eagles,,35,win,DET,Detroit,Lions,,32,lose
+2010,2,2010-09-19 13:00:00,PIT,Pittsburgh,Steelers,,19,win,TEN,Tennessee,Titans,,11,lose
+2010,2,2010-09-19 13:00:00,STL,St. Louis,Rams,,14,lose,OAK,Oakland,Raiders,,16,win
+2010,2,2010-09-19 13:00:00,BAL,Baltimore,Ravens,,10,lose,CIN,Cincinnati,Bengals,,15,win
+2010,2,2010-09-19 13:00:00,SEA,Seattle,Seahawks,,14,lose,DEN,Denver,Broncos,,31,win
+2010,2,2010-09-19 13:00:00,TB,Tampa Bay,Buccaneers,,20,win,CAR,Carolina,Panthers,,7,lose
+2010,2,2010-09-19 13:00:00,NE,New England,Patriots,,14,lose,NYJ,New York,Jets,,28,win
+2010,2,2010-09-19 13:00:00,ARI,Arizona,Cardinals,,7,lose,ATL,Atlanta,Falcons,,41,win
+2010,2,2010-09-19 13:00:00,MIA,Miami,Dolphins,,14,win,MIN,Minnesota,Vikings,,10,lose
+2010,2,2010-09-19 13:00:00,KC,Kansas City,Chiefs,,16,win,CLE,Cleveland,Browns,,14,lose
+2010,2,2010-09-19 13:00:00,JAC,Jacksonville,Jaguars,,13,lose,SD,San Diego,Chargers,,38,win
+2010,2,2010-09-19 13:00:00,HOU,Houston,Texans,,30,win,WAS,Washington,Redskins,,27,lose
+2010,2,2010-09-19 13:00:00,BUF,Buffalo,Bills,,7,lose,GB,Green Bay,Packers,,34,win
+2010,2,2010-09-19 13:00:00,CHI,Chicago,Bears,,27,win,DAL,Dallas,Cowboys,,20,lose
+2010,2,2010-09-20 20:30:00,NO,New Orleans,Saints,,25,win,SF,San Francisco,49ers,,22,lose
+2010,3,2010-09-26 13:00:00,TEN,Tennessee,Titans,,29,win,NYG,New York,Giants,,10,lose
+2010,3,2010-09-26 13:00:00,PHI,Philadelphia,Eagles,,28,win,JAC,Jacksonville,Jaguars,,3,lose
+2010,3,2010-09-26 13:00:00,PIT,Pittsburgh,Steelers,,38,win,TB,Tampa Bay,Buccaneers,,13,lose
+2010,3,2010-09-26 13:00:00,OAK,Oakland,Raiders,,23,lose,ARI,Arizona,Cardinals,,24,win
+2010,3,2010-09-26 13:00:00,SD,San Diego,Chargers,,20,lose,SEA,Seattle,Seahawks,,27,win
+2010,3,2010-09-26 13:00:00,SF,San Francisco,49ers,,10,lose,KC,Kansas City,Chiefs,,31,win
+2010,3,2010-09-26 13:00:00,WAS,Washington,Redskins,,16,lose,STL,St. Louis,Rams,,30,win
+2010,3,2010-09-26 13:00:00,NYJ,New York,Jets,,31,win,MIA,Miami,Dolphins,,23,lose
+2010,3,2010-09-26 13:00:00,ATL,Atlanta,Falcons,,27,win,NO,New Orleans,Saints,,24,lose
+2010,3,2010-09-26 13:00:00,DET,Detroit,Lions,,10,lose,MIN,Minnesota,Vikings,,24,win
+2010,3,2010-09-26 13:00:00,DAL,Dallas,Cowboys,,27,win,HOU,Houston,Texans,,13,lose
+2010,3,2010-09-26 13:00:00,IND,Indianapolis,Colts,,27,win,DEN,Denver,Broncos,,13,lose
+2010,3,2010-09-26 13:00:00,CLE,Cleveland,Browns,,17,lose,BAL,Baltimore,Ravens,,24,win
+2010,3,2010-09-26 13:00:00,CIN,Cincinnati,Bengals,,20,win,CAR,Carolina,Panthers,,7,lose
+2010,3,2010-09-26 13:00:00,BUF,Buffalo,Bills,,30,lose,NE,New England,Patriots,,38,win
+2010,3,2010-09-27 20:30:00,GB,Green Bay,Packers,,17,lose,CHI,Chicago,Bears,,20,win
+2010,4,2010-10-03 13:00:00,WAS,Washington,Redskins,,17,win,PHI,Philadelphia,Eagles,,12,lose
+2010,4,2010-10-03 13:00:00,SF,San Francisco,49ers,,14,lose,ATL,Atlanta,Falcons,,16,win
+2010,4,2010-10-03 13:00:00,SEA,Seattle,Seahawks,,3,lose,STL,St. Louis,Rams,,20,win
+2010,4,2010-10-03 13:00:00,BAL,Baltimore,Ravens,,17,win,PIT,Pittsburgh,Steelers,,14,lose
+2010,4,2010-10-03 13:00:00,NYJ,New York,Jets,,38,win,BUF,Buffalo,Bills,,14,lose
+2010,4,2010-10-03 13:00:00,HOU,Houston,Texans,,31,win,OAK,Oakland,Raiders,,24,lose
+2010,4,2010-10-03 13:00:00,DET,Detroit,Lions,,26,lose,GB,Green Bay,Packers,,28,win
+2010,4,2010-10-03 13:00:00,DEN,Denver,Broncos,,26,win,TEN,Tennessee,Titans,,20,lose
+2010,4,2010-10-03 13:00:00,CAR,Carolina,Panthers,,14,lose,NO,New Orleans,Saints,,16,win
+2010,4,2010-10-03 13:00:00,CHI,Chicago,Bears,,3,lose,NYG,New York,Giants,,17,win
+2010,4,2010-10-03 13:00:00,CIN,Cincinnati,Bengals,,20,lose,CLE,Cleveland,Browns,,23,win
+2010,4,2010-10-03 13:00:00,IND,Indianapolis,Colts,,28,lose,JAC,Jacksonville,Jaguars,,31,win
+2010,4,2010-10-03 13:00:00,ARI,Arizona,Cardinals,,10,lose,SD,San Diego,Chargers,,41,win
+2010,4,2010-10-04 20:30:00,NE,New England,Patriots,,41,win,MIA,Miami,Dolphins,,14,lose
+2010,5,2010-10-10 13:00:00,TEN,Tennessee,Titans,,34,win,DAL,Dallas,Cowboys,,27,lose
+2010,5,2010-10-10 13:00:00,NO,New Orleans,Saints,,20,lose,ARI,Arizona,Cardinals,,30,win
+2010,5,2010-10-10 13:00:00,NYG,New York,Giants,,34,win,HOU,Houston,Texans,,10,lose
+2010,5,2010-10-10 13:00:00,PHI,Philadelphia,Eagles,,27,win,SF,San Francisco,49ers,,24,lose
+2010,5,2010-10-10 13:00:00,STL,St. Louis,Rams,,6,lose,DET,Detroit,Lions,,44,win
+2010,5,2010-10-10 13:00:00,SD,San Diego,Chargers,,27,lose,OAK,Oakland,Raiders,,35,win
+2010,5,2010-10-10 13:00:00,TB,Tampa Bay,Buccaneers,,24,win,CIN,Cincinnati,Bengals,,21,lose
+2010,5,2010-10-10 13:00:00,KC,Kansas City,Chiefs,,9,lose,IND,Indianapolis,Colts,,19,win
+2010,5,2010-10-10 13:00:00,JAC,Jacksonville,Jaguars,,36,win,BUF,Buffalo,Bills,,26,lose
+2010,5,2010-10-10 13:00:00,GB,Green Bay,Packers,,13,lose,WAS,Washington,Redskins,,16,win
+2010,5,2010-10-10 13:00:00,DEN,Denver,Broncos,,17,lose,BAL,Baltimore,Ravens,,31,win
+2010,5,2010-10-10 13:00:00,CHI,Chicago,Bears,,23,win,CAR,Carolina,Panthers,,6,lose
+2010,5,2010-10-10 13:00:00,ATL,Atlanta,Falcons,,20,win,CLE,Cleveland,Browns,,10,lose
+2010,5,2010-10-11 20:30:00,MIN,Minnesota,Vikings,,20,lose,NYJ,New York,Jets,,29,win
+2010,6,2010-10-17 13:00:00,BAL,Baltimore,Ravens,,20,lose,NE,New England,Patriots,,23,win
+2010,6,2010-10-17 13:00:00,DAL,Dallas,Cowboys,,21,lose,MIN,Minnesota,Vikings,,24,win
+2010,6,2010-10-17 13:00:00,SEA,Seattle,Seahawks,,23,win,CHI,Chicago,Bears,,20,lose
+2010,6,2010-10-17 13:00:00,SD,San Diego,Chargers,,17,lose,STL,St. Louis,Rams,,20,win
+2010,6,2010-10-17 13:00:00,OAK,Oakland,Raiders,,9,lose,SF,San Francisco,49ers,,17,win
+2010,6,2010-10-17 13:00:00,NYJ,New York,Jets,,24,win,DEN,Denver,Broncos,,20,lose
+2010,6,2010-10-17 13:00:00,NO,New Orleans,Saints,,31,win,TB,Tampa Bay,Buccaneers,,6,lose
+2010,6,2010-10-17 13:00:00,MIA,Miami,Dolphins,,23,win,GB,Green Bay,Packers,,20,lose
+2010,6,2010-10-17 13:00:00,KC,Kansas City,Chiefs,,31,lose,HOU,Houston,Texans,,35,win
+2010,6,2010-10-17 13:00:00,DET,Detroit,Lions,,20,lose,NYG,New York,Giants,,28,win
+2010,6,2010-10-17 13:00:00,ATL,Atlanta,Falcons,,17,lose,PHI,Philadelphia,Eagles,,31,win
+2010,6,2010-10-17 13:00:00,CLE,Cleveland,Browns,,10,lose,PIT,Pittsburgh,Steelers,,28,win
+2010,6,2010-10-17 13:00:00,IND,Indianapolis,Colts,,27,win,WAS,Washington,Redskins,,24,lose
+2010,6,2010-10-18 20:30:00,TEN,Tennessee,Titans,,30,win,JAC,Jacksonville,Jaguars,,3,lose
+2010,7,2010-10-24 13:00:00,ARI,Arizona,Cardinals,,10,lose,SEA,Seattle,Seahawks,,22,win
+2010,7,2010-10-24 13:00:00,PIT,Pittsburgh,Steelers,,23,win,MIA,Miami,Dolphins,,22,lose
+2010,7,2010-10-24 13:00:00,NE,New England,Patriots,,23,win,SD,San Diego,Chargers,,20,lose
+2010,7,2010-10-24 13:00:00,BUF,Buffalo,Bills,,34,lose,BAL,Baltimore,Ravens,,37,win
+2010,7,2010-10-24 13:00:00,SF,San Francisco,49ers,,20,lose,CAR,Carolina,Panthers,,23,win
+2010,7,2010-10-24 13:00:00,STL,St. Louis,Rams,,17,lose,TB,Tampa Bay,Buccaneers,,18,win
+2010,7,2010-10-24 13:00:00,OAK,Oakland,Raiders,,59,win,DEN,Denver,Broncos,,14,lose
+2010,7,2010-10-24 13:00:00,MIN,Minnesota,Vikings,,24,lose,GB,Green Bay,Packers,,28,win
+2010,7,2010-10-24 13:00:00,JAC,Jacksonville,Jaguars,,20,lose,KC,Kansas City,Chiefs,,42,win
+2010,7,2010-10-24 13:00:00,CLE,Cleveland,Browns,,30,win,NO,New Orleans,Saints,,17,lose
+2010,7,2010-10-24 13:00:00,CIN,Cincinnati,Bengals,,32,lose,ATL,Atlanta,Falcons,,39,win
+2010,7,2010-10-24 13:00:00,WAS,Washington,Redskins,,17,win,CHI,Chicago,Bears,,14,lose
+2010,7,2010-10-24 13:00:00,PHI,Philadelphia,Eagles,,19,lose,TEN,Tennessee,Titans,,37,win
+2010,7,2010-10-25 20:30:00,NYG,New York,Giants,,41,win,DAL,Dallas,Cowboys,,35,lose
+2010,8,2010-10-31 13:00:00,TB,Tampa Bay,Buccaneers,,38,win,ARI,Arizona,Cardinals,,35,lose
+2010,8,2010-10-31 13:00:00,WAS,Washington,Redskins,,25,lose,DET,Detroit,Lions,,37,win
+2010,8,2010-10-31 13:00:00,MIN,Minnesota,Vikings,,18,lose,NE,New England,Patriots,,28,win
+2010,8,2010-10-31 13:00:00,MIA,Miami,Dolphins,,22,win,CIN,Cincinnati,Bengals,,14,lose
+2010,8,2010-10-31 13:00:00,JAC,Jacksonville,Jaguars,,35,win,DAL,Dallas,Cowboys,,17,lose
+2010,8,2010-10-31 13:00:00,CAR,Carolina,Panthers,,10,lose,STL,St. Louis,Rams,,20,win
+2010,8,2010-10-31 13:00:00,BUF,Buffalo,Bills,,10,lose,KC,Kansas City,Chiefs,,13,win
+2010,8,2010-10-31 13:00:00,TEN,Tennessee,Titans,,25,lose,SD,San Diego,Chargers,,33,win
+2010,8,2010-10-31 13:00:00,GB,Green Bay,Packers,,9,win,NYJ,New York,Jets,,0,lose
+2010,8,2010-10-31 13:00:00,DEN,Denver,Broncos,,16,lose,SF,San Francisco,49ers,,24,win
+2010,8,2010-10-31 13:00:00,PIT,Pittsburgh,Steelers,,10,lose,NO,New Orleans,Saints,,20,win
+2010,8,2010-10-31 13:00:00,SEA,Seattle,Seahawks,,3,lose,OAK,Oakland,Raiders,,33,win
+2010,8,2010-11-01 20:30:00,HOU,Houston,Texans,,17,lose,IND,Indianapolis,Colts,,30,win
+2010,9,2010-11-07 13:00:00,SD,San Diego,Chargers,,29,win,HOU,Houston,Texans,,23,lose
+2010,9,2010-11-07 13:00:00,TB,Tampa Bay,Buccaneers,,21,lose,ATL,Atlanta,Falcons,,27,win
+2010,9,2010-11-07 13:00:00,NYJ,New York,Jets,,23,win,DET,Detroit,Lions,,20,lose
+2010,9,2010-11-07 13:00:00,NYG,New York,Giants,,41,win,SEA,Seattle,Seahawks,,7,lose
+2010,9,2010-11-07 13:00:00,NE,New England,Patriots,,14,lose,CLE,Cleveland,Browns,,34,win
+2010,9,2010-11-07 13:00:00,NO,New Orleans,Saints,,34,win,CAR,Carolina,Panthers,,3,lose
+2010,9,2010-11-07 13:00:00,CHI,Chicago,Bears,,22,win,BUF,Buffalo,Bills,,19,lose
+2010,9,2010-11-07 13:00:00,IND,Indianapolis,Colts,,24,lose,PHI,Philadelphia,Eagles,,26,win
+2010,9,2010-11-07 13:00:00,ARI,Arizona,Cardinals,,24,lose,MIN,Minnesota,Vikings,,27,win
+2010,9,2010-11-07 13:00:00,DAL,Dallas,Cowboys,,7,lose,GB,Green Bay,Packers,,45,win
+2010,9,2010-11-07 13:00:00,KC,Kansas City,Chiefs,,20,lose,OAK,Oakland,Raiders,,23,win
+2010,9,2010-11-07 13:00:00,MIA,Miami,Dolphins,,10,lose,BAL,Baltimore,Ravens,,26,win
+2010,9,2010-11-08 20:30:00,PIT,Pittsburgh,Steelers,,27,win,CIN,Cincinnati,Bengals,,21,lose
+2010,10,2010-11-11 20:30:00,BAL,Baltimore,Ravens,,21,lose,ATL,Atlanta,Falcons,,26,win
+2010,10,2010-11-14 13:00:00,SEA,Seattle,Seahawks,,36,win,ARI,Arizona,Cardinals,,18,lose
+2010,10,2010-11-14 13:00:00,STL,St. Louis,Rams,,20,lose,SF,San Francisco,49ers,,23,win
+2010,10,2010-11-14 13:00:00,TEN,Tennessee,Titans,,17,lose,MIA,Miami,Dolphins,,29,win
+2010,10,2010-11-14 13:00:00,NYJ,New York,Jets,,26,win,CLE,Cleveland,Browns,,20,lose
+2010,10,2010-11-14 13:00:00,NE,New England,Patriots,,39,win,PIT,Pittsburgh,Steelers,,26,lose
+2010,10,2010-11-14 13:00:00,MIN,Minnesota,Vikings,,13,lose,CHI,Chicago,Bears,,27,win
+2010,10,2010-11-14 13:00:00,KC,Kansas City,Chiefs,,29,lose,DEN,Denver,Broncos,,49,win
+2010,10,2010-11-14 13:00:00,CAR,Carolina,Panthers,,16,lose,TB,Tampa Bay,Buccaneers,,31,win
+2010,10,2010-11-14 13:00:00,CIN,Cincinnati,Bengals,,17,lose,IND,Indianapolis,Colts,,23,win
+2010,10,2010-11-14 13:00:00,DAL,Dallas,Cowboys,,33,win,NYG,New York,Giants,,20,lose
+2010,10,2010-11-14 13:00:00,DET,Detroit,Lions,,12,lose,BUF,Buffalo,Bills,,14,win
+2010,10,2010-11-14 13:00:00,HOU,Houston,Texans,,24,lose,JAC,Jacksonville,Jaguars,,31,win
+2010,10,2010-11-15 20:30:00,PHI,Philadelphia,Eagles,,59,win,WAS,Washington,Redskins,,28,lose
+2010,11,2010-11-18 20:30:00,CHI,Chicago,Bears,,16,win,MIA,Miami,Dolphins,,0,lose
+2010,11,2010-11-21 13:00:00,NYG,New York,Giants,,17,lose,PHI,Philadelphia,Eagles,,27,win
+2010,11,2010-11-21 13:00:00,OAK,Oakland,Raiders,,3,lose,PIT,Pittsburgh,Steelers,,35,win
+2010,11,2010-11-21 13:00:00,BAL,Baltimore,Ravens,,37,win,CAR,Carolina,Panthers,,13,lose
+2010,11,2010-11-21 13:00:00,SEA,Seattle,Seahawks,,19,lose,NO,New Orleans,Saints,,34,win
+2010,11,2010-11-21 13:00:00,TB,Tampa Bay,Buccaneers,,21,win,SF,San Francisco,49ers,,0,lose
+2010,11,2010-11-21 13:00:00,WAS,Washington,Redskins,,19,win,TEN,Tennessee,Titans,,16,lose
+2010,11,2010-11-21 13:00:00,HOU,Houston,Texans,,27,lose,NYJ,New York,Jets,,30,win
+2010,11,2010-11-21 13:00:00,GB,Green Bay,Packers,,31,win,MIN,Minnesota,Vikings,,3,lose
+2010,11,2010-11-21 13:00:00,DET,Detroit,Lions,,19,lose,DAL,Dallas,Cowboys,,35,win
+2010,11,2010-11-21 13:00:00,ARI,Arizona,Cardinals,,13,lose,KC,Kansas City,Chiefs,,31,win
+2010,11,2010-11-21 13:00:00,IND,Indianapolis,Colts,,28,lose,NE,New England,Patriots,,31,win
+2010,11,2010-11-21 13:00:00,CLE,Cleveland,Browns,,20,lose,JAC,Jacksonville,Jaguars,,24,win
+2010,11,2010-11-21 13:00:00,BUF,Buffalo,Bills,,49,win,CIN,Cincinnati,Bengals,,31,lose
+2010,11,2010-11-21 13:00:00,ATL,Atlanta,Falcons,,34,win,STL,St. Louis,Rams,,17,lose
+2010,11,2010-11-22 20:30:00,DEN,Denver,Broncos,,14,lose,SD,San Diego,Chargers,,35,win
+2010,12,2010-11-25 20:30:00,NE,New England,Patriots,,45,win,DET,Detroit,Lions,,24,lose
+2010,12,2010-11-25 20:30:00,NO,New Orleans,Saints,,30,win,DAL,Dallas,Cowboys,,27,lose
+2010,12,2010-11-25 20:30:00,CIN,Cincinnati,Bengals,,10,lose,NYJ,New York,Jets,,26,win
+2010,12,2010-11-28 13:00:00,GB,Green Bay,Packers,,17,lose,ATL,Atlanta,Falcons,,20,win
+2010,12,2010-11-28 13:00:00,TB,Tampa Bay,Buccaneers,,10,lose,BAL,Baltimore,Ravens,,17,win
+2010,12,2010-11-28 13:00:00,SD,San Diego,Chargers,,36,win,IND,Indianapolis,Colts,,14,lose
+2010,12,2010-11-28 13:00:00,STL,St. Louis,Rams,,36,win,DEN,Denver,Broncos,,33,lose
+2010,12,2010-11-28 13:00:00,PIT,Pittsburgh,Steelers,,19,win,BUF,Buffalo,Bills,,16,lose
+2010,12,2010-11-28 13:00:00,PHI,Philadelphia,Eagles,,26,lose,CHI,Chicago,Bears,,31,win
+2010,12,2010-11-28 13:00:00,TEN,Tennessee,Titans,,0,lose,HOU,Houston,Texans,,20,win
+2010,12,2010-11-28 13:00:00,CAR,Carolina,Panthers,,23,lose,CLE,Cleveland,Browns,,24,win
+2010,12,2010-11-28 13:00:00,MIN,Minnesota,Vikings,,17,win,WAS,Washington,Redskins,,13,lose
+2010,12,2010-11-28 13:00:00,MIA,Miami,Dolphins,,33,win,OAK,Oakland,Raiders,,17,lose
+2010,12,2010-11-28 13:00:00,KC,Kansas City,Chiefs,,42,win,SEA,Seattle,Seahawks,,24,lose
+2010,12,2010-11-28 13:00:00,JAC,Jacksonville,Jaguars,,20,lose,NYG,New York,Giants,,24,win
+2010,12,2010-11-29 20:30:00,SF,San Francisco,49ers,,27,win,ARI,Arizona,Cardinals,,6,lose
+2010,13,2010-12-02 20:30:00,HOU,Houston,Texans,,24,lose,PHI,Philadelphia,Eagles,,34,win
+2010,13,2010-12-05 13:00:00,WAS,Washington,Redskins,,7,lose,NYG,New York,Giants,,31,win
+2010,13,2010-12-05 13:00:00,STL,St. Louis,Rams,,19,win,ARI,Arizona,Cardinals,,6,lose
+2010,13,2010-12-05 13:00:00,OAK,Oakland,Raiders,,28,win,SD,San Diego,Chargers,,13,lose
+2010,13,2010-12-05 13:00:00,PIT,Pittsburgh,Steelers,,13,win,BAL,Baltimore,Ravens,,10,lose
+2010,13,2010-12-05 13:00:00,NO,New Orleans,Saints,,34,win,CIN,Cincinnati,Bengals,,30,lose
+2010,13,2010-12-05 13:00:00,JAC,Jacksonville,Jaguars,,17,win,TEN,Tennessee,Titans,,6,lose
+2010,13,2010-12-05 13:00:00,SF,San Francisco,49ers,,16,lose,GB,Green Bay,Packers,,34,win
+2010,13,2010-12-05 13:00:00,DEN,Denver,Broncos,,6,lose,KC,Kansas City,Chiefs,,10,win
+2010,13,2010-12-05 13:00:00,ATL,Atlanta,Falcons,,28,win,TB,Tampa Bay,Buccaneers,,24,lose
+2010,13,2010-12-05 13:00:00,BUF,Buffalo,Bills,,14,lose,MIN,Minnesota,Vikings,,38,win
+2010,13,2010-12-05 13:00:00,CAR,Carolina,Panthers,,14,lose,SEA,Seattle,Seahawks,,31,win
+2010,13,2010-12-05 13:00:00,CHI,Chicago,Bears,,24,win,DET,Detroit,Lions,,20,lose
+2010,13,2010-12-05 13:00:00,CLE,Cleveland,Browns,,13,win,MIA,Miami,Dolphins,,10,lose
+2010,13,2010-12-05 13:00:00,DAL,Dallas,Cowboys,,38,win,IND,Indianapolis,Colts,,35,lose
+2010,13,2010-12-06 20:30:00,NYJ,New York,Jets,,3,lose,NE,New England,Patriots,,45,win
+2010,14,2010-12-09 20:30:00,IND,Indianapolis,Colts,,30,win,TEN,Tennessee,Titans,,28,lose
+2010,14,2010-12-12 13:00:00,PHI,Philadelphia,Eagles,,30,win,DAL,Dallas,Cowboys,,27,lose
+2010,14,2010-12-12 13:00:00,OAK,Oakland,Raiders,,31,lose,JAC,Jacksonville,Jaguars,,38,win
+2010,14,2010-12-12 13:00:00,STL,St. Louis,Rams,,13,lose,NO,New Orleans,Saints,,31,win
+2010,14,2010-12-12 13:00:00,SEA,Seattle,Seahawks,,21,lose,SF,San Francisco,49ers,,40,win
+2010,14,2010-12-12 13:00:00,TB,Tampa Bay,Buccaneers,,17,win,WAS,Washington,Redskins,,16,lose
+2010,14,2010-12-12 13:00:00,NE,New England,Patriots,,36,win,CHI,Chicago,Bears,,7,lose
+2010,14,2010-12-12 13:00:00,MIA,Miami,Dolphins,,10,win,NYJ,New York,Jets,,6,lose
+2010,14,2010-12-12 13:00:00,KC,Kansas City,Chiefs,,0,lose,SD,San Diego,Chargers,,31,win
+2010,14,2010-12-12 13:00:00,ATL,Atlanta,Falcons,,31,win,CAR,Carolina,Panthers,,10,lose
+2010,14,2010-12-12 13:00:00,CIN,Cincinnati,Bengals,,7,lose,PIT,Pittsburgh,Steelers,,23,win
+2010,14,2010-12-12 13:00:00,CLE,Cleveland,Browns,,6,lose,BUF,Buffalo,Bills,,13,win
+2010,14,2010-12-12 13:00:00,DEN,Denver,Broncos,,13,lose,ARI,Arizona,Cardinals,,43,win
+2010,14,2010-12-12 13:00:00,GB,Green Bay,Packers,,3,lose,DET,Detroit,Lions,,7,win
+2010,14,2010-12-13 20:30:00,BAL,Baltimore,Ravens,,34,win,HOU,Houston,Texans,,28,lose
+2010,14,2010-12-13 20:30:00,NYG,New York,Giants,,21,win,MIN,Minnesota,Vikings,,3,lose
+2010,15,2010-12-16 20:30:00,SF,San Francisco,49ers,,7,lose,SD,San Diego,Chargers,,34,win
+2010,15,2010-12-19 13:00:00,JAC,Jacksonville,Jaguars,,24,lose,IND,Indianapolis,Colts,,34,win
+2010,15,2010-12-19 13:00:00,KC,Kansas City,Chiefs,,27,win,STL,St. Louis,Rams,,13,lose
+2010,15,2010-12-19 13:00:00,NO,New Orleans,Saints,,24,lose,BAL,Baltimore,Ravens,,30,win
+2010,15,2010-12-19 13:00:00,NYJ,New York,Jets,,22,win,PIT,Pittsburgh,Steelers,,17,lose
+2010,15,2010-12-19 13:00:00,PHI,Philadelphia,Eagles,,38,win,NYG,New York,Giants,,31,lose
+2010,15,2010-12-19 13:00:00,WAS,Washington,Redskins,,30,lose,DAL,Dallas,Cowboys,,33,win
+2010,15,2010-12-19 13:00:00,HOU,Houston,Texans,,17,lose,TEN,Tennessee,Titans,,31,win
+2010,15,2010-12-19 13:00:00,GB,Green Bay,Packers,,27,lose,NE,New England,Patriots,,31,win
+2010,15,2010-12-19 13:00:00,DET,Detroit,Lions,,23,win,TB,Tampa Bay,Buccaneers,,20,lose
+2010,15,2010-12-19 13:00:00,DEN,Denver,Broncos,,23,lose,OAK,Oakland,Raiders,,39,win
+2010,15,2010-12-19 13:00:00,ARI,Arizona,Cardinals,,12,lose,CAR,Carolina,Panthers,,19,win
+2010,15,2010-12-19 13:00:00,CLE,Cleveland,Browns,,17,lose,CIN,Cincinnati,Bengals,,19,win
+2010,15,2010-12-19 13:00:00,BUF,Buffalo,Bills,,17,win,MIA,Miami,Dolphins,,14,lose
+2010,15,2010-12-19 13:00:00,ATL,Atlanta,Falcons,,34,win,SEA,Seattle,Seahawks,,18,lose
+2010,15,2010-12-20 20:30:00,CHI,Chicago,Bears,,40,win,MIN,Minnesota,Vikings,,14,lose
+2010,16,2010-12-23 20:30:00,CAR,Carolina,Panthers,,3,lose,PIT,Pittsburgh,Steelers,,27,win
+2010,16,2010-12-25 13:00:00,DAL,Dallas,Cowboys,,26,lose,ARI,Arizona,Cardinals,,27,win
+2010,16,2010-12-26 13:00:00,WAS,Washington,Redskins,,20,win,JAC,Jacksonville,Jaguars,,17,lose
+2010,16,2010-12-26 13:00:00,SF,San Francisco,49ers,,17,lose,STL,St. Louis,Rams,,25,win
+2010,16,2010-12-26 13:00:00,SEA,Seattle,Seahawks,,15,lose,TB,Tampa Bay,Buccaneers,,38,win
+2010,16,2010-12-26 13:00:00,SD,San Diego,Chargers,,20,lose,CIN,Cincinnati,Bengals,,34,win
+2010,16,2010-12-26 13:00:00,BAL,Baltimore,Ravens,,20,win,CLE,Cleveland,Browns,,10,lose
+2010,16,2010-12-26 13:00:00,TEN,Tennessee,Titans,,14,lose,KC,Kansas City,Chiefs,,34,win
+2010,16,2010-12-26 13:00:00,NYJ,New York,Jets,,34,lose,CHI,Chicago,Bears,,38,win
+2010,16,2010-12-26 13:00:00,NYG,New York,Giants,,17,lose,GB,Green Bay,Packers,,45,win
+2010,16,2010-12-26 13:00:00,IND,Indianapolis,Colts,,31,win,OAK,Oakland,Raiders,,26,lose
+2010,16,2010-12-26 13:00:00,DET,Detroit,Lions,,34,win,MIA,Miami,Dolphins,,27,lose
+2010,16,2010-12-26 13:00:00,HOU,Houston,Texans,,23,lose,DEN,Denver,Broncos,,24,win
+2010,16,2010-12-26 13:00:00,NE,New England,Patriots,,34,win,BUF,Buffalo,Bills,,3,lose
+2010,16,2010-12-27 20:30:00,NO,New Orleans,Saints,,17,win,ATL,Atlanta,Falcons,,14,lose
+2010,16,2010-12-28 20:30:00,MIN,Minnesota,Vikings,,24,win,PHI,Philadelphia,Eagles,,14,lose
+2010,17,2010-01-02 13:00:00,NYG,New York,Giants,,17,win,WAS,Washington,Redskins,,14,lose
+2010,17,2010-01-02 13:00:00,TEN,Tennessee,Titans,,20,lose,IND,Indianapolis,Colts,,23,win
+2010,17,2010-01-02 13:00:00,PIT,Pittsburgh,Steelers,,41,win,CLE,Cleveland,Browns,,9,lose
+2010,17,2010-01-02 13:00:00,OAK,Oakland,Raiders,,31,win,KC,Kansas City,Chiefs,,10,lose
+2010,17,2010-01-02 13:00:00,STL,St. Louis,Rams,,6,lose,SEA,Seattle,Seahawks,,16,win
+2010,17,2010-01-02 13:00:00,SD,San Diego,Chargers,,33,win,DEN,Denver,Broncos,,28,lose
+2010,17,2010-01-02 13:00:00,TB,Tampa Bay,Buccaneers,,23,win,NO,New Orleans,Saints,,13,lose
+2010,17,2010-01-02 13:00:00,MIN,Minnesota,Vikings,,13,lose,DET,Detroit,Lions,,20,win
+2010,17,2010-01-02 13:00:00,MIA,Miami,Dolphins,,7,lose,NE,New England,Patriots,,38,win
+2010,17,2010-01-02 13:00:00,BUF,Buffalo,Bills,,7,lose,NYJ,New York,Jets,,38,win
+2010,17,2010-01-02 13:00:00,CAR,Carolina,Panthers,,10,lose,ATL,Atlanta,Falcons,,31,win
+2010,17,2010-01-02 13:00:00,CHI,Chicago,Bears,,3,lose,GB,Green Bay,Packers,,10,win
+2010,17,2010-01-02 13:00:00,CIN,Cincinnati,Bengals,,7,lose,BAL,Baltimore,Ravens,,13,win
+2010,17,2010-01-02 13:00:00,ARI,Arizona,Cardinals,,7,lose,SF,San Francisco,49ers,,38,win
+2010,17,2010-01-02 13:00:00,DAL,Dallas,Cowboys,,14,win,PHI,Philadelphia,Eagles,,13,lose
+2010,17,2010-01-02 13:00:00,JAC,Jacksonville,Jaguars,,17,lose,HOU,Houston,Texans,,34,win

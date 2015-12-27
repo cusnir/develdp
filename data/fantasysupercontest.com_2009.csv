@@ -1,0 +1,257 @@
+year,week,game_time,away_team,away_city,away_name,away_line,away_score,away_ats_result,home_team,home_city,home_name,home_line,home_score,home_ats_result
+2009,1,2009-09-10 20:30:00,TEN,Tennessee,Titans,,10,lose,PIT,Pittsburgh,Steelers,,13,win
+2009,1,2009-09-13 13:00:00,NYJ,New York,Jets,,24,win,HOU,Houston,Texans,,7,lose
+2009,1,2009-09-13 13:00:00,WAS,Washington,Redskins,,17,lose,NYG,New York,Giants,,23,win
+2009,1,2009-09-13 13:00:00,SF,San Francisco,49ers,,20,win,ARI,Arizona,Cardinals,,16,lose
+2009,1,2009-09-13 13:00:00,STL,St. Louis,Rams,,0,lose,SEA,Seattle,Seahawks,,28,win
+2009,1,2009-09-13 13:00:00,PHI,Philadelphia,Eagles,,38,win,CAR,Carolina,Panthers,,10,lose
+2009,1,2009-09-13 13:00:00,MIN,Minnesota,Vikings,,34,win,CLE,Cleveland,Browns,,20,lose
+2009,1,2009-09-13 13:00:00,MIA,Miami,Dolphins,,7,lose,ATL,Atlanta,Falcons,,19,win
+2009,1,2009-09-13 13:00:00,KC,Kansas City,Chiefs,,24,lose,BAL,Baltimore,Ravens,,38,win
+2009,1,2009-09-13 13:00:00,CHI,Chicago,Bears,,15,lose,GB,Green Bay,Packers,,21,win
+2009,1,2009-09-13 13:00:00,JAC,Jacksonville,Jaguars,,12,lose,IND,Indianapolis,Colts,,14,win
+2009,1,2009-09-13 13:00:00,DET,Detroit,Lions,,27,lose,NO,New Orleans,Saints,,45,win
+2009,1,2009-09-13 13:00:00,DEN,Denver,Broncos,,12,win,CIN,Cincinnati,Bengals,,7,lose
+2009,1,2009-09-13 13:00:00,DAL,Dallas,Cowboys,,34,win,TB,Tampa Bay,Buccaneers,,21,lose
+2009,1,2009-09-14 20:30:00,SD,San Diego,Chargers,,24,win,OAK,Oakland,Raiders,,20,lose
+2009,1,2009-09-14 20:30:00,BUF,Buffalo,Bills,,24,lose,NE,New England,Patriots,,25,win
+2009,2,2009-09-20 13:00:00,NYG,New York,Giants,,33,win,DAL,Dallas,Cowboys,,31,lose
+2009,2,2009-09-20 13:00:00,PIT,Pittsburgh,Steelers,,14,lose,CHI,Chicago,Bears,,17,win
+2009,2,2009-09-20 13:00:00,OAK,Oakland,Raiders,,13,win,KC,Kansas City,Chiefs,,10,lose
+2009,2,2009-09-20 13:00:00,STL,St. Louis,Rams,,7,lose,WAS,Washington,Redskins,,9,win
+2009,2,2009-09-20 13:00:00,BAL,Baltimore,Ravens,,31,win,SD,San Diego,Chargers,,26,lose
+2009,2,2009-09-20 13:00:00,SEA,Seattle,Seahawks,,10,lose,SF,San Francisco,49ers,,23,win
+2009,2,2009-09-20 13:00:00,TB,Tampa Bay,Buccaneers,,20,lose,BUF,Buffalo,Bills,,33,win
+2009,2,2009-09-20 13:00:00,NE,New England,Patriots,,9,lose,NYJ,New York,Jets,,16,win
+2009,2,2009-09-20 13:00:00,NO,New Orleans,Saints,,48,win,PHI,Philadelphia,Eagles,,22,lose
+2009,2,2009-09-20 13:00:00,CAR,Carolina,Panthers,,20,lose,ATL,Atlanta,Falcons,,28,win
+2009,2,2009-09-20 13:00:00,CIN,Cincinnati,Bengals,,31,win,GB,Green Bay,Packers,,24,lose
+2009,2,2009-09-20 13:00:00,CLE,Cleveland,Browns,,6,lose,DEN,Denver,Broncos,,27,win
+2009,2,2009-09-20 13:00:00,ARI,Arizona,Cardinals,,31,win,JAC,Jacksonville,Jaguars,,17,lose
+2009,2,2009-09-20 13:00:00,HOU,Houston,Texans,,34,win,TEN,Tennessee,Titans,,31,lose
+2009,2,2009-09-20 13:00:00,MIN,Minnesota,Vikings,,27,win,DET,Detroit,Lions,,13,lose
+2009,2,2009-09-21 20:30:00,IND,Indianapolis,Colts,,27,win,MIA,Miami,Dolphins,,23,lose
+2009,3,2009-09-27 13:00:00,MIA,Miami,Dolphins,,13,lose,SD,San Diego,Chargers,,23,win
+2009,3,2009-09-27 13:00:00,NO,New Orleans,Saints,,27,win,BUF,Buffalo,Bills,,7,lose
+2009,3,2009-09-27 13:00:00,NYG,New York,Giants,,24,win,TB,Tampa Bay,Buccaneers,,0,lose
+2009,3,2009-09-27 13:00:00,TEN,Tennessee,Titans,,17,lose,NYJ,New York,Jets,,24,win
+2009,3,2009-09-27 13:00:00,PIT,Pittsburgh,Steelers,,20,lose,CIN,Cincinnati,Bengals,,23,win
+2009,3,2009-09-27 13:00:00,SF,San Francisco,49ers,,24,lose,MIN,Minnesota,Vikings,,27,win
+2009,3,2009-09-27 13:00:00,WAS,Washington,Redskins,,14,lose,DET,Detroit,Lions,,19,win
+2009,3,2009-09-27 13:00:00,KC,Kansas City,Chiefs,,14,lose,PHI,Philadelphia,Eagles,,34,win
+2009,3,2009-09-27 13:00:00,JAC,Jacksonville,Jaguars,,31,win,HOU,Houston,Texans,,24,lose
+2009,3,2009-09-27 13:00:00,ATL,Atlanta,Falcons,,10,lose,NE,New England,Patriots,,26,win
+2009,3,2009-09-27 13:00:00,CHI,Chicago,Bears,,25,win,SEA,Seattle,Seahawks,,19,lose
+2009,3,2009-09-27 13:00:00,CLE,Cleveland,Browns,,3,lose,BAL,Baltimore,Ravens,,34,win
+2009,3,2009-09-27 13:00:00,IND,Indianapolis,Colts,,31,win,ARI,Arizona,Cardinals,,10,lose
+2009,3,2009-09-27 13:00:00,DEN,Denver,Broncos,,23,win,OAK,Oakland,Raiders,,3,lose
+2009,3,2009-09-27 13:00:00,GB,Green Bay,Packers,,36,win,STL,St. Louis,Rams,,17,lose
+2009,3,2009-09-28 20:30:00,CAR,Carolina,Panthers,,7,lose,DAL,Dallas,Cowboys,,21,win
+2009,4,2009-10-04 13:00:00,TEN,Tennessee,Titans,,17,lose,JAC,Jacksonville,Jaguars,,37,win
+2009,4,2009-10-04 13:00:00,OAK,Oakland,Raiders,,6,lose,HOU,Houston,Texans,,29,win
+2009,4,2009-10-04 13:00:00,STL,St. Louis,Rams,,0,lose,SF,San Francisco,49ers,,35,win
+2009,4,2009-10-04 13:00:00,BAL,Baltimore,Ravens,,21,lose,NE,New England,Patriots,,27,win
+2009,4,2009-10-04 13:00:00,SD,San Diego,Chargers,,28,lose,PIT,Pittsburgh,Steelers,,38,win
+2009,4,2009-10-04 13:00:00,TB,Tampa Bay,Buccaneers,,13,lose,WAS,Washington,Redskins,,16,win
+2009,4,2009-10-04 13:00:00,NYJ,New York,Jets,,10,lose,NO,New Orleans,Saints,,24,win
+2009,4,2009-10-04 13:00:00,NYG,New York,Giants,,27,win,KC,Kansas City,Chiefs,,16,lose
+2009,4,2009-10-04 13:00:00,SEA,Seattle,Seahawks,,17,lose,IND,Indianapolis,Colts,,34,win
+2009,4,2009-10-04 13:00:00,DET,Detroit,Lions,,24,lose,CHI,Chicago,Bears,,48,win
+2009,4,2009-10-04 13:00:00,DAL,Dallas,Cowboys,,10,lose,DEN,Denver,Broncos,,17,win
+2009,4,2009-10-04 13:00:00,CIN,Cincinnati,Bengals,,23,win,CLE,Cleveland,Browns,,20,lose
+2009,4,2009-10-04 13:00:00,BUF,Buffalo,Bills,,10,lose,MIA,Miami,Dolphins,,38,win
+2009,4,2009-10-05 20:30:00,GB,Green Bay,Packers,,23,lose,MIN,Minnesota,Vikings,,30,win
+2009,5,2009-10-11 13:00:00,HOU,Houston,Texans,,21,lose,ARI,Arizona,Cardinals,,28,win
+2009,5,2009-10-11 13:00:00,WAS,Washington,Redskins,,17,lose,CAR,Carolina,Panthers,,20,win
+2009,5,2009-10-11 13:00:00,TB,Tampa Bay,Buccaneers,,14,lose,PHI,Philadelphia,Eagles,,33,win
+2009,5,2009-10-11 13:00:00,ATL,Atlanta,Falcons,,45,win,SF,San Francisco,49ers,,10,lose
+2009,5,2009-10-11 13:00:00,OAK,Oakland,Raiders,,7,lose,NYG,New York,Giants,,44,win
+2009,5,2009-10-11 13:00:00,PIT,Pittsburgh,Steelers,,28,win,DET,Detroit,Lions,,20,lose
+2009,5,2009-10-11 13:00:00,NE,New England,Patriots,,17,lose,DEN,Denver,Broncos,,20,win
+2009,5,2009-10-11 13:00:00,MIN,Minnesota,Vikings,,38,win,STL,St. Louis,Rams,,10,lose
+2009,5,2009-10-11 13:00:00,JAC,Jacksonville,Jaguars,,0,lose,SEA,Seattle,Seahawks,,41,win
+2009,5,2009-10-11 13:00:00,DAL,Dallas,Cowboys,,26,win,KC,Kansas City,Chiefs,,20,lose
+2009,5,2009-10-11 13:00:00,IND,Indianapolis,Colts,,31,win,TEN,Tennessee,Titans,,9,lose
+2009,5,2009-10-11 13:00:00,CLE,Cleveland,Browns,,6,win,BUF,Buffalo,Bills,,3,lose
+2009,5,2009-10-11 13:00:00,CIN,Cincinnati,Bengals,,17,win,BAL,Baltimore,Ravens,,14,lose
+2009,5,2009-10-12 20:30:00,NYJ,New York,Jets,,27,lose,MIA,Miami,Dolphins,,31,win
+2009,6,2009-10-18 13:00:00,ARI,Arizona,Cardinals,,27,win,SEA,Seattle,Seahawks,,3,lose
+2009,6,2009-10-18 13:00:00,CAR,Carolina,Panthers,,28,win,TB,Tampa Bay,Buccaneers,,21,lose
+2009,6,2009-10-18 13:00:00,CHI,Chicago,Bears,,14,lose,ATL,Atlanta,Falcons,,21,win
+2009,6,2009-10-18 13:00:00,PHI,Philadelphia,Eagles,,9,lose,OAK,Oakland,Raiders,,13,win
+2009,6,2009-10-18 13:00:00,NYG,New York,Giants,,27,lose,NO,New Orleans,Saints,,48,win
+2009,6,2009-10-18 13:00:00,BAL,Baltimore,Ravens,,31,lose,MIN,Minnesota,Vikings,,33,win
+2009,6,2009-10-18 13:00:00,STL,St. Louis,Rams,,20,lose,JAC,Jacksonville,Jaguars,,23,win
+2009,6,2009-10-18 13:00:00,TEN,Tennessee,Titans,,0,lose,NE,New England,Patriots,,59,win
+2009,6,2009-10-18 13:00:00,KC,Kansas City,Chiefs,,14,win,WAS,Washington,Redskins,,6,lose
+2009,6,2009-10-18 13:00:00,HOU,Houston,Texans,,28,win,CIN,Cincinnati,Bengals,,17,lose
+2009,6,2009-10-18 13:00:00,DET,Detroit,Lions,,0,lose,GB,Green Bay,Packers,,26,win
+2009,6,2009-10-18 13:00:00,BUF,Buffalo,Bills,,16,win,NYJ,New York,Jets,,13,lose
+2009,6,2009-10-18 13:00:00,CLE,Cleveland,Browns,,14,lose,PIT,Pittsburgh,Steelers,,27,win
+2009,6,2009-10-19 20:30:00,DEN,Denver,Broncos,,34,win,SD,San Diego,Chargers,,23,lose
+2009,7,2009-10-25 13:00:00,ATL,Atlanta,Falcons,,21,lose,DAL,Dallas,Cowboys,,37,win
+2009,7,2009-10-25 13:00:00,CHI,Chicago,Bears,,10,lose,CIN,Cincinnati,Bengals,,45,win
+2009,7,2009-10-25 13:00:00,NO,New Orleans,Saints,,46,win,MIA,Miami,Dolphins,,34,lose
+2009,7,2009-10-25 13:00:00,IND,Indianapolis,Colts,,42,win,STL,St. Louis,Rams,,6,lose
+2009,7,2009-10-25 13:00:00,ARI,Arizona,Cardinals,,24,win,NYG,New York,Giants,,17,lose
+2009,7,2009-10-25 13:00:00,NYJ,New York,Jets,,38,win,OAK,Oakland,Raiders,,0,lose
+2009,7,2009-10-25 13:00:00,GB,Green Bay,Packers,,31,win,CLE,Cleveland,Browns,,3,lose
+2009,7,2009-10-25 13:00:00,SD,San Diego,Chargers,,37,win,KC,Kansas City,Chiefs,,7,lose
+2009,7,2009-10-25 13:00:00,SF,San Francisco,49ers,,21,lose,HOU,Houston,Texans,,24,win
+2009,7,2009-10-25 13:00:00,BUF,Buffalo,Bills,,20,win,CAR,Carolina,Panthers,,9,lose
+2009,7,2009-10-25 13:00:00,MIN,Minnesota,Vikings,,17,lose,PIT,Pittsburgh,Steelers,,27,win
+2009,7,2009-10-25 13:00:00,NE,New England,Patriots,,35,win,TB,Tampa Bay,Buccaneers,,7,lose
+2009,7,2009-10-26 20:30:00,PHI,Philadelphia,Eagles,,27,win,WAS,Washington,Redskins,,17,lose
+2009,8,2009-11-01 13:00:00,SEA,Seattle,Seahawks,,17,lose,DAL,Dallas,Cowboys,,38,win
+2009,8,2009-11-01 13:00:00,STL,St. Louis,Rams,,17,win,DET,Detroit,Lions,,10,lose
+2009,8,2009-11-01 13:00:00,MIN,Minnesota,Vikings,,38,win,GB,Green Bay,Packers,,26,lose
+2009,8,2009-11-01 13:00:00,SF,San Francisco,49ers,,14,lose,IND,Indianapolis,Colts,,18,win
+2009,8,2009-11-01 13:00:00,CAR,Carolina,Panthers,,34,win,ARI,Arizona,Cardinals,,21,lose
+2009,8,2009-11-01 13:00:00,CLE,Cleveland,Browns,,6,lose,CHI,Chicago,Bears,,30,win
+2009,8,2009-11-01 13:00:00,DEN,Denver,Broncos,,7,lose,BAL,Baltimore,Ravens,,30,win
+2009,8,2009-11-01 13:00:00,JAC,Jacksonville,Jaguars,,13,lose,TEN,Tennessee,Titans,,30,win
+2009,8,2009-11-01 13:00:00,MIA,Miami,Dolphins,,30,win,NYJ,New York,Jets,,25,lose
+2009,8,2009-11-01 13:00:00,HOU,Houston,Texans,,31,win,BUF,Buffalo,Bills,,10,lose
+2009,8,2009-11-01 13:00:00,NYG,New York,Giants,,17,lose,PHI,Philadelphia,Eagles,,40,win
+2009,8,2009-11-01 13:00:00,OAK,Oakland,Raiders,,16,lose,SD,San Diego,Chargers,,24,win
+2009,8,2009-11-02 20:30:00,ATL,Atlanta,Falcons,,27,lose,NO,New Orleans,Saints,,35,win
+2009,9,2009-11-08 13:00:00,TEN,Tennessee,Titans,,34,win,SF,San Francisco,49ers,,27,lose
+2009,9,2009-11-08 13:00:00,BAL,Baltimore,Ravens,,7,lose,CIN,Cincinnati,Bengals,,17,win
+2009,9,2009-11-08 13:00:00,WAS,Washington,Redskins,,17,lose,ATL,Atlanta,Falcons,,31,win
+2009,9,2009-11-08 13:00:00,MIA,Miami,Dolphins,,17,lose,NE,New England,Patriots,,27,win
+2009,9,2009-11-08 13:00:00,KC,Kansas City,Chiefs,,21,lose,JAC,Jacksonville,Jaguars,,24,win
+2009,9,2009-11-08 13:00:00,HOU,Houston,Texans,,17,lose,IND,Indianapolis,Colts,,20,win
+2009,9,2009-11-08 13:00:00,CAR,Carolina,Panthers,,20,lose,NO,New Orleans,Saints,,30,win
+2009,9,2009-11-08 13:00:00,ARI,Arizona,Cardinals,,41,win,CHI,Chicago,Bears,,21,lose
+2009,9,2009-11-08 13:00:00,DAL,Dallas,Cowboys,,20,win,PHI,Philadelphia,Eagles,,16,lose
+2009,9,2009-11-08 13:00:00,DET,Detroit,Lions,,20,lose,SEA,Seattle,Seahawks,,32,win
+2009,9,2009-11-08 13:00:00,GB,Green Bay,Packers,,28,lose,TB,Tampa Bay,Buccaneers,,38,win
+2009,9,2009-11-08 13:00:00,SD,San Diego,Chargers,,21,win,NYG,New York,Giants,,20,lose
+2009,9,2009-11-09 20:30:00,PIT,Pittsburgh,Steelers,,28,win,DEN,Denver,Broncos,,10,lose
+2009,10,2009-11-12 20:30:00,CHI,Chicago,Bears,,6,lose,SF,San Francisco,49ers,,10,win
+2009,10,2009-11-15 13:00:00,NO,New Orleans,Saints,,28,win,STL,St. Louis,Rams,,23,lose
+2009,10,2009-11-15 13:00:00,NE,New England,Patriots,,34,lose,IND,Indianapolis,Colts,,35,win
+2009,10,2009-11-15 13:00:00,PHI,Philadelphia,Eagles,,23,lose,SD,San Diego,Chargers,,31,win
+2009,10,2009-11-15 13:00:00,SEA,Seattle,Seahawks,,20,lose,ARI,Arizona,Cardinals,,31,win
+2009,10,2009-11-15 13:00:00,TB,Tampa Bay,Buccaneers,,23,lose,MIA,Miami,Dolphins,,25,win
+2009,10,2009-11-15 13:00:00,KC,Kansas City,Chiefs,,16,win,OAK,Oakland,Raiders,,10,lose
+2009,10,2009-11-15 13:00:00,JAC,Jacksonville,Jaguars,,24,win,NYJ,New York,Jets,,22,lose
+2009,10,2009-11-15 13:00:00,ATL,Atlanta,Falcons,,19,lose,CAR,Carolina,Panthers,,28,win
+2009,10,2009-11-15 13:00:00,BUF,Buffalo,Bills,,17,lose,TEN,Tennessee,Titans,,41,win
+2009,10,2009-11-15 13:00:00,CIN,Cincinnati,Bengals,,18,win,PIT,Pittsburgh,Steelers,,12,lose
+2009,10,2009-11-15 13:00:00,DAL,Dallas,Cowboys,,7,lose,GB,Green Bay,Packers,,17,win
+2009,10,2009-11-15 13:00:00,DEN,Denver,Broncos,,17,lose,WAS,Washington,Redskins,,27,win
+2009,10,2009-11-15 13:00:00,DET,Detroit,Lions,,10,lose,MIN,Minnesota,Vikings,,27,win
+2009,10,2009-11-16 20:30:00,BAL,Baltimore,Ravens,,16,win,CLE,Cleveland,Browns,,0,lose
+2009,11,2009-11-19 20:30:00,MIA,Miami,Dolphins,,24,win,CAR,Carolina,Panthers,,17,lose
+2009,11,2009-11-22 13:00:00,PHI,Philadelphia,Eagles,,24,win,CHI,Chicago,Bears,,20,lose
+2009,11,2009-11-22 13:00:00,PIT,Pittsburgh,Steelers,,24,lose,KC,Kansas City,Chiefs,,27,win
+2009,11,2009-11-22 13:00:00,SD,San Diego,Chargers,,32,win,DEN,Denver,Broncos,,3,lose
+2009,11,2009-11-22 13:00:00,SEA,Seattle,Seahawks,,9,lose,MIN,Minnesota,Vikings,,35,win
+2009,11,2009-11-22 13:00:00,SF,San Francisco,49ers,,24,lose,GB,Green Bay,Packers,,30,win
+2009,11,2009-11-22 13:00:00,WAS,Washington,Redskins,,6,lose,DAL,Dallas,Cowboys,,7,win
+2009,11,2009-11-22 13:00:00,NYJ,New York,Jets,,14,lose,NE,New England,Patriots,,31,win
+2009,11,2009-11-22 13:00:00,NO,New Orleans,Saints,,38,win,TB,Tampa Bay,Buccaneers,,7,lose
+2009,11,2009-11-22 13:00:00,ATL,Atlanta,Falcons,,31,lose,NYG,New York,Giants,,34,win
+2009,11,2009-11-22 13:00:00,BUF,Buffalo,Bills,,15,lose,JAC,Jacksonville,Jaguars,,18,win
+2009,11,2009-11-22 13:00:00,CIN,Cincinnati,Bengals,,17,lose,OAK,Oakland,Raiders,,20,win
+2009,11,2009-11-22 13:00:00,CLE,Cleveland,Browns,,37,lose,DET,Detroit,Lions,,38,win
+2009,11,2009-11-22 13:00:00,IND,Indianapolis,Colts,,17,win,BAL,Baltimore,Ravens,,15,lose
+2009,11,2009-11-22 13:00:00,ARI,Arizona,Cardinals,,21,win,STL,St. Louis,Rams,,13,lose
+2009,11,2009-11-23 20:30:00,TEN,Tennessee,Titans,,20,win,HOU,Houston,Texans,,17,lose
+2009,12,2009-11-26 20:30:00,NYG,New York,Giants,,6,lose,DEN,Denver,Broncos,,26,win
+2009,12,2009-11-26 20:30:00,GB,Green Bay,Packers,,34,win,DET,Detroit,Lions,,12,lose
+2009,12,2009-11-26 20:30:00,OAK,Oakland,Raiders,,7,lose,DAL,Dallas,Cowboys,,24,win
+2009,12,2009-11-29 13:00:00,PIT,Pittsburgh,Steelers,,17,lose,BAL,Baltimore,Ravens,,20,win
+2009,12,2009-11-29 13:00:00,SEA,Seattle,Seahawks,,27,win,STL,St. Louis,Rams,,17,lose
+2009,12,2009-11-29 13:00:00,TB,Tampa Bay,Buccaneers,,17,lose,ATL,Atlanta,Falcons,,20,win
+2009,12,2009-11-29 13:00:00,WAS,Washington,Redskins,,24,lose,PHI,Philadelphia,Eagles,,27,win
+2009,12,2009-11-29 13:00:00,MIA,Miami,Dolphins,,14,lose,BUF,Buffalo,Bills,,31,win
+2009,12,2009-11-29 13:00:00,KC,Kansas City,Chiefs,,14,lose,SD,San Diego,Chargers,,43,win
+2009,12,2009-11-29 13:00:00,JAC,Jacksonville,Jaguars,,3,lose,SF,San Francisco,49ers,,20,win
+2009,12,2009-11-29 13:00:00,ARI,Arizona,Cardinals,,17,lose,TEN,Tennessee,Titans,,20,win
+2009,12,2009-11-29 13:00:00,IND,Indianapolis,Colts,,35,win,HOU,Houston,Texans,,27,lose
+2009,12,2009-11-29 13:00:00,CLE,Cleveland,Browns,,7,lose,CIN,Cincinnati,Bengals,,16,win
+2009,12,2009-11-29 13:00:00,CHI,Chicago,Bears,,10,lose,MIN,Minnesota,Vikings,,36,win
+2009,12,2009-11-29 13:00:00,CAR,Carolina,Panthers,,6,lose,NYJ,New York,Jets,,17,win
+2009,12,2009-11-30 20:30:00,NE,New England,Patriots,,17,lose,NO,New Orleans,Saints,,38,win
+2009,13,2009-12-03 20:30:00,NYJ,New York,Jets,,19,win,BUF,Buffalo,Bills,,13,lose
+2009,13,2009-12-06 13:00:00,SF,San Francisco,49ers,,17,lose,SEA,Seattle,Seahawks,,20,win
+2009,13,2009-12-06 13:00:00,SD,San Diego,Chargers,,30,win,CLE,Cleveland,Browns,,23,lose
+2009,13,2009-12-06 13:00:00,STL,St. Louis,Rams,,9,lose,CHI,Chicago,Bears,,17,win
+2009,13,2009-12-06 13:00:00,OAK,Oakland,Raiders,,27,win,PIT,Pittsburgh,Steelers,,24,lose
+2009,13,2009-12-06 13:00:00,PHI,Philadelphia,Eagles,,34,win,ATL,Atlanta,Falcons,,7,lose
+2009,13,2009-12-06 13:00:00,TEN,Tennessee,Titans,,17,lose,IND,Indianapolis,Colts,,27,win
+2009,13,2009-12-06 13:00:00,TB,Tampa Bay,Buccaneers,,6,lose,CAR,Carolina,Panthers,,16,win
+2009,13,2009-12-06 13:00:00,NE,New England,Patriots,,21,lose,MIA,Miami,Dolphins,,22,win
+2009,13,2009-12-06 13:00:00,DAL,Dallas,Cowboys,,24,lose,NYG,New York,Giants,,31,win
+2009,13,2009-12-06 13:00:00,DEN,Denver,Broncos,,44,win,KC,Kansas City,Chiefs,,13,lose
+2009,13,2009-12-06 13:00:00,DET,Detroit,Lions,,13,lose,CIN,Cincinnati,Bengals,,23,win
+2009,13,2009-12-06 13:00:00,HOU,Houston,Texans,,18,lose,JAC,Jacksonville,Jaguars,,23,win
+2009,13,2009-12-06 13:00:00,MIN,Minnesota,Vikings,,17,lose,ARI,Arizona,Cardinals,,30,win
+2009,13,2009-12-06 13:00:00,NO,New Orleans,Saints,,33,win,WAS,Washington,Redskins,,30,lose
+2009,13,2009-12-07 20:30:00,BAL,Baltimore,Ravens,,14,lose,GB,Green Bay,Packers,,27,win
+2009,14,2009-12-10 20:30:00,PIT,Pittsburgh,Steelers,,6,lose,CLE,Cleveland,Browns,,13,win
+2009,14,2009-12-13 13:00:00,NYJ,New York,Jets,,26,win,TB,Tampa Bay,Buccaneers,,3,lose
+2009,14,2009-12-13 13:00:00,PHI,Philadelphia,Eagles,,45,win,NYG,New York,Giants,,38,lose
+2009,14,2009-12-13 13:00:00,STL,St. Louis,Rams,,7,lose,TEN,Tennessee,Titans,,47,win
+2009,14,2009-12-13 13:00:00,SD,San Diego,Chargers,,20,win,DAL,Dallas,Cowboys,,17,lose
+2009,14,2009-12-13 13:00:00,SEA,Seattle,Seahawks,,7,lose,HOU,Houston,Texans,,34,win
+2009,14,2009-12-13 13:00:00,WAS,Washington,Redskins,,34,win,OAK,Oakland,Raiders,,13,lose
+2009,14,2009-12-13 13:00:00,NO,New Orleans,Saints,,26,win,ATL,Atlanta,Falcons,,23,lose
+2009,14,2009-12-13 13:00:00,MIA,Miami,Dolphins,,14,win,JAC,Jacksonville,Jaguars,,10,lose
+2009,14,2009-12-13 13:00:00,BUF,Buffalo,Bills,,16,win,KC,Kansas City,Chiefs,,10,lose
+2009,14,2009-12-13 13:00:00,CAR,Carolina,Panthers,,10,lose,NE,New England,Patriots,,20,win
+2009,14,2009-12-13 13:00:00,CIN,Cincinnati,Bengals,,10,lose,MIN,Minnesota,Vikings,,30,win
+2009,14,2009-12-13 13:00:00,DEN,Denver,Broncos,,16,lose,IND,Indianapolis,Colts,,28,win
+2009,14,2009-12-13 13:00:00,DET,Detroit,Lions,,3,lose,BAL,Baltimore,Ravens,,48,win
+2009,14,2009-12-13 13:00:00,GB,Green Bay,Packers,,21,win,CHI,Chicago,Bears,,14,lose
+2009,14,2009-12-14 20:30:00,ARI,Arizona,Cardinals,,9,lose,SF,San Francisco,49ers,,24,win
+2009,15,2009-12-17 20:30:00,IND,Indianapolis,Colts,,35,win,JAC,Jacksonville,Jaguars,,0,lose
+2009,15,2009-12-19 13:00:00,DAL,Dallas,Cowboys,,24,win,NO,New Orleans,Saints,,17,lose
+2009,15,2009-12-20 13:00:00,MIN,Minnesota,Vikings,,7,lose,CAR,Carolina,Panthers,,26,win
+2009,15,2009-12-20 13:00:00,NE,New England,Patriots,,17,win,BUF,Buffalo,Bills,,10,lose
+2009,15,2009-12-20 13:00:00,OAK,Oakland,Raiders,,20,win,DEN,Denver,Broncos,,19,lose
+2009,15,2009-12-20 13:00:00,SF,San Francisco,49ers,,13,lose,PHI,Philadelphia,Eagles,,27,win
+2009,15,2009-12-20 13:00:00,TB,Tampa Bay,Buccaneers,,24,win,SEA,Seattle,Seahawks,,7,lose
+2009,15,2009-12-20 13:00:00,MIA,Miami,Dolphins,,24,lose,TEN,Tennessee,Titans,,27,win
+2009,15,2009-12-20 13:00:00,HOU,Houston,Texans,,16,win,STL,St. Louis,Rams,,13,lose
+2009,15,2009-12-20 13:00:00,GB,Green Bay,Packers,,36,lose,PIT,Pittsburgh,Steelers,,37,win
+2009,15,2009-12-20 13:00:00,ATL,Atlanta,Falcons,,10,win,NYJ,New York,Jets,,7,lose
+2009,15,2009-12-20 13:00:00,CHI,Chicago,Bears,,7,lose,BAL,Baltimore,Ravens,,31,win
+2009,15,2009-12-20 13:00:00,CIN,Cincinnati,Bengals,,24,lose,SD,San Diego,Chargers,,27,win
+2009,15,2009-12-20 13:00:00,CLE,Cleveland,Browns,,41,win,KC,Kansas City,Chiefs,,34,lose
+2009,15,2009-12-20 13:00:00,ARI,Arizona,Cardinals,,31,win,DET,Detroit,Lions,,24,lose
+2009,15,2009-12-21 20:30:00,NYG,New York,Giants,,45,win,WAS,Washington,Redskins,,12,lose
+2009,16,2009-12-25 13:00:00,SD,San Diego,Chargers,,42,win,TEN,Tennessee,Titans,,17,lose
+2009,16,2009-12-27 13:00:00,OAK,Oakland,Raiders,,9,lose,CLE,Cleveland,Browns,,23,win
+2009,16,2009-12-27 13:00:00,STL,St. Louis,Rams,,10,lose,ARI,Arizona,Cardinals,,31,win
+2009,16,2009-12-27 13:00:00,BAL,Baltimore,Ravens,,20,lose,PIT,Pittsburgh,Steelers,,23,win
+2009,16,2009-12-27 13:00:00,SEA,Seattle,Seahawks,,10,lose,GB,Green Bay,Packers,,48,win
+2009,16,2009-12-27 13:00:00,TB,Tampa Bay,Buccaneers,,20,win,NO,New Orleans,Saints,,17,lose
+2009,16,2009-12-27 13:00:00,NYJ,New York,Jets,,29,win,IND,Indianapolis,Colts,,15,lose
+2009,16,2009-12-27 13:00:00,KC,Kansas City,Chiefs,,10,lose,CIN,Cincinnati,Bengals,,17,win
+2009,16,2009-12-27 13:00:00,DAL,Dallas,Cowboys,,17,win,WAS,Washington,Redskins,,0,lose
+2009,16,2009-12-27 13:00:00,JAC,Jacksonville,Jaguars,,7,lose,NE,New England,Patriots,,35,win
+2009,16,2009-12-27 13:00:00,HOU,Houston,Texans,,27,win,MIA,Miami,Dolphins,,20,lose
+2009,16,2009-12-27 13:00:00,DET,Detroit,Lions,,6,lose,SF,San Francisco,49ers,,20,win
+2009,16,2009-12-27 13:00:00,DEN,Denver,Broncos,,27,lose,PHI,Philadelphia,Eagles,,30,win
+2009,16,2009-12-27 13:00:00,BUF,Buffalo,Bills,,3,lose,ATL,Atlanta,Falcons,,31,win
+2009,16,2009-12-27 13:00:00,CAR,Carolina,Panthers,,41,win,NYG,New York,Giants,,9,lose
+2009,16,2009-12-28 20:30:00,MIN,Minnesota,Vikings,,30,lose,CHI,Chicago,Bears,,36,win
+2009,17,2009-01-03 13:00:00,NYG,New York,Giants,,7,lose,MIN,Minnesota,Vikings,,44,win
+2009,17,2009-01-03 13:00:00,TEN,Tennessee,Titans,,17,win,SEA,Seattle,Seahawks,,13,lose
+2009,17,2009-01-03 13:00:00,PHI,Philadelphia,Eagles,,0,lose,DAL,Dallas,Cowboys,,24,win
+2009,17,2009-01-03 13:00:00,PIT,Pittsburgh,Steelers,,30,win,MIA,Miami,Dolphins,,24,lose
+2009,17,2009-01-03 13:00:00,BAL,Baltimore,Ravens,,21,win,OAK,Oakland,Raiders,,13,lose
+2009,17,2009-01-03 13:00:00,SF,San Francisco,49ers,,28,win,STL,St. Louis,Rams,,6,lose
+2009,17,2009-01-03 13:00:00,WAS,Washington,Redskins,,20,lose,SD,San Diego,Chargers,,23,win
+2009,17,2009-01-03 13:00:00,NE,New England,Patriots,,27,lose,HOU,Houston,Texans,,34,win
+2009,17,2009-01-03 13:00:00,NO,New Orleans,Saints,,10,lose,CAR,Carolina,Panthers,,23,win
+2009,17,2009-01-03 13:00:00,KC,Kansas City,Chiefs,,44,win,DEN,Denver,Broncos,,24,lose
+2009,17,2009-01-03 13:00:00,JAC,Jacksonville,Jaguars,,17,lose,CLE,Cleveland,Browns,,23,win
+2009,17,2009-01-03 13:00:00,GB,Green Bay,Packers,,33,win,ARI,Arizona,Cardinals,,7,lose
+2009,17,2009-01-03 13:00:00,IND,Indianapolis,Colts,,7,lose,BUF,Buffalo,Bills,,30,win
+2009,17,2009-01-03 13:00:00,CIN,Cincinnati,Bengals,,0,lose,NYJ,New York,Jets,,37,win
+2009,17,2009-01-03 13:00:00,CHI,Chicago,Bears,,37,win,DET,Detroit,Lions,,23,lose
+2009,17,2009-01-03 13:00:00,ATL,Atlanta,Falcons,,20,win,TB,Tampa Bay,Buccaneers,,10,lose
