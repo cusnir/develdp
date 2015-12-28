@@ -38,12 +38,11 @@ shinyServer(function(input, output) {
     output$team_stats <- renderDataTable({teamStatsTable()}, options = list(orderClasses = TRUE, pageLength = 10))
     
          output$plot_cum <- renderPlot({
-             ggplot(data = teamScoresTop(), aes(x = year, y = score_cumulative, col = levels(teamScoresTop()$team_name))) +
+             ggplot(data = teamScoresTop(), aes(x = year, y = score_cumulative, col = team_name)) +
                  geom_point() + geom_line() +
                  geom_text(colour = "black", size = 3,
                            aes(label = score_cumulative, hjust = 0.5, vjust = 1.5)) +
                  ggtitle("Cumulative score by year") +
-                 #scale_fill_discrete(name = "Title", breaks = levels(teamScoresTop()$team_name)) +
                  theme_gray(base_family = "Avenir", base_size = 18) +
                  xlab("") + ylab("Cumulative score for teams by year")
          }, height = 600)
