@@ -3,20 +3,25 @@ Using NFL team scores web app
 author: Andrei Cușnir
 date: December 27, 2015
 
+
 Info about NFL team scores app
 ========================================================
+type: sub-section
 
-This app was intended to present some summaries and stats built upon NFL league games data that were downloaded from
+This app accessible at https://andreik3.shinyapps.io/DevelopingDP
+was intended to present some summaries and stats built upon NFL league games data that were downloaded from
 https://fantasysupercontest.com/nfl-lines-2015-week-1
 It gives statistics per given period such as number of wins, losses, pushes and total score over a period, which may be usefull.
 
 Building graphical data
 ========================================================
+type: sub-section
 
 We can build graphs that will show what are top performers by year or for a period of years.
 
 Reading table stats
 ========================================================
+type: sub-section
 
 Summary table show top teams with cumulative team score, cumulative number of wins losses and pushes for choosed years,
 you can also do a quick search on top right by entering search key words, or bellow of the table a column based search.
@@ -25,6 +30,7 @@ it can be used to get more detailed information about a team or any other info y
 
 TODOS
 ========================================================
+type: sub-section
 
 Due to lack of time a very limited set of features was built.
 We can add here such features as:
