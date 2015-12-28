@@ -19,6 +19,8 @@ type: sub-section
 
 We can build graphs that will show what are top performers by year or for a period of years.
 
+
+![plot of chunk unnamed-chunk-2](README-figure/unnamed-chunk-2-1.png) 
 Reading table stats
 ========================================================
 type: sub-section

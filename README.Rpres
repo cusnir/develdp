@@ -3,7 +3,24 @@ Using NFL team scores web app
 author: Andrei Cușnir
 date: December 27, 2015
 
+```{r, echo=FALSE}
+library(ggplot2)
+library(gtable)
+library(gridExtra)
 
+source('helpers.R')
+if (!file.exists("data/stats_all.txt")) {
+    stats_all <- data_frame()
+    for(i in seq(2008, 2015)){
+        stats_all <- bind_rows(stats_all, process_csv(i))
+    }
+    write.table(stats_all, file = "data/stats_all.txt", row.name=FALSE)
+}
+
+stats_all <- read.table("data/stats_all.txt", header = TRUE)
+stats_all <- as.tbl(stats_all)
+team_scores_cum_top <- create_top_stats(stats_all, 2008, 2015, 3)
+```
 Info about NFL team scores app
 ========================================================
 type: sub-section
@@ -19,6 +36,35 @@ type: sub-section
 
 We can build graphs that will show what are top performers by year or for a period of years.
 
+
+```{r,echo=FALSE}
+p1 <- ggplot(data = team_scores_cum_top, aes(x = year, y = score_cumulative, col = team_name)) +
+                 geom_point() + geom_line() +
+                 geom_text(colour = "black", size = 3,
+                           aes(label = score_cumulative, hjust = 0.5, vjust = 1.5)) +
+                 ggtitle("Cumulative score by year") +
+                 theme_gray(base_family = "Avenir", base_size = 18) +
+                 xlab("") + ylab("Cumulative score for teams by year")
+
+p2 <- ggplot(data = team_scores_cum_top, aes(x = year, y = team_score, col = team_name)) +
+                 geom_point() + geom_line() +
+                 geom_text(colour = "black", size = 3,
+                           aes(label = team_score, hjust = 0.5, vjust = 1.5)) +
+                 ggtitle("Score by year") +
+                 theme_gray(base_family = "Avenir", base_size = 18) +
+                 xlab("") + ylab("Score for teams by year")
+# Get the gtables
+gA <- ggplotGrob(p1)
+gB <- ggplotGrob(p2)
+# Set the widths
+gA$widths <- gB$widths
+
+# Arrange the two charts.
+# The legend boxes are centered
+grid.newpage()
+grid.arrange(gA, gB, nrow = 2)
+
+```
 Reading table stats
 ========================================================
 type: sub-section
